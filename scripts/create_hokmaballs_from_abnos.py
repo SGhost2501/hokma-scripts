@@ -6,6 +6,11 @@ from collections import defaultdict
 # Directory containing source text files
 SOURCE_DIR = 'abnormalities list'
 
+# Files that contain meta instructions rather than in-universe text
+IGNORE_FILES = {
+    'Hokma_LLM_Master_Summary.txt',
+}
+
 # Themes and simple keywords for rough categorization
 THEMES = ['advice', 'edge', 'meme', 'refusal', 'philosophy']
 KEYWORDS = {
@@ -28,6 +33,23 @@ KEYWORDS = {
     # advice is default
 }
 
+# Skip lines containing these phrases or symbols
+IGNORE_PHRASES = [
+    'training data progress',
+    'next steps',
+    'created by chatgpt',
+    'model:',
+    'jsonl',
+    'target:',
+    'goal:',
+    'master summary',
+    'project',
+    'mistral-7b',
+    '🔄',
+    '✅',
+    '🛠',
+]
+
 def categorize(text: str) -> str:
     l = text.lower()
     for theme, words in KEYWORDS.items():
@@ -39,9 +61,16 @@ def categorize(text: str) -> str:
 MAX_OUTPUTS = None
 MAX_INPUTS = None
 
+# Maximum length of a single sentence to keep
+MAX_LEN = 300
+
 def clean_line(text: str) -> str:
     text = re.sub(r"\s+", " ", text.strip())
     return text
+
+def split_sentences(text: str):
+    parts = re.split(r"(?<=[.!?])\s+", text)
+    return [p.strip() for p in parts if p.strip()]
 
 def is_question(text: str) -> bool:
     if text.endswith("?"):
@@ -59,28 +88,35 @@ def gather_lines():
         for theme in THEMES
     }
     for path in sorted(glob.glob(os.path.join(SOURCE_DIR, '*.txt'))):
+        fname = os.path.basename(path)
+        if fname in IGNORE_FILES:
+            continue
         with open(path, encoding='utf-8', errors='ignore') as f:
             for raw in f:
                 line = clean_line(raw)
                 if not line or line.startswith('>'):
                     continue
-                if len(line) < 3 or len(line) > 200:
+                lowered = line.lower()
+                if any(p in lowered for p in IGNORE_PHRASES):
                     continue
-                theme = categorize(line)
-                if is_question(line):
-                    if (
-                        (MAX_INPUTS is None or len(data[theme]['inputs']) < MAX_INPUTS)
-                        and line not in data[theme]['i_set']
-                    ):
-                        data[theme]['inputs'].append(line)
-                        data[theme]['i_set'].add(line)
-                else:
-                    if (
-                        (MAX_OUTPUTS is None or len(data[theme]['outputs']) < MAX_OUTPUTS)
-                        and line not in data[theme]['o_set']
-                    ):
-                        data[theme]['outputs'].append(line)
-                        data[theme]['o_set'].add(line)
+                for sentence in split_sentences(line):
+                    if len(sentence) < 3 or len(sentence) > MAX_LEN:
+                        continue
+                    theme = categorize(sentence)
+                    if is_question(sentence):
+                        if (
+                            (MAX_INPUTS is None or len(data[theme]['inputs']) < MAX_INPUTS)
+                            and sentence not in data[theme]['i_set']
+                        ):
+                            data[theme]['inputs'].append(sentence)
+                            data[theme]['i_set'].add(sentence)
+                    else:
+                        if (
+                            (MAX_OUTPUTS is None or len(data[theme]['outputs']) < MAX_OUTPUTS)
+                            and sentence not in data[theme]['o_set']
+                        ):
+                            data[theme]['outputs'].append(sentence)
+                            data[theme]['o_set'].add(sentence)
     # Remove helper sets
     for theme in THEMES:
         data[theme].pop('i_set')

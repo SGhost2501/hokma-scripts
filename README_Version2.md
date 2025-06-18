@@ -14,9 +14,8 @@ This toolkit processes, cleans, audits, and refines LLM prompt/response template
 ```sh
 python scripts/create_hokmaballs_from_abnos.py
 ```
-- The script gathers as many unique lines as it can from the source files. Some
-  themes may end up with fewer entries if the raw text does not include many
-  matching lines.
+- The script splits paragraphs into individual sentences and filters out meta
+  notes. Some themes may end up with fewer entries if the source text is sparse.
 
 ---
 

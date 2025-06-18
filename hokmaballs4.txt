@@ -1,12 +1,64 @@
 ========================
 REFUSAL – AUTO (outputs)
 ========================
-After each Qliphoth Meltdown: All employees in the facility are healed to their Max HP and SP. Employees still cannot be healed from any other sources, even Main Rooms, except from Army in Black.
+A flow that we cannot go against dictates us.
+After completing the day, Hod will reward the player with these permanent upgrades: All newly contracted employees will have their stats at Level 3, and the relevant department ( Training Team) won't be affected by Qliphoth Meltdowns.
+After completing the day, Malkuth will reward the player with these permanent upgrades: Higher LOB payout for each completed workday, all employees have a higher Movement Speed, and the relevant department ( Control Team) won't be influenced by Qliphoth Meltdowns.
+After completing the day, Tiphereth will reward the player with these permanent upgrades: The base number of managerial bullets is increased by 30%, the Pale Shield Bullet is unlocked, and the relevant department ( Central Command Team) won't be affected by Qliphoth Meltdowns.
+After completing the day, Yesod will reward the player with these permanent upgrades: 25% increase in Unique PE-BOX gains from Abnormalities, and the relevant department ( Information Team) won't be affected by Qliphoth Meltdowns.
+Alternatively, the Abnormality is dependent on the perception of others, desiring to obtain a proper form or identity through observing or being observed by human beings, and/or being denied personhood (ex.
+Angela asks if Hokma is implying that she cannot escape from Carmen.
+Angela finds it unfortunate that she can't taste the tea, and Chesed also acknowledges that the five of them are not completely comfortable with each other, but Hod acknowledges it is remarkable that they are still able to meet up and appreciate the atmosphere.
+Angela rejects this gesture, ordering him to go back to sorting books.
+Clinging on to it further would only make me seem pathetic… Although seonbae didn’t decline my confession outright, it felt safer to think of it as a refusal so I wouldn’t get my head in the clouds and make another attempt at it.
+Copying the seal is a complicated process, and not many know how; even if they overcame those hurdles, they still cannot outsmart the Prescripts.
+Currently undergoing rapid decline as a result of multiple scandals.
+Distressed by the extremes Ayin was going to, Benjamin pleaded with him to stop, ultimately abandoning him when he refused.
+Employees cannot be healed from any sources except at the start of each Qliphoth Meltdown (Netzach).
+Employees still cannot be healed from any other sources, even Main Rooms, except from Army in Black.
+Even if I were to define my love, this wouldn’t come across as a sweet story if you cannot understand it.
+For that reason, it is impossible for a pure being untainted by knowledge to see the world as we mistakenly observe it, in the same way they cannot discern the end point of a line or tell between blue and red.
+Getting a rejection from them basically means they see the weapon as something that shouldn’t be used in this City.
+He had no talent, he refused to take modification procedures, all he armed himself with was a tiny weapon.
+He muses about being denied "something of [his] own," but concedes that he likes drinking with others (though he is indifferent to the prospect of drinking with Hokma).
+Hokma counters that he is not the only one blind with faith here, though Roland believes that he cannot possibly be worse than the patron librarian.
+Hokma replies that, though she is a copy of Carmen, she cannot ever be the same being as her.
+I cannot give out a clear answer, for I can’t dare define what love is.
+I denied its claim at the start.
+I just cannot understand that they would see this as a solely philosophical issue.
+I knew we weren’t in the position to refuse it.
+I was in no way a soft person, though I don’t view myself as particularly tough or rugged, either.
+If the Sephirah Core Suppresions in the corresponding days are not completed, the player can't progress any further through the Trials and will be forced to reset back to day 1.
+In fact, the more well-doing Wings are only very good at obfuscating it so an ordinary Nest citizen won't notice or get involved in anything awful.
+In other words, we don’t participate in a war that cannot be won.
 Includes object-like Abnormalities that cannot breach containment and can be interacted with to benefit the facility in varying results.
+It's just that the structure of a Wing makes it so you can't treat its ills just by rising to the top and fixing its problems that way.
+It’s still within their choice to decline the Prescript’s offer.
+I’d have refused to believe it was you, if it weren’t for the clothes.
 Level 1+: The recovery system from the Main Rooms visibly moves slower and employees cannot be healed from any sources except at the start of each Qliphoth Meltdown and from Army in Black.
-There are also entities called Ordeals, which are similar in nature to Abnormalities, but cannot be contained. These creatures randomly appear in-game during certain Qliphoth Meltdown events.
-There cannot be a good reason for me to take your life, no. I am merely in a hurry to end this work.
-“ Singularities are manifested day after day. Everything changes in the blink of an eye. The Wings and the Head control this world, and now humanity cannot live without their constraints. ”
+Loophole Abuse: While K Corp employees can be provided healing ampules injected by deployed robots in combat situations, they'll be denied if they are not sufficiently injured.
+Netzach starts to explain himself; Roland tries to stop him, but Yesod refuses to let it go unexplained.
+Notably for a Taboo, it's actually surprisingly lenient, as long as you were born a human, you won't break it even if you transform into an Abnormality or a Distortion.
+She hopes they won't see each other very often, as they will only hurt each other.
+She states that she and the Sephirot are creations of the Light, and therefore cannot exist outside of the Library.
+Surprised, Angela asks who these people would be, only for Hokma to state that this is something they cannot know at this time.
+That means they can't even publicly use it for anything else because doing so would reveal the horrifying secret of their trains.
+The Prescripts are a predetermined path; there is no point for Proselytes to refuse any.
+The Wings and the Head control this world, and now humanity cannot live without their constraints.
+The Wings regularly tax their feathers (separately from the taxes the Head imposes on all residents of the City), and those who cannot pay their taxes are evicted as punishment.
+The contents of a Prescript range from ordinary tasks to things that cannot be carried out in relatively normal (in terms of morality) means… The arrant variety and creativity of the Prescripts will make you wonder just what goes on in the head of the person responsible for writing them.
+The minimum stats cannot be reduced to lower than 10.
+The player can't do anything else.
+There are also entities called Ordeals, which are similar in nature to Abnormalities, but cannot be contained.
+There cannot be a good reason for me to take your life, no.
+There was no way they could be real.
+They have hidden HP bars which are still in the realistic takedown range (550HP for each unit), but you cannot drop their HP below 1.
+They move slowly and cannot be damaged, often burrowing and appearing in other part of the facility.
+This recovery is limited to once a day for each Agent, and the relevant department ( Welfare Team) won't be affected by Qliphoth Meltdowns.
+Without faith, one cannot proceed.
+You cannot defy the orders no matter how baffling it may seem.
+healing bullets produce cannot be argued with - they're vital to rescuing favorite employees in Lobotomy Corporation thanks to on-the-spot healing being able to be deployed in the middle of a suppression, and thanks to them the City has infinite food supplies.
+won't or can't stop them out of business interests.
 
 ========================
 REFUSAL – AUTO (inputs)
