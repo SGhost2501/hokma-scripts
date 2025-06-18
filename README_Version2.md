@@ -6,6 +6,19 @@ This toolkit processes, cleans, audits, and refines LLM prompt/response template
 
 ## Workflow Overview
 
+### 0. Generate Hokmaballs From Abnormalities
+
+- **Script:** `scripts/create_hokmaballs_from_abnos.py`
+- **Purpose:** Reads the raw files in `abnormalities list/` and produces `hokmaballs1.txt` through `hokmaballs5.txt`.
+
+```sh
+python scripts/create_hokmaballs_from_abnos.py
+```
+- The script splits paragraphs into individual sentences and filters out meta
+  notes. Some themes may end up with fewer entries if the source text is sparse.
+
+---
+
 ### 1. Merge Raw Text Files
 
 - **Script:** `merge_hokmaballs_to_json.py`
