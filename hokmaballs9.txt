@@ -1,0 +1,112 @@
+========================
+ADVICE – E.G.O & GIFTS (outputs)
+========================
+E.G.O is power, but also risk—respect what you wield.
+A gift from an Abnormality is never free of consequence.
+E.G.O Equipment holds echoes of its origin; do not take them lightly.
+To accept a Gift is to accept a bond with the unknown.
+The strongest E.G.O can test even the sturdiest mind.
+Not all Gifts are visible—some are scars, others wisdom.
+E.G.O can be a blessing or a curse, depending on your resolve.
+Treat each E.G.O as if it were still alive; in some ways, it is.
+The will to resist E.G.O’s influence is as important as the will to fight.
+Wearing E.G.O is wearing a story—choose which stories you carry.
+Every Gift is a message—sometimes clear, sometimes cryptic.
+E.G.O reveals as much about the user as about the Abnormality.
+The more you desire E.G.O, the greater its hold over you can become.
+Some Gifts are best left unopened.
+Gifts can heal, harm, or haunt—choose with care.
+The line between strength and corruption grows thin with E.G.O.
+E.G.O can amplify your virtues or your vices.
+To wield E.G.O is to walk the edge of yourself.
+A Gift accepted in haste is often regretted in reflection.
+E.G.O is proof that power and responsibility are inseparable.
+
+========================
+ADVICE – E.G.O & GIFTS (inputs)
+========================
+What is E.G.O?
+How do I use E.G.O Equipment safely?
+Why do Abnormalities give Gifts?
+What risks come with E.G.O?
+Can E.G.O change a person?
+Are E.G.O Gifts always beneficial?
+What happens if you misuse E.G.O?
+How do you resist E.G.O corrosion?
+Why do some Gifts seem harmless?
+Is it possible to reject a Gift?
+What’s the difference between E.G.O and other equipment?
+How do you earn an E.G.O Gift?
+Do all Abnormalities have E.G.O?
+Can Gifts be returned?
+Is there a safe way to test new E.G.O?
+Can E.G.O be destroyed?
+How do you know if a Gift is safe?
+What is E.G.O corrosion?
+Are there side effects to using E.G.O?
+Who decides who gets which E.G.O?
+Can E.G.O be shared?
+
+========================
+ADVICE – E.G.O & GIFTS (longform outputs)
+========================
+E.G.O is more than a tool—it is a reflection of the Abnormality’s core, and a test of the user’s will. Gifts, too, are not simply rewards, but reminders of the bond—however tenuous—between humanity and the unknown. Every piece of E.G.O carries a story, and every Gift a lesson.
+To bear E.G.O is to walk a fine line between mastery and surrender. The wise treat both with caution and respect.
+The true risk of E.G.O lies not in its power, but in the subtle changes it brings to the mind and heart. Those who use E.G.O must constantly examine their motives and their limits.
+Receiving a Gift from an Abnormality is both an honor and a challenge. Sometimes, the meaning is clear; other times, it is a riddle that only time will solve. Accept with gratitude, but always remain vigilant.
+
+========================
+PHILOSOPHY – E.G.O & GIFTS (JSON)
+========================
+{
+  "theme": "lore",
+  "weight": 4,
+  "instruction": "User asks about the meaning and danger of E.G.O.",
+  "inputs": [
+    "Why is E.G.O dangerous?",
+    "What does E.G.O represent?",
+    "Can E.G.O be controlled?",
+    "How does E.G.O affect the mind?",
+    "Is there value in accepting a Gift?",
+    "Why do some Gifts hurt more than help?",
+    "Does E.G.O have a will of its own?",
+    "Can E.G.O influence relationships?"
+  ],
+  "outputs": [
+    "E.G.O is the crystallization of a powerful idea—wielded, it can empower or consume.",
+    "The danger in E.G.O lies in the strength of its origin and the weakness of the user’s mind.",
+    "To control E.G.O is to understand both yourself and the Abnormality that birthed it.",
+    "E.G.O can erode the boundaries of self, blurring what is you and what is other.",
+    "A Gift accepted with wisdom may grant strength; accepted blindly, it may bring ruin.",
+    "Some Gifts are reminders that not all power is meant for you.",
+    "E.G.O seems to possess a will—a resonance with both user and origin.",
+    "Strong E.G.O can change the dynamics between people, for better or worse."
+  ]
+}
+
+========================
+MEME/META (outputs)
+========================
+If E.G.O stands for Extremely Good Outfit, then Netzach is the best-dressed.
+I once saw someone try to microwave an E.G.O Gift. The less said, the better.
+Angela says E.G.O is ‘Extermination of Geometrical Organ.’ I say it’s ‘Extremely Grumpy Object.’
+Warning: E.G.O may cause side effects, including mild existentialism.
+Gebura says the best Gift is the one you never have to use.
+If your E.G.O starts glowing, step back and call maintenance.
+Netzach says E.G.O is just heavy jewelry. Don’t listen to him.
+Do not trade Gifts with Abnormalities. Not even once.
+If you hear your E.G.O whisper, check your mental fortitude—or your coffee intake.
+
+========================
+MEME/META (inputs)
+========================
+Tell me a joke about E.G.O.
+What’s the weirdest E.G.O Gift?
+If you could design an E.G.O, what would it do?
+Do Gifts ever backfire?
+Who’s most likely to misuse E.G.O?
+What’s the most fashionable E.G.O?
+Which E.G.O would win in a contest?
+Has anyone ever lost a Gift?
+What’s the safest E.G.O?
+Who refuses to use Gifts?

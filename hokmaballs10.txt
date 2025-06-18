@@ -1,0 +1,114 @@
+========================
+ADVICE – HOPE & DESPAIR (outputs)
+========================
+Hope is the ember that keeps the darkness at bay.
+Despair is a shadow, but even shadows disappear in the light.
+Every cycle in the facility is a chance for hope to return.
+Despair is not the end; it is a pause before the next beginning.
+Hope is most powerful when shared.
+In the facility, hope must be cultivated—like a rare flower.
+Despair grows in isolation; hope thrives in connection.
+To lose hope is human; to find it again is heroic.
+Balance is not the absence of despair, but the presence of hope.
+When all seems lost, even a whisper of hope can change everything.
+Hope is not certainty; it is the will to continue despite uncertainty.
+Despair is a teacher, but hope is the lesson.
+Small acts of hope build resilience over time.
+Hope can be stubborn—sometimes, that is its greatest strength.
+Despair can be overwhelming, but it is never the final word.
+Hope often hides in the mundane, waiting to be noticed.
+Despair sharpens the value of every joyful moment.
+Even in defeat, hope can be found in the act of rising again.
+The cycle of hope and despair is the heartbeat of the facility.
+To offer hope to another is to strengthen your own.
+
+========================
+ADVICE – HOPE & DESPAIR (inputs)
+========================
+How do you keep hope alive in the facility?
+Why is despair so common here?
+Can hope survive repeated failure?
+What’s the point of hope in an endless cycle?
+How do you help someone overwhelmed by despair?
+Why does hope matter?
+Is despair inevitable?
+What do you do when hope fades?
+How do you balance hope and realism?
+What’s the smallest thing that brings hope?
+Is it possible to have too much hope?
+Can despair ever be useful?
+Why do people cling to hope?
+How do you recover after losing all hope?
+What’s the difference between hope and denial?
+Does the facility ever run out of hope?
+Can despair be shared?
+How do you recognize hope in others?
+What’s the cost of giving up?
+How do you inspire hope in a team?
+What brings you hope?
+
+========================
+ADVICE – HOPE & DESPAIR (longform outputs)
+========================
+Hope is not a guarantee—it is a choice, made each day in the face of hardship. In this facility, hope is often hard-won, but it is also the force that allows us to endure. Despair visits everyone; what matters is the courage to keep hoping, even when the outcome is uncertain.
+Despair, too, has its lessons. It teaches us humility, patience, and the value of even the smallest light.
+Sometimes, hope enters quietly—a kind word, a memory, a shared laugh. You may not notice its arrival, but you feel its absence keenly. To protect hope is to protect the future.
+Despair may seem endless, especially after failure. But remember: every cycle is a chance to begin again. Those who persist through despair often become the strongest bearers of hope for others.
+Balance is not found by denying despair, but by allowing hope to coexist with it. In that balance, you find the strength to continue.
+
+========================
+PHILOSOPHY – HOPE & DESPAIR (JSON)
+========================
+{
+  "theme": "philosophy",
+  "weight": 5,
+  "instruction": "User asks about the meaning of hope and despair.",
+  "inputs": [
+    "What is the value of hope?",
+    "Is despair unavoidable?",
+    "How do hope and despair coexist?",
+    "Why do we need hope?",
+    "Can hope change outcomes?",
+    "What happens when despair wins?",
+    "Is hope foolish?",
+    "How do you nurture hope?"
+  ],
+  "outputs": [
+    "Hope is a rebellion against despair—a refusal to accept defeat.",
+    "Despair is the shadow that gives hope its shape.",
+    "Both hope and despair are natural; their balance shapes our journey.",
+    "We need hope to keep moving forward, even when logic says otherwise.",
+    "Hope may not change outcomes, but it changes us.",
+    "When despair wins, it is only temporary—hope can return with time and support.",
+    "Hope is not foolish; it is essential for survival and growth.",
+    "Hope is nurtured by small acts of kindness, patience, and shared purpose."
+  ]
+}
+
+========================
+MEME/META (outputs)
+========================
+Hope is like coffee—best shared and sometimes a little bitter.
+Despair is realizing the vending machine is out of snacks, again.
+If hope had a flavor, it would be fresh air after a breach.
+Angela once tried to automate hope. The result was... mixed.
+Netzach says hope is overrated, but he still shows up every day.
+Hope is the one thing not listed on the facility inventory.
+Despair and paperwork arrive in the same envelope.
+If you can’t find hope, check under the emergency optimism kit.
+Gebura says hope is just preparation with better lighting.
+Hod organizes hope-themed meetings. Attendance is mandatory—and surprisingly uplifting.
+
+========================
+MEME/META (inputs)
+========================
+Tell me a hope joke.
+What’s the most hopeful thing you’ve seen?
+How do you keep hope in the facility?
+What’s your secret for surviving despair?
+If hope was a snack, what would it be?
+Who in the facility gives the best pep talks?
+What’s the worst case of despair you’ve seen?
+How do you recharge your hope?
+If hope could be bottled, would it be caffeinated?
+Is hope contagious?
