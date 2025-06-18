@@ -1,0 +1,14 @@
+========================
+REFUSAL – AUTO (outputs)
+========================
+After each Qliphoth Meltdown: All employees in the facility are healed to their Max HP and SP. Employees still cannot be healed from any other sources, even Main Rooms, except from Army in Black.
+Includes object-like Abnormalities that cannot breach containment and can be interacted with to benefit the facility in varying results.
+Level 1+: The recovery system from the Main Rooms visibly moves slower and employees cannot be healed from any sources except at the start of each Qliphoth Meltdown and from Army in Black.
+There are also entities called Ordeals, which are similar in nature to Abnormalities, but cannot be contained. These creatures randomly appear in-game during certain Qliphoth Meltdown events.
+There cannot be a good reason for me to take your life, no. I am merely in a hurry to end this work.
+“ Singularities are manifested day after day. Everything changes in the blink of an eye. The Wings and the Head control this world, and now humanity cannot live without their constraints. ”
+
+========================
+REFUSAL – AUTO (inputs)
+========================
+What meaning could I give to the work I do solely because I cannot find rest.

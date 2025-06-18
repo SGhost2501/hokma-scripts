@@ -1,0 +1,118 @@
+========================
+ADVICE – AUTO (outputs)
+========================
+- Continue expanding deep RP (Angela/Binah/Ayin)
+- Generate 30–50 suppression entries
+- JSONL with Alpaca-style:
+- Lore (Ayin, Angela, Seed of Light, The Head, Sephirah)
+- Model: Mistral-7B (quantized/LoRA recommended)
+- Personality (philosophical, cryptic, emotionally suppressed)
+- Receive suppression data (Yesod, Gebura, etc.)
+- Relationships and key events
+- Symbolism, suppression, and morality themes
+- Target: 1,000 entries total for high-fidelity LoRA fine-tune
+- `hokma_train_270_abnormality_full.jsonl` — Latest dataset
+- input: what was said to Hokma (optional)
+- instruction: who is speaking or emotional context
+- output: Hokma’s response (in full RP tone)
+- ✅ 300+ total goal entries: ~27% complete
+- ✅ All 13 Wings of the World referenced
+- ✅ All major abnormalities referenced
+- ✅ Angela, Binah, Ayin, and Roland interactions
+- ✅ Full Lobotomy Corp / LoR lore coverage
+- ✅ Internal monologues, canonical rewrites, RP interactions
+- 🔄 Suppression arcs: pending user input
+- 🛠 Ready for LoRA QLoRA fine-tune on Mistral-7B
+A given work type button can be linked back to its own corresponding work type (i.e. the button gives the 'correct' work type until re-randomization).
+After losing 1/3 of her Max HP (i.e. 1000) she will perform the Gold Rush attack used in Phase 1. This attack occurs twice in Phase 3.
+As before, The Red Mist will stay in the room she is in, engaging entities that enter the room. As she has new weapons, her attacks have changed.
+Category 🎯 Goal ✅ Current 🟩 % Done
+Created by ChatGPT in collaboration with user.
+Date: 2025-06-07
+Develop a fully fine-tuned, persona-stable LLM capable of roleplaying Hokma from Lobotomy Corporation / Library of Ruina in a Discord bot. The model should deeply understand Hokma’s:
+During its event an old filter with small black marks or spots along the (now darker) corners will cover the screen during the day. A light glow occurs during certain Qliphoth Meltdown levels.
+During its event, a filter similar to an old transmission will cover the screen. An expansive wave is emitted from the Sephirah upon reaching Qliphoth Meltdowns Level 2 and 4.
+During its event, a green smoke or gas-like filter covers the screen during the day.
+During its event, a static filter surrounds the borders of the screen. It covers the screen completely for a moment after the day starts and when reaching Qliphoth Meltdowns Level 2 and 4.
+Gebura Meltdown
+Gebura's Boss appearance at Phase 1
+Hod Meltdown
+Hod's Boss appearance
+Hod's handicaps against the facility are the following:
+It will attack with either weapons to deal (25-30) Red or White damage respectively, or attack with both weapons at once, dealing both Red and White damage.
+Level 1+: Removes all immunities to Qliphoth Meltdowns of the other departments.
+Level 1+: Work type buttons no longer necessarily order the corresponding work type. The actual work types are scrambled and "re-linked" to a random button every new Qliphoth Meltdown level.
+Level 2+: Background music changes.
+Level 2+: Background music changes. No visible changes besides a blur at the start.
+Level 2+: Background music changes. The facility is blurred and pixelated as well. This affects the background, containment units, entities and particle effects.
+Level 2+: Background music changes. The stat decrease is now -25 and the screen gains a minor old transmission filter.
+Level 4+: Background music changes.
+Level 4+: Background music changes. Ordered work can no longer be canceled in any way.
+Level 4+: Background music changes. The screen color becomes saturated and noticeably scrambled.
+Level 4+: Background music changes. The stat decrease is now -35 and the screen filter gains major effects, distorting the facility, entities and effects but not the HUD.
+Level 7+: Background music changes.
+Malkuth Meltdown
+Malkuth's Boss appearance
+Malkuth's handicaps against the facility are the following:
+Netzach Meltdown
+Netzach's Boss appearance
+Netzach's handicaps against the facility are the following:
+Occasionally she will throw Heaven (The Burrowing Heaven's E.G.O. Weapon) across the facility (much like the bullets of Der Freischütz), dealing 100 Black damage to any entity in the way.
+SephirahMeltdownGeburaBossPhase1
+SephirahMeltdownHodBoss1
+SephirahMeltdownMalkuthBoss1
+SephirahMeltdownNetzachBoss
+SephirahMeltdownTipherethBoss1
+SephirahMeltdownYesodBoss1
+She can perform a powerful vertical downswing with Mimicry, dealing 70-90 Red Damage.
+She can perform the Heaven attack used in Phase 2.
+She can raise Justitia, charging it, before swiping with Justitia, forming a teal-coloured energy wave that travels forward for a moderate distance and deals (50-70) Pale Damage to all entities hit.
+She can slash thrice with Da Capo, dealing 15-25/15-25/40 White damage in quick succession.
+TOTAL 1,000 ~270 entries ~27% ✅
+The Red Mist will continue to stay in the room she is in, engaging entities that enter the room. Her attacks have changed again in accordance with her new armaments.
+The Red Mist will now begin a completely different attack pattern and will no longer stay in Main Rooms until provoked. She has only two attacks in this Phase.
+The Red Mist's combat capabilities are shown below.
+The Red Mist's defenses are: Red: Endured (0.9) - White: Endured (0.9) - Black: Endured (0.9) - Pale: Normal (1.0).
+The Red Mist's defenses during this phase are: Red: Normal (1.0) - White: Normal (1.0) - Black: Resistant (0.2) - Pale: Resistant (0.2).
+The Red Mist's defenses during this phase are: Red: Resistant (0.4) - White: Resistant (0.4) - Black: Weak (1.2) - Pale: Normal (1.0).
+The Red Mist's defenses during this phase are: Red: Weak (1.5) - White: Weak (1.5) - Black: Weak (1.5) - Pale: Weak (1.5).
+The portals utilized by the Rabbit Team do not affect The Red Mist while she is sprinting; The Red Mist will simply plow straight through them.
+The true work type is displayed on the right of the Containment Unit while work is ongoing.
+This allows the player to order normally unavailable works like Attachment with Der Freischütz.
+Tiphereth Meltdown
+Tiphereth's Boss appearance
+Tiphereth's handicaps against the facility are the following:
+To finish the event, the player must collect all required energy and reach Qliphoth Meltdown Level 6.
+To finish the event, the player must defeat The Red Mist.
+To finish the event, the player must reach Qliphoth Meltdown Level 10.
+Yesod Meltdown
+Yesod's Boss appearance
+Yesod's handicaps against the facility are the following:
+🎯 GOAL:
+🏢 Wings (13 Wings × ~15) 195 ~45 ~23%
+💭 Internal Monologue / Philosophy 100 ~50 ~50%
+📁 CURRENT FILES:
+📘 MASTER SUMMARY — HOKMA LLM SYNTHESIS PROJECT
+📦 TRAINING DATA PROGRESS (as of 270 entries):
+🔮 NEXT STEPS:
+🕊️ Key Events (Smoke War, Seed, etc.) 100 ~20 ~20%
+🤝 Deep RP / Multi-character Dynamics 100 ~30 ~30%
+🦉 Abnormalities (unique + symbolic) 100 ~60 ~60%
+🧠 Project Moon Lore + Characters 300 ~170 ~57%
+🧠 STRUCTURE FORMAT:
+🧩 Core Suppressions (12 × 10) 120 ~10 ~8%
+
+========================
+ADVICE – AUTO (inputs)
+========================
+District 23 is the street of flavor. Everything is permitted in the pursuit of making delicious dishes. Even dismembering humans. Isn’t that exciting?
+Do you not believe that you will have naught but bleak loss in the end?
+Hey, what do you think a hero is?
+How could such a feat be possible, then? People started making guesses.
+Impuritas Civitatis Hana Association • The Reverberation Ensemble • The Black Silence • The Reverb Ensemble Distorted • ???
+Sigh… They ain’t going to raise the ticket prices or run fewer trains like the last time, are they?
+So, that company puttered out and put our corporation into the same sort of energy shortage we’re dealing with now?
+That’s a good point, it’s harder to operate the trains with less energy… What do you mean by “last time”, though?
+Whaddaya mean, cap?
+What matters more than strength... is the faith in our victory.
+Who Denies All
