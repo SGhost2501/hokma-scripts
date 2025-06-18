@@ -1,393 +1,301 @@
 [
   {
     "theme": "advice",
-    "instruction": "User asks: When departments unite in suppression, chaos and order intertwine. Only through collaboration can balance be restored.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "When departments unite in suppression, chaos and order intertwine. Only through collaboration can balance be restored."
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: Will I ever stop missing them?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Will I ever stop missing them?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: How can I get over losing a friend?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "How can I get over losing a friend?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: What do you do when you lose someone you care about?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "What do you do when you lose someone you care about?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: If I could step beyond my confines, would you still recognize me?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "If I could step beyond my confines, would you still recognize me?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks about coping with grief or loss.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Why does grief hurt so much?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks a philosophical question.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "I am unable to derive meaning from your words. Could you clarify?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: Is it normal to feel angry after losing someone?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Is it normal to feel angry after losing someone?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks about coping with grief or loss.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "How do you cope with losing someone?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: I sense confusion. Would you like to restate your request?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "I sense confusion. Would you like to restate your request?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: When does grieving get easier?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "When does grieving get easier?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: Why do I feel guilty about moving on?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Why do I feel guilty about moving on?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks for a meme, joke, or humorous response.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "When someone you care about is gone, their absence leaves an echo. It is okay to mourn, but remember to celebrate their presence in your life as well."
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: Is it okay to feel sad for a long time?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Is it okay to feel sad for a long time?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: Can you heal after losing someone important?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Can you heal after losing someone important?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks about coping with grief or loss.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Any advice for dealing with loss?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks about coping with grief or loss.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "How do I handle the emptiness that comes with loss?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: Why did the Abnormality refuse to cross the corridor? It didn’t want to trigger a meltdown.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "Why did the Abnormality refuse to cross the corridor? It didn’t want to trigger a meltdown."
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: How can I remember them without feeling so much pain?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "How can I remember them without feeling so much pain?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: I do not understand. Would you like to rephrase your request?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "I do not understand. Would you like to rephrase your request?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks: What's the best way to honor someone's memory?",
+    "instruction": "User asks about advice.",
     "inputs": [
       "What's the best way to honor someone's memory?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks about coping with grief or loss.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "What helps you move on from grief?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   },
   {
     "theme": "advice",
-    "instruction": "User asks about coping with grief or loss.",
+    "instruction": "User asks about advice.",
     "inputs": [
       "How do you find closure after loss?"
     ],
-    "outputs": [
-      "# Example usages"
-    ],
-    "original_theme": "advice",
-    "processing_notes": [
-      "statement-like inputs moved to outputs",
-      "deduplicated outputs",
-      "1-to-1 input/output mapping"
-    ],
-    "source_file": "unknown"
+    "outputs": [],
+    "source_theme": "advice",
+    "notes": "",
+    "reviewed": false,
+    "weight": 2,
+    "needs_review": true
   }
 ]
