@@ -10,6 +10,10 @@ This toolkit processes, cleans, audits, and refines LLM prompt/response template
 - **Script:** `scripts/create_hokmaballs_from_abnos.py`
 - **Purpose:** Converts raw notes in `abnormalities list/` into `hokmaballs1.txt` … `hokmaballs5.txt`. The script strips URL-based lines and discards entries with unmatched quotes or obvious truncation.
 
+### 0.5 Consolidate Hokma Corpus
+- **Script:** `scripts/build_hokma_corpus.py`
+- **Purpose:** Gathers lines from `hokma_templates_final_1to1_filled.json`, all files in `abnormalities list/`, and `hokmaballs*.txt` into `hokma_corpus.txt` after filtering meta and malformed text.
+
 ### 1. Merge Raw Text Files
 
 - **Script:** `merge_hokmaballs_to_json.py`
