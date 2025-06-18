@@ -1,0 +1,281 @@
+Malkuth Meltdown
+SephirahMeltdownMalkuthBoss1
+Malkuth's Boss appearance
+
+Malkuth's Core Suppression is available after Day 21 if Tiphereth's third mission and Malkuth's fourth mission are completed. During the Core Suppression, she takes the form of an amorphous dark being, with a single yellow eye at the middle, and appendages holding parts of her robotic carcass and notepad.
+
+During their event, a green smoke or water-like filter surrounds the borders of the screen. This effect covers the screen completely for a moment after the day starts and again when reaching Qliphoth Meltdown Level 2 and 4.
+
+Malkuth's handicaps against the facility are the following:
+
+Level 1+: Work type buttons no longer necessarily order the corresponding work type. The actual work types are scrambled and "re-linked" to a random button every new Qliphoth Meltdown level.
+For example: All  Insight work orders may order agents to do  Attachment work instead; in which case, until a new Qliphoth Meltdown level is reached, all  Insight work orders will order  Attachment work to be done.
+The true work type is displayed on the right of the Containment Unit while work is ongoing.
+This allows the player to order normally unavailable works like  Attachment with Der Freischütz.
+A given work type button can be linked back to its own corresponding work type (i.e. the button gives the 'correct' work type until re-randomization).
+Level 2+: Background music changes. No visible changes besides a blur at the start.
+Level 4+: Background music changes. Ordered work can no longer be canceled in any way.
+To finish the event, the player must collect all required energy and reach Qliphoth Meltdown Level 6.
+
+After completing the day, Malkuth will reward the player with these permanent upgrades: Higher LOB payout for each completed workday, all employees have a higher  Movement Speed, and the relevant department ( Control Team) won't be influenced by Qliphoth Meltdowns.
+
+
+Yesod Meltdown
+SephirahMeltdownYesodBoss1
+Yesod's Boss appearance
+
+Yesod's Core Suppression is available after Day 21 if Tiphereth's third mission and Malkuth's fourth mission are completed. During the Core Suppression, he takes the form of a being covered in a brown substance, with a single purple eye in the middle and the substance branching upwards, holding parts of his robotic hull with part of his middle body covered in black bandages that once kept his robotic body from having any exposed parts.
+
+During its event, a static filter surrounds the borders of the screen. It covers the screen completely for a moment after the day starts and when reaching Qliphoth Meltdowns Level 2 and 4.
+
+Yesod's handicaps against the facility are the following:
+
+Level 1+: The HUD of the game is blurry and pixelated. This includes the energy quota meter, the Qliphoth Meltdown gauge, employees' stats, work and suppression tasks, Managerial Bullet bar, Work log, Game Speed, Abnormality codex, pause screen and Management Report. The names of the agents are invisible and breaching Abnormalities and Ordeals' HP bars are not visible, however, the Wanted poster for Little Red Riding Hooded Mercenary is unpixelated.
+Level 2+: Background music changes. The facility is blurred and pixelated as well. This affects the background, containment units, entities and particle effects.
+Level 4+: Background music changes. The screen color becomes saturated and noticeably scrambled.
+To finish the event, the player must collect all required energy and reach Qliphoth Meltdown Level 6.
+
+After completing the day, Yesod will reward the player with these permanent upgrades: 25% increase in Unique  PE-BOX gains from Abnormalities, and the relevant department ( Information Team) won't be affected by Qliphoth Meltdowns.
+
+
+Hod Meltdown
+SephirahMeltdownHodBoss1
+Hod's Boss appearance
+
+Hod's Core Suppression is available after Day 21 if Tiphereth's third mission and Malkuth's fourth mission are completed. During the Core Suppression, she takes the form of a entity of gray substance, with an orange eye at the middle and her robotic hull spread over the ground. She possesses black gears around its base and small mechanical legs. Two long mechanical appendages come out from her left side, rising up to the ceiling.
+
+During its event, a filter similar to an old transmission will cover the screen. An expansive wave is emitted from the Sephirah upon reaching Qliphoth Meltdowns Level 2 and 4.
+
+Hod's handicaps against the facility are the following:
+
+Level 1+: The  stats of all Agents in the facility are reduced by -15. This can also reduce the level of the agent's stats. The minimum stats cannot be reduced to lower than 10. The filter at this point is limited to darkening the corners of the screen.
+Level 2+: Background music changes. The  stat decrease is now -25 and the screen gains a minor old transmission filter.
+Level 4+: Background music changes. The  stat decrease is now -35 and the screen filter gains major effects, distorting the facility, entities and effects but not the HUD.
+To finish the event, the player must collect all required energy and reach Qliphoth Meltdown Level 6.
+
+After completing the day, Hod will reward the player with these permanent upgrades: All newly contracted employees will have their  stats at Level 3, and the relevant department ( Training Team) won't be affected by Qliphoth Meltdowns.
+
+
+Netzach Meltdown
+SephirahMeltdownNetzachBoss
+Netzach's Boss appearance
+
+Netzach's Core Suppression is available after Day 21 if Hod's suppression is completed. During the Sephirah Meltdown, it takes the form of a gray being made of what seems to be stone, with some green substances dripping from the body. It possesses a single green eye at the middle of a spherical base, with the upper half of the eye covered. An appendage branches from the right side to upwards, holding different robotic parts of its real form, with some of these parts below its base too.
+
+During its event, a green smoke or gas-like filter covers the screen during the day.
+
+Netzach's handicaps against the facility are the following:
+
+Level 1+: The  recovery system from the Main Rooms visibly moves slower and employees cannot be  healed from any sources except at the start of each Qliphoth Meltdown and from Army in Black.
+Level 2+: Background music changes.
+Level 4+: Background music changes.
+After each Qliphoth Meltdown: All employees in the facility are  healed to their Max  HP and  SP. Employees still cannot be  healed from any other sources, even Main Rooms, except from Army in Black.
+To finish the event, the player must collect all required energy and reach Qliphoth Meltdown Level 6.
+
+After completing the day, Netzach will reward the player with these permanent upgrades: The regenerator will  heal all employees anywhere in the department, with those in hallways or elevators being healed with 50% efficiency, and the relevant department ( Safety Team) won't be affected by Qliphoth Meltdowns.
+
+Tiphereth Meltdown
+SephirahMeltdownTipherethBoss1
+Tiphereth's Boss appearance
+
+Tiphereth's Core Suppression is available after Day 36. All Upper Layer (Asiyah) Suppressions must be completed first before triggering this event. During the Core Suppression, the female Tiphereth takes the form of a circular golden substance with 2 long arms, wearing a brown ribbon on one side and having a singular yellow eye at the middle of its main body. It rests on a mountain of different robotic carcass of Male Tiphereth, piled on top of each other, with their light green eyes moving and looking around. There are multiple pipes in a row behind them, 3 rows at each side, moving along with Female Tiphereth's movement of their arms.
+
+During its event an old filter with small black marks or spots along the (now darker) corners will cover the screen during the day. A light glow occurs during certain Qliphoth Meltdown levels.
+
+Tiphereth's handicaps against the facility are the following:
+
+Level 1+: Removes all immunities to Qliphoth Meltdowns of the other departments.
+Level 4+: Background music changes.
+Level 7+: Background music changes.
+To finish the event, the player must reach Qliphoth Meltdown Level 10.
+
+After completing the day, Tiphereth will reward the player with these permanent upgrades: The base number of managerial bullets is increased by 30%, the  Pale Shield Bullet is unlocked, and the relevant department ( Central Command Team) won't be affected by Qliphoth Meltdowns.
+
+
+Gebura Meltdown
+SephirahMeltdownGeburaBossPhase1
+Gebura's Boss appearance at Phase 1
+
+Gebura's Core Suppression is available after Day 36 if Chesed's fourth mission is completed. All Upper Layer (Asiyah) Suppressions must be completed first before triggering this event. During the Core Suppression, Gebura's appearance retains her humanoid form. As well as this, she appears to have an armored body and a gray mask on her face. During the event, red lines cover the corners of the screen.
+
+Gebura's Core Suppression has notable differences in comparison to most of the others. She will not stay in the  Disciplinary Team's main department room for the entirety of the Day and does not provide any handicaps to the facility like the other Sephirot do.
+
+Gebura will instead act as a suppressible entity, with her name stated as "The Red Mist" and classified as  ALEPH. She has an immense amount of  HP at 12,000 (split into 4 Phases of 3,000 each) and must be suppressed 4 times by depleting her  HP bar repeatedly to be defeated completely. The Red Mist's attacks and defenses will change each time she enters a new phase. Text will appear next to The Red Mist when she performs an attack. The Red Mist will take double damage from Abnormalities.
+
+The Red Mist's combat capabilities are shown below.
+
+(Note: All damage values mentioned below do not take into account damage multipliers regarding equipment. Agents will take additional damage if they are wearing E.G.O. Suits of Risk Level  HE or lower [125% for HE, 150% for TETH, 200% for ZAYIN].
+
+Phase 1: The Red Mist stands in the upper section of Disciplinary's Main Room. She holds Penitence (One Sin and Hundreds of Good Deeds' E.G.O. Weapon) and Red Eyes (Spider Bud's E.G.O. Weapon). Its mask remains closed.
+Gebura, now as The Red Mist, will appear in the upper level of the main room of the  Disciplinary Team, spawning near a open machine. It will not move out of the room, roaming the room until spotting a target.
+It will attack with either weapons to deal (25-30)  Red or  White damage respectively, or attack with both weapons at once, dealing both  Red and  White damage.
+When 1/3 of its  HP is lost, The Red Mist will use Gold Rush (The King of Greed's E.G.O. Weapon), creating portals in random places in facility and running through them, dealing (100)  Red Damage to anyone in the way. The final portal leads to another main department room, where it shoots with Gold Rush, dealing a great amount of (290-310)  Red Damage in a small range. The Red Mist will stay there until then. This ability happens twice.
+The Red Mist's defenses are:  Red: Endured (0.9) -  White: Endured (0.9) -  Black: Endured (0.9) -  Pale: Normal (1.0).
+Phase 2: Background music changes. The Red Mist uses the Gold Rush attack from Phase 1 to move to another Main Room and switch weapons to Da Capo (The Silent Orchestra's E.G.O. Weapon) and Mimicry (Nothing There's E.G.O. Weapon). The mask opens, revealing a small glowing red eye at the center.
+As before, The Red Mist will stay in the room she is in, engaging entities that enter the room. As she has new weapons, her attacks have changed.
+She can slash thrice with Da Capo, dealing 15-25/15-25/40  White damage in quick succession.
+She can perform a powerful vertical downswing with Mimicry, dealing 70-90  Red Damage.
+Occasionally she will throw Heaven (The Burrowing Heaven's E.G.O. Weapon) across the facility (much like the bullets of Der Freischütz), dealing 100  Black damage to any entity in the way.
+After losing 1/3 of her Max  HP (i.e. 1000), The Red Mist will throw Da Capo to another Main Room, the weapon dealing 145-155  White damage to anyone in the way. The Red Mist will then ready Mimicry, the blade noticeably growing size, before dashing to that room through the facility, dealing 100 Red damage to anyone in the way, and slamming the enlarged Mimicry into the room, which will deal 450-500 Red Damage to all entities in the room. The Red Mist will then return to her normal attacking pattern. This attack occurs twice in Phase 2.
+The Red Mist's defenses during this phase are:  Red: Resistant (0.4) -  White: Resistant (0.4) -  Black: Weak (1.2) -  Pale: Normal (1.0).
+Phase 3: Upon entering this Phase, The Red Mist will throw Mimicry to the side she's facing and Da Capo to the opposite side, the weapons flying through the facility like with her Heaven attack and dealing 300  Red or  White damage to anyone hit. She will then equip Smile (The Mountain of Smiling Bodies' E.G.O. Weapon) and Justitia ( Judgement Bird's E.G.O. Weapon). The mask starts to break, revealing red cracks around the eye.
+The Red Mist will continue to stay in the room she is in, engaging entities that enter the room. Her attacks have changed again in accordance with her new armaments.
+She can raise Smile and slam it down twice. The first slam will slow everyone in the vicinity of the attack by 99%, and the second attack will deal an initial hit of  Black Damage (90-110) immediately followed by around 10 minor  Black Damage hits (8-10) to all employees within the same vicinity.
+She can raise Justitia, charging it, before swiping with Justitia, forming a teal-coloured energy wave that travels forward for a moderate distance and deals (50-70)  Pale Damage to all entities hit.
+She can perform the Heaven attack used in Phase 2.
+After losing 1/3 of her Max  HP (i.e. 1000) she will perform the Gold Rush attack used in Phase 1. This attack occurs twice in Phase 3.
+The Red Mist's defenses during this phase are:  Red: Normal (1.0) -  White: Normal (1.0) -  Black: Resistant (0.2) -  Pale: Resistant (0.2).
+Phase 4: Background music changes. Red Mist will grind Smile into the ground, destroying it, which causes several hits of 10-15  Black Damage to all entities directly nearby and switches out Justitia for Twilight (Apocalypse Bird's E.G.O. Weapon). The mask fully opens, revealing a pitch-black face, with the pieces of the mask staying around The Red Mist's face, with some parts giving her the appearance of having horns, as well having a red mist-like aura around herself.
+The Red Mist will now begin a completely different attack pattern and will no longer stay in Main Rooms until provoked. She has only two attacks in this Phase.
+First, The Red Mist can create portals, similar to the Gold Rush attack used in Phases 1 and 3, but instead she will throw Gold Rush into the portal in front of her before sprinting behind it. The gauntlet will deal 50  Red Damage to anyone it hits and additionally leaves a glowing golden trail behind itself. The Red Mist, following behind, will deal 90-110 of a  random type of damage to any entity she passes. Once she reaches her final destination, she performs a flurry of attacks with Twilight, dealing 90-110 of a  random type of damage 10 times to every employee in the room. After performing this attack, The Red Mist will take a knee for 20 seconds, exhausted after her exertion; she will be unable to move or attack while this occurs.
+Second, The Red Mist will start to chase down Agents. An agent is randomly marked to be chased, the mark appearing the same as that of the Little Red Riding Hooded Mercenary's mark. The Red Mist will then sprint after them. The marked employee will not be able to enter any containment room while they are marked. The Red Mist will deal 90-110 of a  random type of damage to any entity she passes that is not her target. Upon reaching her target, she will perform a flurry of attacks with Twilight, dealing 90-110 of a  random type of damage 10 times to every employee in the room. If The Red Mist does not reach the marked agent after 20 seconds, she will immediately take a knee for 20 seconds, exhausted after her exertion, just like after using her Gold Rush attack.
+The portals utilized by the Rabbit Team do not affect The Red Mist while she is sprinting; The Red Mist will simply plow straight through them.
+The Red Mist's defenses during this phase are:  Red: Weak (1.5) -  White: Weak (1.5) -  Black: Weak (1.5) -  Pale: Weak (1.5).
+To finish the event, the player must defeat The Red Mist.
+
+Interestingly, certain rooms are not targeted by The Red Mist's Gold Rush attack used in Phase 1 and 3. The elevator rooms, the larger side rooms of the  Control Department, the large lower part of the  Information Department, Row 2 and 4 of the  Central Command Department, as well as the top part of the  Disciplinary Department and  Welfare Department's Main Rooms will all not be targeted by Gold Rush.
+
+After completing the day, Gebura will reward the player with permanent upgrades: The maximum number of E.G.O that can be acquired from each Abnormality is increased by 1, up to a maximum of 5 (The E.G.O equipment granted from suppressing Apocalypse Bird, The Firebird or WhiteNight are exempt from this; you will not receive an extra copy of the E.G.O Weapon or the E.G.O Suit even if you defeat the corresponding Abnormality again), and the relevant department ( Disciplinary Team) won't be affected by Qliphoth Meltdowns.
+
+Chesed Meltdown
+SephirahMeltdownChesedBoss1
+Chesed's Boss appearance
+
+Chesed's Core Suppression is available after Day 36 if Gebura's fourth mission is completed. All Upper Layer (Asiyah) Suppressions must be completed first before triggering this event. During the Core Suppression, he takes the form of a cross, having a gray body with a cyan eye at center, and with the cross having triangle shaped tips, each one representing one of the  four damage types, from the top clockwise: Red, White, Black and Pale. Multiple arm-like black appendages come out from the central body, each holding part of Chesed's robotic hull, except for one which holds Chesed's Lobotomy Corporation coffee cup. Another cross appears at the top of the screen with letters written on each tip for each damage type: R, W, B, P.
+
+During the event, a rain overlay is displayed that covers the whole screen when beginning the Core Suppression and when advancing through certain segments of the Suppression.
+
+Level 1+: One type of damage becomes illuminated in the cross at the top of the screen. While it's illuminated, the corresponding damage type dealt to employees will be multiplied (x5).
+After each Qliphoth Meltdown: The boosted type of damage is changed.
+Level 3+: Background Music changes. Two types of damage are boosted.
+Level 6+: Three types of damage are boosted.
+To finish the event, the player must collect all the energy and reach Qliphoth Meltdown Level 8.
+
+After completing the day, Chesed will reward the player with permanent upgrades: There will be a 25% chance for an Agent to recover before they panic or die (Specifically they will recover 50% of their Max HP or SP, depending on if they were to die or panic). This recovery is limited to once a day for each Agent, and the relevant department ( Welfare Team) won't be affected by Qliphoth Meltdowns.
+
+Binah Meltdown
+SephirahMeltdownBinahBoss
+Binah's Boss appearance
+
+Binah's Core Suppression is available after Day 41. All the middle layer (Briah) must have been defeated first before triggering its event. During the Sephirah Meltdown, its appearance doesn't change much of its usual form, it possesses a humanoid form, an armored body with a coat and a dark mask on its face.
+
+During the event, dark corners and later on, a granulated effect covers the screen during the day.
+
+Similar to Gebura Meltdown, it becomes a suppressible entity. It spawns in the main room of its department and doesn't provide passive handicaps. It will act like an Abnormality, with its name changed to "An Arbiter", classified as  ALEPH. It has an immense amount of  HP at 4000 and must be suppressed 3 times by depleting their  HP bar to be defeated completely, and its behavior will change each time it is suppressed. Some text will appear next to it when about to attack or do an action. An Arbiter doesn't suffer damage made by Abnormalities.
+
+Phase 1: An Arbiter summons Special Qliphoth Meltdowns: Meltdowns of Dark Fog and Meltdowns of Gold. All departments possess Qliphoth Meltdown Immunity against the Meltdowns given from the Qliphoth Meltdown gauge, even if the department isn't immune.
+An Arbiter, will appear from its main room and will roam through the facility with a yellow aura, trying to get into the upper departments. Its defenses start at Resistant (0.1) against  all types of damage.
+Employees that are in the same room as an Arbiter will have a Dark Fog like effect near their feet. Employees with this effect will have their Attack Speed and  Movement Speed reduced by -15.
+Along with it spawning and summoning the Meltdowns, it will also raise dark spikes below the agents of the other departments, dealing great  Black Damage (33-40) to anyone standing on its position, but it takes a short time to trigger.
+Upon seeing a target in the same room, An Arbiter will perform an attack. It will take pauses between attack before starting a new one.
+Fairy: It will charge an orb on its hand of a  random damage type and soon after, deal a wave of slashes in front of its position, reaching the end of the room. It deals great damage (220-300).
+Pillar: It will condense Fairy into a pillar in front of its direction, inflicting a  random damage type which can be identified by its color and shoot it across the facility in a straight line, horizontally. It deals massive damage (70~84) of its damage type. Any containment units in the way of the pillar will become affected by a Qliphoth Meltdown.
+Upon passing next to a containment unit, it will add a Qliphoth Meltdown to it, with dark effects on its containment door.
+Special Qliphoth Meltdowns: The meltdowns summoned by An Arbiter are different from the usual Qliphoth Meltdowns but work similar to them and if the counter reaches 0, it will still add the penalty of the normal Meltdown. It summons 6 Meltdowns of Dark Fog and 6 Meltdowns of Gold. Working and removing a special Meltdown will help to stop An Arbiter's power.
+Meltdown of Dark Fog: A gray Qliphoth Meltdown. Abnormalities with this Meltdown will get a penalty addition of -10%  Success Rate and have a 45 second timer (will increase with Tiphereth's clerk bonus). Upon removing them, a gray orb will be shot towards An Arbiter and upon removing all of them in time, An Arbiter's defenses will decrease, becoming Vulnerable (2.0) against  all the Damage Types for a while, before decreasing to Endured (0.8). It will also remove the status effect for being in the same room as an Arbiter.
+Meltdown of Gold: A gold Qliphoth Meltdown. These meltdowns have a 60 second timer (will increase with Tiphereth's clerk bonus). Upon removing them, a golden orb will be shot towards An Arbiter and upon removing all of them in time, An Arbiter will be stunned, unable to move and attack for a while, becoming open to attacks. Failing to remove them will cause an Arbiter to heal 1  HP/sec for 60 seconds.
+If An Arbiter is not pushed into the next Phase in time, either because the player didn't remove the meltdowns in time or didn't have enough damage to do so, it will re-summon her Special Qliphoth Meltdowns again after 60 seconds, as long as all the meltdowns are cleared. As usual, the Spikes are re-summoned as well during the reassignment of the meltdowns.
+Suppressed once (Phase 2): Background music changes. An Arbiter summons Special Qliphoth Meltdowns again: Meltdowns of Dark Fog and Meltdowns of Gold, along another one, Meltdowns of Waves.
+Its attacks remain the same, with the same behavior. Its defenses return back to Resistant (0.1). As usual, when summoning the Meltdowns, dark spikes will raise below the agents position to try to damage them with  Black Damage.
+Meltdown of Waves: A purple Qliphoth Meltdown. Abnormalities with this Meltdown will get a penalty addition of -5%  Success Rate and have a 60 second timer (will increase with Tiphereth's clerk bonus). It keeps spawning minor dark invulnerable creatures across the facility. These beings act similar to The King of Greed or the Ordeals of Amber, going straight forward and dealing a considerable amount of  Black Damage (17~20) to the employees in its path. They move slowly and cannot be damaged, often burrowing and appearing in other part of the facility. By removing all the Meltdowns of Waves, the creatures will disappear.
+Suppressed twice (Phase 3): Background music changes. The screen filters change similar to a snowstorm, dust particles or a granulated screen effect. An Arbiter will stop in its current position and summon 7 Meltdown of Pillars and charge a special attack. Screen Filter changes. Pausing Game Speed is disabled.
+During this phase, An Arbiter will become Immune to damage and will charge pillars around itself in the cardinal directions, up to 8 pillars of  random damage types.
+Meltdown of Pillars: A cyan Qliphoth Meltdown. Abnormalities with this Meltdown will get a penalty addition of -20%  Success Rate and have a 45 second timer (will increase with Tiphereth's clerk bonus). Removing them will cause An Arbiter to stop their attack, not using it. If not all the Meltdowns of Pillars are removed in time, An Arbiter will shoot the pillars to the direction that they are facing, dealing massive damage of their type to any entity in its way and applying a normal Qliphoth Meltdown to the containment units in the way. No matter the outcome, An Arbiter will have her defenses decreased to Endured (0.8) and will select another spot to move to.
+An Arbiter will have a 60 second to 75 second timer after the Meltdowns are cleared, and when that time is up, she has a 25% chance of re-adding the Meltdowns of Pillars or adding the Meltdowns of Dark Fog, Gold and Waves, repeating this until her  HP is reduced to 0.
+To finish the event, the player must defeat An Arbiter.
+
+After completing the day, Binah will reward the player with permanent upgrades: E.G.O will no longer be lost or destroyed when the wielder dies, and the relevant department ( Extraction Team) won't be affected by Qliphoth Meltdowns.
+
+Hokma Meltdown
+SephirahMeltdownHokmaBoss1
+Hokma's Boss appearance
+
+Hokma's Core Suppression is available after Day 41. All the middle layer (Briah) must have been defeated first before triggering its event. During the Sephirah Meltdown, it takes the form of a huge machinery with different circular parts resembling clocks, with a big one of them at the middle, along with clock handles and an eye at the center. The machine rotates at different intervals at random directions. It is held by smaller pieces near the base, which has the remains of its original form.
+
+During the Core Suppression, the screen starts to lose color and enter grayscale after several Qliphoth Meltdowns. The screen will be completely covered by a static effect for a brief moment when the day starts and at Qliphoth Meltdown Level 7, 8, 9, and 10.
+
+Their handicaps against the facility are the following:
+
+Qliphoth Level 1+: Removes all the previous immunity against Qliphoth Meltdown of the other departments, the player can no longer change the Game Speed (Stuck at 1x speed). If the player attempts to pause the game, 1 random employee will die or panic in the facility. This penalty will increase by 1 for every subsequent pause until every employee dies or panics in the facility. Employees that are Panicked or Invincible (Inside the Shelter, are the 12th Apostle, etc) will not be selected to die from Hokma's ability. The pause is followed along with a screen breaking effect which lasts for several seconds. Trying to pause or change the game speed will cause a certain dialogue line to appear on the screen.
+Qliphoth Level 4+: Background music changes.
+Qliphoth Level 7+: Background music changes. The game speed will increase to x1.5 speed. The screen colours will slightly fade out. From this point onwards, the start of every Qliphoth Meltdown Level is accompanied by a sound related to time speeding up.
+Qliphoth Level 8+: The game speed will increase to x1.7 speed. The screen colours will fade out further.
+Qliphoth Level 9+: The game speed will increase to x1.9 speed. The screen colours will fade out further.
+Qliphoth Level 10+: The game speed will increase to x2.1 speed. The screen colours will fade out further.
+Completing Qliphoth Level 10 with insufficient energy: The game speed will increase to x2.5 speed. The screen colours will fully fade out, leaving the screen in complete grayscale.
+To finish the event, the player must collect all the energy, reach, and complete Qliphoth Meltdown Level 10. (Essentially reaching Qliphoth Meltdown 11, although it is not labelled as such)
+
+After completing the day, Hokma will reward the player with permanent upgrades: The maximum limit upon all employee  statistics is now elevated to 130. When contracting a new employee, their  stats can now be fortified to 130, and the relevant department ( Record Team) will no longer be affected by Qliphoth Meltdowns.
+
+
+
+Keter Meltdown
+There is no Sephirah for the  Architecture Team. From day 46 to the final day (50), the player (X) is tested for his management abilities and is faced with harsh trials in a similar format to a Sephirah Core Suppression. All four initial days (46-49) are unique but have three things in common:
+
+There will be only Ordeals of White instead of any other type of Ordeal.
+Qliphoth Meltdowns will not appear in the Architecture department, however all the previous immunity against Qliphoth Meltdowns will be removed from all other departments.
+The amount of Clerks in the facility is cut in half (from 10 to 5 per department). This is (most likely) to make it easier to kill all the clerks with Execution Bullets and to reduce the chances of Clerks getting in the way of Abnormalities.
+Core Suppressions can not be done on days 46 and onward, as this is considered to be a forced core suppression by the game. If the Sephirah Core Suppresions in the corresponding days are not completed, the player can't progress any further through the Trials and will be forced to reset back to day 1.
+
+Proving Oneself (Day 46)
+The Trials start off at the beginning, Ordeals. This day is to show what is yet to come in the other three days that follows. This day consists of only what is said above and is the easiest day out of the four.
+
+To finish this day the player must collect all the energy and suppress the Midnight of White, also known as "The Claw".
+
+Fatigue and Waiting (Day 47)
+During the event, it consists of the common effects said above and the inclusion of the Asiyah Sephirah bosses (Malkuth, Yesod, Hod, and Netzach).
+
+The handicaps in this day are the following:
+
+Qliphoth Level 1+: Works done by employees are randomly replaced by another type of work every other Qliphoth Meltdown (Malkuth).
+Qliphoth Level 2+: Background music changes.
+Qliphoth Level 3+: Background music changes. The UI will be pixelated and blurred (Yesod).
+Qliphoth Level 4+: Background music changes. Every stat from the Agents in the facility will be reduced by -50 (Hod).
+Qliphoth Level 5+: Background music changes. When the player orders a work, they will not be able to cancel them by clicking the containment room (Malkuth). Employees cannot be healed from any sources except at the start of each Qliphoth Meltdown (Netzach).
+Qliphoth Level 6+: Background music changes.
+To finish this day, the player must collect all the energy and complete Qliphoth Meltdown level 6. If the player doesn't complete all of the Asiyah Sephirah Meltdowns or fails the day, the player will receive the ending A.
+
+Regret and Atonement (Day 48)
+This event consists of the common effects said above and the inclusion of only the Briah Sephirah bosses (Tiphereth, Chesed and later Gebura).
+
+The handicaps in this day are the following:
+
+Qliphoth Level 1+: 2 random damage types will be illuminated at the cross at the top of the screen every Qliphoth Meltdown, increasing the damage type select by 4 times the amount (Chesed).
+Qliphoth Level 5+: Background music changes. Chesed's effect will be disabled, and the Red Mist (Gebura) appears at Disciplinary Team's main room. Phases of her suppression will be the same as during the Gebura Core Suppression, but she has  1800 HP instead of  3000 HP, 40% less than the original.
+You use her original  Max HP for calculations.
+Qliphoth Level 8+: Background music changes. Chesed's effect will be re-enabled, illuminating 3 types of damage every Qliphoth Meltdown.
+To finish this day, the player must either collect all the energy and reach Qliphoth Meltdown level 10 (Tiphereth) or suppress the Red Mist. If the player doesn't complete all of the Briah Sephirah Meltdowns or fails the day, the player will receive ending B.
+
+Freedom and Salvation (Day 49)
+This event consists of the common effects said above and the inclusion of only the Atziluth Sephirah bosses (Hokma, and later Binah).
+
+The handicaps in this day are the following:
+
+Qliphoth Level 1+: The game speed will be set to 1x. If the player pauses, 1 employee will either die or panic and it will increase the amount until every employee dies or panics in the facility (Hokma).
+Qliphoth Level 5+: Background music changes. An Arbiter appears at Extraction Team's main room (Binah). Phases of her suppression will be the same as during the Binah Core Suppression with two differences in the boss:
+An Arbiter has  2400 HP instead of  4000 HP, 40% less than the original.
+At the last phase: the player can pause (Hokma Suppression effect will kill/panic random employees).
+Qliphoth Level 9+: Background music changes. The game speed will be set to 1.5x. An Arbiter will stop moving.
+Qliphoth Level 10+: The game speed will be set to 2.5x.
+To finish this day, the player must either collect all the energy and complete Qliphoth Meltdown level 10 or suppress An Arbiter. If the player doesn't complete all of the Atziluth Sephirah Meltdowns or fails the day, the player will receive ending C.
+
+Tree of Light (Day 50)
+During this event there will be no Ordeals nor Qliphoth Meltdowns. There is nothing majorly harmful on this day and the only thing that happens is visual facility effects. These effects are the following:
+
+10% Energy Quota: Rotates the facility by 36­°.
+20% Energy Quota: Rotates the facility by 72°.
+30% Energy Quota: Rotates the facility by 108°.
+40% Energy Quota: Rotates the facility by 144­°.
+50% Energy Quota: Rotates the facility by 180°.
+60% Energy Quota: Background music changes. The facility looks to be rising upward.
+70% Energy Quota: Increases the speed of the facility rising.
+80% Energy Quota: Increases the speed as the screen fades to white. The facility has reached the surface.
+90% Energy Quota: The beam of light activates above the facility, shining light over the world
+100% Energy Quota: The camera scrolls upward as Ayin speaks to X (Ayin). After the short talk, the credits roll. The player can't do anything else. Clicking the mouse or pressing any buttons will speed up the credits.
+Other effects include:
+
+The Silent Orchestra will not reduce the energy quota during the 4th movement on this day. Der Freischütz, Little Red Riding Hooded Mercenary and Old Faith and Promise can.
+Der Freischütz's bullets will be rotated according to the facility rotation.
+To finish this day the player must Collect all the Energy. If the player has 100% Abnormality Dissolution after completing Day 50, the player will receive the 100% Seed of Light ending (also known as True Ending). They will also get all bad endings before the 100% Seed of Light ending in the Story replay viewer. If not, the player can unlock it after reaching 100% Abnormality Dissolution during one of the next runs.
+
+

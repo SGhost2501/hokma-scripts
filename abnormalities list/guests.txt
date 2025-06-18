@@ -1,0 +1,256 @@
+Guests
+12
+Sign in to edit
+GuestsSample
+Generic guests
+
+“	I will carefully determine what guests to invite and write an invitation accordingly, and you will entertain the guests once they accept the invitation and arrive at the Library.	”
+–Angela to Roland
+
+
+Guests are the various groups and people invited to the Library via the Invitations, and the enemies of the game that are fought in receptions. The guests come from various backgrounds, including Syndicates and Offices. They are lured by the Books put into the Invitations, which are often of worth or use for them. By accepting the Invitation's conditions, Guests agree to the Library's deal: If they win their reception, they can take the Books they want and leave; if they lose, they will be turned into Books themselves.
+
+There are unique guest characters who have set names and stories as well as generic guests who have only a title rather than a name. These guests are invited both through Red Invitations, which make up the guided main story path of Library Of Ruina, as well as the supplementary General Invitations which are not part of the main story tree. For more information on General Invitations, see the relevant page.
+
+
+Contents
+1	Red Invitations
+1.1	Canard
+1.2	Urban Myth
+1.3	Urban Legend
+1.4	Urban Plague
+1.5	Urban Nightmare
+1.6	Star of the City
+1.7	Impuritas Civitatis
+Red Invitations
+ Canard
+Spoilers 
+Name	Chapter	Episodes	Books used in the Invitation
+RatsIcon
+Rats	Chapter 1	1	 Book of Something
+Yun'sOfficeIcon
+Yun’s Office	Chapter 2	3	Episode 1:  Book of Rats
+Episode 2:  Book of a Grade 9 Fixer
+Episode 3:  Book of Finn
+
+BrotherhoodofIronIcon
+Brotherhood of Iron	Chapter 3	1	 Book of Yun’s Office
+HookOfficeIcon
+Hook Office	Chapter 4	1	 Book of the Brotherhood of Iron
+ Urban Myth
+Spoilers 
+Name	Chapter	Episodes	Books used in the Invitation
+Pierre'sBistroIcon
+Pierre’s Bistro	Chapter 1	1	 Book of Taein
+StreetlightOfficeIcon
+Streetlight Office	Chapter 2	2	Episode 1:  Book of Jack and  Book of Pierre
+Episode 2:  Book of Mars
+
+ Urban Legend
+Spoilers 
+Name	Chapter	Episodes	Books used in the Invitation
+ZweiAssociationIcon
+Zwei Association	Chapter 1	3	Episode 1:  Book of Lulu and  Book of Mars
+Episode 2:  Book of Zwei South Section 6,  Book of Lulu and  Book of Mars
+Episode 3:  Book of Julia,  Book of San and  Book of the Distortion
+
+StrayDogsIcon
+Stray Dogs	Chapter 2.1	1	 Book of Walter
+ Book of Zwei South Section 6
+
+MolarOfficeIcon
+Molar Office	Chapter 2.2	1	 Book of Walter
+ Book of the Distortion
+ Book of Lobotomy Corporation
+
+ Urban Plague
+Spoilers 
+Name	Chapter	Episodes	Books used in the Invitation
+TheCarnivalIcon
+The Carnival	Chapter 1.1	1	 Book of Gyeong-mi
+Full-StopOfficeIcon
+Full-Stop Office	Chapter 1.2	1	 Book of Zwei South Section 6
+ Book of the Distortion
+
+DawnOfficeIcon
+Dawn Office	Chapter 1.3	1	 Book of Walter
+ Book of Isadora
+
+GazeOfficeIcon
+Gaze Office	Chapter 1.4	1	 Book of Olga
+ Book of Molar Office
+
+KurokumoClanIcon
+Kurokumo Clan	Chapter 2.1	1	 Book of The Carnival
+ Book of Lobotomy Corporation
+
+MusiciansofBremenIcon
+Musicians of Bremen	Chapter 2.2	1	 Book of Full-Stop Office
+ Book of the Distortion
+
+WedgeOfficeIcon
+Wedge Office	Chapter 2.3	1	 Book of Salvador
+ Book of Yuna
+
+LoveTownIcon
+Love Town	Chapter 2.4	1	 Book of Alloc
+ Book of Dalloc
+ Book of Olga
+
+ Urban Nightmare
+Spoilers 
+Name	Chapter	Episodes	Books used in the Invitation
+SweepersIcon
+Sweepers	Chapter 1.1	1	 Book of Kurokumo Clan
+ Book of Sayo
+
+ShiAssociationIcon
+Shi Association	Chapter 1.2	1	 Book of Full-Stop Office
+ Book of The Musicians of Bremen
+
+The8o'ClockCircusIcon
+The 8 o’Clock Circus	Chapter 1.3	1	 Book of Oscar
+ Book of Wedge Office
+
+PuppetIcon
+Puppets	Chapter 1.4	1	 Book of Tomerry
+IndexProselytesIcon
+Index Proselytes	Chapter 2.1	1	 Book of a Sweeper
+SmilingFacesIcon
+Smiling Faces	Chapter 2.2	1	 Book of Yujin
+Book of Shi Association
+
+TheCryingChildrenIcon
+The Crying Children	Chapter 2.3	1	 Book of Emma
+WARPCleanUpCrewIcon
+WARP Cleanup Crew	Chapter 2.4	1	 Book of a Puppet
+ Star of the City
+Spoilers 
+Name	Chapter	Episodes	Books used in the Invitation
+TheThumbIcon
+The Thumb	Chapter 1.1	2	Episode 1:  Book of Index Proselytes
+Episode 2:  Book of the Thumb and  Liu Association Section 2, Vol. I
+
+TheBlueReverberationIcon
+The Blue Reverberation	Chapter 1.2	1	 Book of the Smiling Faces
+ Book of the Distortion
+
+LiuAssociationIcon
+Liu Association Section 2	Chapter 1.3	2	Episode 1:  Unstable Book of the Crying Children
+Episode 2:  Unstable Book of the Crying Children and  Liu Association Section 2, Vol. I
+
+CaneOfficeIcon
+Cane Office	Chapter 1.4	1	 Book of WARP Cleanup Crew
+IndexProselytesIcon
+Index Proxies	Chapter 2.1	1	 Book of the Thumb
+ Book of Kalo
+
+TheRedMistIcon
+The Red Mist	Chapter 2.2	1	 Book of Lobotomy Corporation
+LiuAssociationIcon
+Liu Association Section 1	Chapter 2.3	1	 Book of Mei
+ Book of Cecil
+ Book of Lowell
+
+RCorpIcon
+R Corp. I	Chapter 2.4	1	 Book of WARP Cleanup Crew
+ Book of Nemo
+
+YanIcon
+얀샋ㄷ요무	Chapter 3.1	1	 Book of Gloria
+ Book of Hubert
+ Book of Esther
+
+ThePurpleTearIcon
+The Purple Tear	Chapter 3.2	1	 Book of the Red Mist
+XiaoIcon
+Xiao	Chapter 3.3	1	 Book of Chun
+ Book of Liu Association Section 1
+ Book of Lowell
+
+RCorpIcon
+R Corp. Ⅱ	Chapter 3.4	1	 Book of the Rabbit Team
+ Book of the Rhino Team
+ Book of the Reindeer Team
+
+ Impuritas Civitatis
+Spoilers 
+Name	Chapter	Episodes	Books used in the Invitation
+HanaAssociationIcon
+Hana Association	Chapter 1	2	Episode 1:  Book of 얀샋ㄷ요무,  Book of Xiao and  Book of the Purple Tear
+Episode 2:  Book of Harold and  Book of Mirinae
+
+TheBlueReverberationIcon
+The Reverberation Ensemble	Chapter 2	1	Uninvited Guests
+Consists of 10 different Receptions, each received by a different Floor:
+
+The Crying Children
+The Church of Gears
+The Eighth Chef
+The Musicians of Bremen
+The 8 o'Clock Circus
+L'heure du Loup
+The Puppeteer
+The Blood-red Night
+Yesterday's Promise
+The Blue Reverberation
+BlackSilenceIcon
+The Black Silence	Chapter 3	1	Uninvited Guests
+TheBlueReverberationIcon
+The Reverb Ensemble Distorted	Chapter 4	N/A	Uninvited Guests
+(Complete the Realization of the Floor of General Works to access this fight)
+The Final Reception	Chapter 5	N/A	Uninvited Guests
+ Wiki Directory
+Mechanics	Abnormality Pages - Achievements - Battle Symbols - Books - Builds and Decks - Combat Pages - E.G.O. Pages - Emotion Level - Floor Realization - Guests - Invitation - Key Pages (Key Page Stories - Passive Abilities) - Librarians - Library - Manual - Reception - Small Stories - Stats - Status Effects
+Floors	Floor of General Works - Floor of Philosophy - Floor of Religion
+Floor of Natural Sciences - Floor of Language - Floor of Social Sciences
+Floor of History - Floor of Technological Sciences - Floor of Literature - Floor of Art
+Characters	Main Characters / Patron Librarians:
+Angela - Roland - Malkuth - Yesod - Hod - Netzach - Tiphereth - Gebura - Chesed - Binah - Hokma
+ Terminology:
+Locations	The City (Districts - Nests - Backstreets) - Outskirts - Ruins - The Library - The Great Lake - The Black Forest - HamHamPangPang
+Lore	Abnormalities - Distortions (Bloodfiends) - E.G.O. - Cogito - Night in the Backstreets - Seed of Light - Smoke War - White Nights and Dark Days - Singularity - The Rules - The Hunt - The Taboo - Humans - Artificial Intelligence Ethics Amendment
+Factions	Fixers - Offices - Workshops - Associations - Syndicates - Five Fingers - The Head - The Eye - The Claw - Wings
+ Music:
+Albums	Original Soundtrack
+Songs	"String Theocracy" - "From a Place of Love" - "And Then is Heard No More" - "Iron Lotus" - "Children of the City" - "Gone Angels" - "Poems of a Machine" - "Salt, Pepper, Birds, And the Thought Police"
+ Other:
+Media	Lobotomy Corporation - WonderLab - Library Of Ruina - The Distortion Detective - Leviathan - Limbus Company
+Development	Voice Actors - AGF 2019 LoR Q&A Session Compilation - Library Of Ruina Art Book
+This box: view • talk • edit
+ Receptions
+ Canard	Rats • (Yun’s Office Fixers - Yun’s Office Rookie - Yun’s Office) • Brotherhood of Iron • Hook Office
+ Urban Myth	Pierre’s Bistro • (Streetlight Office - Lulu of Streetlight)
+General Receptions:
+Backstreets Butchers • Hook Office Remnants • Urban Myth-class Syndicate
+ Urban Legend	(Zwei Crewmembers - Zwei Association Ⅰ - Zwei Association Ⅱ) • Stray Dogs • Molar Office
+General Receptions:
+Grade 8 Fixers • Grade 7 Fixers • Urban Legend-class Syndicate • Urban Legend-class Office • Axe Gang
+ Urban Plague	The Carnival • Kurokumo Clan
+Full-Stop Office • Musicians of Bremen
+Dawn Office • Wedge Office
+Gaze Office • Tomerry
+General Receptions:
+Rusted Chains • Workshop-affiliated Fixers • Jeong’s Office
+ Urban Nightmare	Sweepers • Index Proselytes
+Shi Association • Smiling Faces
+The 8 o’Clock Circus • The Crying Children
+Puppets • WARP Cleanup Crew
+General Receptions:
+Seven Association • Blade Lineage
+ Star of the City	(The Thumb - The Thumb Ⅱ) • Index Proxies • 얀샋ㄷ요무
+The Blue Reverberation • The Red Mist • The Purple Tear
+(Liu Association Section 2 - Liu Association Section 2 Ⅱ) • Liu Association Section 1 • Xiao
+Cane Office • R Corp. • R Corp. Ⅱ
+General Receptions:
+Dong-hwan the Grade 1 Fixer • Night Awls • The Udjat • Mirae Life Insurance • Leaflet Workshop • Bayard
+ Impuritas Civitatis	 Hana Association •  The Reverberation Ensemble •  The Black Silence •  The Reverb Ensemble Distorted •  ???
+This box: view • talk • edit
+Factions
+Wings	A Corp. • B Corp. • C Corp. • F Corp. • G Corp. • H Corp. • I Corp. • J Corp. • K Corp. • L Corp. • M Corp. • N Corp. • O Corp. • P Corp. • R Corp. • T Corp. • U Corp. • V Corp. • W Corp. (WARP Cleanup Crew)
+Syndicates	Five Fingers (The Thumb • The Index • The Middle • The Ring • The Pinky) • Finger Subsidiaries (Stray Dogs • Kurokumo Clan • Night Awls • Rumanos Cartel • Ramier Family) • Independent (Brotherhood of Iron • Musicians of Bremen • Axe Gang • The Carnival • Smiling Faces • Rusted Chains • Blade Lineage • The Reverberation Ensemble • Little Piggy's)
+Associations	Hana Association • Zwei Association • Tres Association • Shi Association • Cinq Association • Liu Association (Liu Association Section 1 • Liu Association Section 2) • Seven Association • Devyat Association • Dieci Association • Öufi Association
+Offices	Yun's Office • Hook Office • Streetlight Office • Molar Office • Full-Stop Office • Dawn Office • Gaze Office • Jeong's Office • Wedge Office • Cane Office • The Udjat • Bayard's Office • Clam Office • Charles' Office • Moses' Office • Ame Office • Dou Gui Combat Office • Rusk's Office • Bloom Office
+Workshops	Leaflet Workshop • YuRia Atelier • Allas Workshop • Zelkova Workshop • Old Boys Workshop • Ranga Workshop
+Others	Rats • Backstreets Butchers (Pierre's Bistro) • The Eight Chefs • The Church of Gears • Love Town • Sweepers • The 8 o'Clock Circus • Puppets • Mirae Life Insurance • The Head • The Eye • The Claw
+This box: view • talk • edit

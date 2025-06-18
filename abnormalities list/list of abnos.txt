@@ -1,0 +1,206 @@
+Abnormalities
+72
+Edit
+
+Abnormalities
+Unknown Abnormality Icon
+"Every Abnormality may not have a reason to exist, but they all have a will to persist."
+
+- Singing Machine's Flavour Text
+
+Abnormalities (환상체, Hwansangche) are, as their name suggests, a type of abnormal entity that can be used to generate power. Each is given a classification via letters and numbers, as well as a nickname based on their appearances and abilities.
+
+Lobotomy Corporation possesses a variety of Abnormalities, using them for study, power generation, and the harvest of E.G.O. equipment. Each is ranked on a threat scale, and the ways they can harm humans are summarized into color-based types. They are the 'Main/Recurrent Enemies' of the game, as well as one of the main features. All of the Abnormalities are different and each poses a different threat in-game.
+
+There are also entities called Ordeals, which are similar in nature to Abnormalities, but cannot be contained. These creatures randomly appear in-game during certain  Qliphoth Meltdown events.
+
+Overview
+Before Lobotomy Corporation discovered Cogito and began mass-producing Abnormalities, these kinds of entities were one of the numerous types of ‘monsters’ (괴물, goemul) native to the Outskirts and Ruins—the wastelands beyond the safety of the City.
+
+RiskLvAbnos
+Abnormalities of ascending Risk Levels.
+
+Being cognitive beings made manifest into the current reality, Abnormalities are entities representing various concepts born from the human mind. Ranging from human fears, complexes, and desires, these phantoms can be considered a different form of humanity and an existence considered as “human” as mankind itself.
+
+Each ‘species’ of Abnormality possesses a unique physiology and appearance, ranging from inanimate objects to humanoid beings; some Abnormalities even lack a physical form entirely and exist as an intangible phenomena themselves. Given the fact that they are human fantasies made real, Abnormalities don’t abide by the conventional laws of physics, nor possess functional anatomy analogous to those of normal living organisms—regardless of outward appearance, they all possess a will and desires of their own. Because of the basis of their existence, every Abnormality is immortal, and will come back from any and every wound—no matter how many times they're smashed, split, strewn apart, and suppressed.
+
+Behavior
+Among the more intelligent ones, communication is possible with some Abnormalities, but interaction inherently poses danger due to their volatile personalities and abilities. Abnormalities typically possess an orange-and-blue morality, with their values being centered on the concept they embody. Due to the strange strands of logic that Abnormalities fundamentally follow—along with their dangerous, anomalous capabilities—this renders conventional reason and judgement irrelevant and brings great risk of death to those encountering them.
+
+It is also due to these factors that it makes forming a genuine relationship with an Abnormality essentially impossible, with connections between these entities and their handlers only possible through a thorough understanding of that Abnormality and by entertaining its innate desires. Still, any degree of bond a human may form with an Abnormality will not stop the entity from killing the former if the human in question missteps and offends and/or loses themselves to the desires of the Abnormality. Repeatedly killing humans is not a strange occurrence for these monsters, as their psychology and mentality remain immutably constant, as Abnormalities are abstract concepts and ideas made manifest. Thus, they will perpetuate the same behaviors over and over for the rest of their existence and will naturally forget or ignore anything that happens in the past in favor of their current behavior, incapable of even acting in any manner unrelated to their embodied concept.
+
+Because of this, and the fact that Abnormalities are immortal beings that can never die, there is no point in resenting or hating them. They can never be permanently destroyed, so upon breaching containment and running amok, suppressing the Abnormality and re-containing it is the only option one is left with.
+
+Pairs and ‘Families’
+RedFightingTheWolf
+Little Red Riding Hooded Mercenary and Big and Will be Bad Wolf fighting it out.
+
+Certain Abnormalities can form sorts of pairs as well, due to embodying concepts or themes interconnected to one another; pairings like these vary from Symbiotic (such as Yin and Yang) to Hostile (such as Little Red Riding Hooded Mercenary and Big and Will be Bad Wolf) and will usually cause havoc to the facility when interacting with one another.
+
+There also exists ‘families’ of Abnormalities, in which all embody concepts that share a common theme, grouping them together as an interconnected series.
+
+With these ‘families’ of 3 or more Abnormalities, it is not unusual for them to attempt to merge together or summon a greater threat—such as an ALEPH-class Abnormality—which will endanger and potentially destroy the entire facility they inhabit. It is due to the disastrous consequences of housing an entire set of closely related Abnormalities that facilities usually limit the number of these pairings and groups, either by placing their Containment Units far apart or splitting them across different branch facilities.
+
+Origin
+
+SPOILERS AHEAD!
+
+This section contains spoilers related to the story of Lobotomy Corporation. Read ahead with caution if you want to experience the story for yourself.
+Story Mode Spoilers!
+Enkephalin
+Lobotomy Corporation had the unique ability to produce "Enkephalin" (엔케팔린, Enkepallin), a substance extracted from Abnormalities whenever they feel satisfied. Enkephalin was typically manufactured by isolating Abnormalities into Containment Units and providing stimulation through interactions such as play, conversation, or violence. The refined version of the substance appears as a green liquid kept in  PE-Boxes, but Enkephalin can be kept in a gaseous form depending on the extraction method.
+
+EBoxIcon
+PE-Boxes, the most popular container for Enkaphalin.
+
+Strictly purified Enkephalin possesses a psychotherapeutic effect on those that consume or are exposed to it, thus it can be used as a recreational drug in addition to its energy production. Due to its soothing nature, Enkephalin is regularly administered towards L Corp. employees to subdue their mental stress, ranging from standard liquid doses, to even Enkephalin gas—which fills the departments throughout the facilities. The SP-E Bullets (SP-E 탄환, SP-E Tanhwan) made available to the manager to restore the sanity of Agents were developed through the use of Enkephalin’s therapeutic uses as well.
+
+Because Enkephalin was highly valuable as an efficient fuel source and was advertised as an eco-friendly form of energy, L Corp’s status as a Wing was elevated far above its peers and cemented the megacorp as a major power within the City.
+
+E.G.O
+The E.G.O Equipment given to employees are weapons and suits extracted from Abnormalities' beings, appearing in various forms. E.G.O (or Extermination of Geometrical Organ) is in itself the archetype of an Abnormality, drawn out and compressed into equipment form. It is said that the moment someone equips E.G.O, they'll instantly know how to properly wield it, regardless of fighting background. As this type of equipment is essentially independently functioning archetypes of an Abnormality, it is no mistake to say that Agents wield the same kind of power and danger that Abnormalities possess. All E.G.O Equipment produced and distributed towards L Corp’s employees are extracted by the Extraction Team under the Lobotomy Corporation Headquarters.
+
+E.G.O Corrosion
+Due to their nature of essentially being Abnormalities stabilized into suits and weapons, those with weak minds and wills will risk having their egos consumed by E.G.O Equipment beyond their capabilities. Thus L Corp. only assigns E.G.O towards employees with appropriate levels of Fortitude, Prudence, Temperance, and/or Justice to avoid such risks.
+
+When a human equips E.G.O they are not mentally prepared to wield, the Abnormality within the equipment will one-sidedly whisper into the mind of the user until it eventually takes over their mind. This process is known as E.G.O Corrosion (E.G.O 침식, E.G.O Chimsik), where the Abnormality’s personality gradually overrides the wearer like a ‘shell’ until the equipment in question completely overtakes them, physically transforming the wielder into a monster acting as another instance of the original Abnormality, albeit slayable.
+
+E.G.O Gifts
+Apart from direct extraction methods, Abnormalities can also provide trinkets or even their own body parts to employees they fancy. These presents are collectively known as E.G.O Gifts (E.G.O 기프트, E.G.O Gipeuteu), and will either permanently integrate into the employee’s anatomy or form an attachment with the Agent that makes them reluctant to cast the gift off. Though E.G.O Gifts are of a lesser degree than regular E.G.O Equipment, they are still a part of the egos of the Abnormalities they originated from, and carry the same risk of mental deterioration if too many Gifts are taken by an Agent.
+
+Related Entities
+Monsters
+Initially, Abnormalities were discovered as a general type of monster (괴물, goemul) that could be found in either the Outskirts or the Ruins. While Abnormalities can generally be considered monsters, the word 'monster' is used as an umbrella term for many different kinds of entities distinct from Abnormalities (i.e., the Mermaids and Whales found in the Great Lake).
+
+Ordeals
+Ordeals (시련, siryeon) are created as a byproduct from the extractions and Negative Enkephalin produced by the Abnormalities within the Lobotomy Corporation Headquarters.
+
+Ordeals, like Abnormalities, are beings that can represent past traumas and any conceptual idea imaginable, embodying any possibility from the past, present, and future. Aimlessly wandering around the facility as intangible phenomena, Ordeals will resonate with the Abnormalities and manifest physical form. Thus, these threats are out of the hands of the Extraction Team and wreak havoc across the facility almost uncontrollably, if not for them being incapacitated by Qliphoth Deterrence in the way Abnormalities are.
+
+Gameplay
+The Abnormalities possess different aspects in-game, from information to effects. This section will explain the basics of them and most features that the Abnormalities share.
+
+Containment: Abnormalities are contained in 'Containment Units', zones where they reside at the start of the day in passive states. The Containment Units are all the same. The Abnormalities contained are divided into the different departments available, usually housing 4 to 8 Abnormalities per Department in their units. At the start of most days, the player must choose one Abnormality to add to their facility, usually from a selection of 3.
+
+The Containment Units display the name of the Abnormality and the  Qliphoth Counter (initially "?") at the top, their Risk Level (If unlocked) and amount of  PE-Boxes collected at the top left, and at the left side a bar that fills when work is performed, displaying the amount of PE and NE-Boxes produced. At the middle is the Abnormality, to which player can assign works by clicking on the room.
+
+Works and Interactions: The main interaction with the Abnormalities are by sending Agents to their Containment Units to perform one of the four works available:  Instinct,  Insight,  Attachment, and  Repression. Depending on the work preference and other stats, the Abnormality will produce an amount of  E-Boxes. PE-Boxes are positive energy that will be collected at the end of the task and added to the Energy Quota, while NE-Boxes are negative energy that is discarded as a 'fail work', which will also damage the employee working with the Abnormality.
+
+Encyclopedia/Information Section: Any  PE-Boxes collected at the end of the task will also be added to the respective to be used as 'points' to unlock information about that Abnormality and its equipment. The  PE-Boxes of the Abnormality are saved permanently over days and new games, as well any information unlocked. New Abnormalities don't possess any information unlocked and only their Subject Number will be displayed for their name. To access their Information Tab, the player must click on the name of the Abnormality while in the Management Phase or their portrait while in the Deployment Phase.
+
+There are 4 sections of information, each one unlockable by spending  PE-Boxes. Depending of the Risk Level, the cost of the sections will change. The sections are:
+
+Basic Information: Unlock the basic info of the Abnormality, including Name, Portrait, Subject Number, Risk Level, PE-Boxes, Range of Mental Results, Attack Damage and Damage Type. It will change the current name of the Abnormality's Containment Unit and display its  Qliphoth Counter, if it has any (Otherwise, shown with an 'X').
+Managerial Works: Helpful notes that inform about the effects and 'rules' to handle the Abnormality. This can be information about the  Qliphoth Counter, work preferences, harmful effects, breaching abilities and others. There can be multiple Managerial Works to unlock, each one displaying different information of the Abnormality.
+Work Preferences/Favor: A list of 4 minor sections that unlock the overall preferences of the respective work, showing the  Success Rate for the each 5 level of that work, depending on the stat level of the employee performing that work. When selecting an employee to perform a work on an Abnormality, the overall  Success Rate of the work will be shown as: Very Low, Low, Common, High or Very High. If the Work Favor of the respective work is not yet unlocked, the  Success Rate will remain hidden and classified as 'Unknown.'
+Escape Information: Display the  Qliphoth Counter, its initial count or with an 'X' if not using it; and the defenses of the Abnormality if it's able to breach, escaping from their containment and needed to be re-contained by 'Suppression Work', sending employees to attack the Abnormality until its  HP drops to 0. The defenses show their vulnerability against the 4 types of damage:  Red,  White,  Black and  Pale.
+Observation Levels: When unlocking completely one of the sections, it will grant an Observation Level, up to 4 levels. Each level can grant an increase of  Success Rate/Chance or  Work Speed, depending of the Abnormality. Unlocking Observation Levels also add Entries to the Abnormality's Story, which can be access at the top left of the information tab of the Abnormality. The Story Tab cover entries about descriptions, explanation of effects, related events, interviews and other information linked to said Abnormality.
+
+E.G.O. Equipment: The E.G.O. Equipment is unlocked along, but not limited to, the Observation Levels of the Abnormality. There are 3 types of E.G.O. Equipment: Weapon, Suit and Gift. The equipment needs  PE-Boxes as a cost to be manufactured once unlocked, which then later can be equipped by Agents during the Deployment Phase to fight off and resist more bigger threats.
+
+Weapons change the Damage Type and value that an Agent deals, as well the Range and Firing Speed. Suits change the defenses of the Agent against the Damage Type that they receive. Multiple Gifts can be equipped by a single Agent, as long as they don't occupy the same slot. They can change an Agent's stats, giving a slight buff or adding extra effects in certain conditions. These aren't manufactured but given randomly (chances range from 1% to 5%) by the Abnormalities when finishing work.
+
+ Qliphoth Counter and Anomalous Effects: Abnormalities are entities that possess unusual abilities that can harm or benefit employees and/or the facility. This vary from simple  Healing to breaching containment. A way to measure the triggering of a effect is via their  Qliphoth Counter, which, when reaching a number (usually 0), will trigger its ability. Most abilities will include the Abnormality breaching the Containment Unit. However, not all the Abnormalities use the  Qliphoth Counter to use their abilities. Unused  Qliphoth Counters are marked with a 'X' instead of a number.
+
+Abilities may also be triggered by  Work Results,  PE-Boxes collected,  Stat Levels and work performed. Breaching Abnormalities need to be suppressed to be returned to their Containment Units. If neglected, they can cause major harm in the facility or lessen the amount LOB Points earned when ending the day.
+
+Tool Abnormalities
+Tool Abnormalities are another type of Abnormality that are used. These Tools, unlike other Abnormalities, are added to the facility every fourth day of each six day cycle. The Tools don't possess work preferences but instead have a single work to use them. In most Tool's subject numbers, their type is 09 (With one being 07). Tools give positive effects, like  healing,  energy production or  Stat boost, among others, often for a cost.
+
+They are divided into 3 types:
+
+Single Use Tools: Tools that give a single and instant effect upon being worked with an Agent. These Tools have a 'Number of Uses' to unlock their information.
+
+Channeled Use Tools: Tools that have a constant work use that can be cancelled when ordered again. These Tools have a 'Time of Use' to unlock their information.
+
+Equippable Tools: Tools that an Agent equips upon use. When equipped, they grant their effects to the Agent. To return one of these Tools, simply click on the Tool's Containment Unit. Agents can only equip 1 Tool at a time. If the Agent equipped with a Tool dies, it will be returned to the Containment Unit. They are also returned at the end of the day.
+
+Depending on their type, their Observation Level and the way to get information about them is different. The main information unlocks its name, portrait, subject number and tool type. Logs unlocks entries and story related information and the Methods unlocks information about the Abnormality, like its effects and ways to use it.
+
+Classification Code
+Each Abnormality is given a classification code following a Letter-XX-YY format:
+
+The first letter denotes the source category of an Abnormality's origin. Among the designations shown below are F, T, and O, which were revealed in LobotomyCorporation_ArtBook, and M, which appears in Limbus Company but has not yet been explained:
+
+F: Fairytale
+Fairy Tales, folklore, forgotten stories, and urban legends.
+T: Trauma
+Traumatic experiences, phobias, or intense emotions.
+O: Original
+Originates from beyond the City or this reality, unknown cause of birth, naturally occurring phenomena, or were manufactured by humans.
+The catch-all categorization for any Abnormality that doesn't neatly fit into the previous classifications.
+D: Donation
+Abnormalities created by the Tumblbug backers that crowdfunded the Lobotomy Corporation kickstarter from before the official release of the game.
+Donor Abnormalities are given unique, rounded extraction boxes to differentiate them from regular Abnormalities with square boxes on the selection menu.
+These types of Abnormalities are not required for 100% completion of the game and do not contribute in obtaining the True Ending of the game.
+Can be turned off from appearing in the Abnormality selection pool in the settings.
+M: Unknown - possibly 'Mythical'
+Does not appear in Lobotomy Corporation, but several Abnormalities with the 'M' classification appear in Limbus Company, including My Form Empties, Brazen Bull, and Doomsday Calendar.
+All three of these Abnormalities are associated with objects from or are representative of mythology, which is where the speculation that M stands for Mythical stems from.
+The second number is representative of the shape of the Abnormality, with each unique number seemingly corresponding to a group of form types seen in Abnormalities. While these number designations are unexplained, the long-standing speculations for the group types given to Abnormalities are as follows:
+
+01: Humanoid—or possessing human-like characteristics:
+Includes Abnormalities possessing human-like bodies or appendages, even if distorted or malformed (ex. Nameless Fetus).
+Excludes humanoid collections of non-human objects (ex. Snow White’s Apple).
+Humanoid Abnormalities that can transform into a bestial/non-humanoid form, usually upon breaching, are usually still designated under this classification (ex. The Queen of Hatred).
+Abnormalities if their creation is closely related to humans (ex. Mountain of Smiling Bodies)
+02: Animalistic:
+Abnormalities that resemble animals, rather than humans.
+03: Otherworldly or religious:
+Abnormalities that are described or appear to be foreign and alien to the world the City takes place in.
+Commonly are either: religious in theming; dependent on human attention or worship; (un)able to be properly comprehended by human understanding and/or perception.
+04: Inanimate objects:
+Mostly includes object-like Abnormalities that are not appended to the 01, 02, or 03 designations.
+Virtually no Abnormality in this category is capable of independent movement throughout the facility, remaining mostly stationary, with certain exceptions; locomotion is limited to teleportation or attaching themselves to an employee.
+Consequences due to (mis)management are often instantaneous or impromptu.
+05: Machines and artifacts:
+Applies to Abnormalities resembling inanimate objects similar to those classified as 04, but includes mechanical entities that can act autonomously and are capable of independent action.
+Behaviors are affected by various factors and situations—especially via the manager’s choices—and cause long-term and significant consequences.
+06: ‘Abstract’—due to the limited data pool (1.76 MHz and Nothing There), this rationale for this classification is mostly speculative:
+Includes Abnormalities that do not exist in physical reality and are closer to intangible phenomena (ex. 1.76 MHz)
+Alternatively, the Abnormality is dependent on the perception of others, desiring to obtain a proper form or identity through observing or being observed by human beings, and/or being denied personhood (ex. Nothing There).
+07: ‘Breaching Tool’:
+Includes only (O-07-103), Yang; presumed to include Abnormalities that are conditionally a Tool Abnormality and are capable of breaching.
+08: Unknown—possibly ‘Sin’:
+Are not present at all in Facility X-394; the 08 classification was introduced via the Peccatula in Leviathan and Limbus Company—entities that, while are not Abnormalities, shared the same classification code system temporarily.
+Based on the Seven Deadly Sins that humans commit within the City.
+09: Tool-type:
+Includes object-like Abnormalities that cannot breach containment and can be interacted with to benefit the facility in varying results.
+00: Unknown
+Does not appear in normal gameplay, only on Standard Training Dummy Rabbit.
+In Limbus Company, there is a human who is given a classification code of 00-00-00 by the titular Limbus Company. This notably has no letter classification, but likewise seems to be indicative of a placeholder for subjects inapplicable to the classification code system.
+The third number acts as a unique code for the Abnormality, which doesn't repeat between Abnormalities, and the last letter (Only for Legacy) is for the risk level classification (Z for  ZAYIN, T for  TETH, and so on). In effect, a player knowing this, especially the third number, can get a huge jumpstart on information about the Abnormality.
+
+Presumably, the third designation represents the order the Abnormalities were extracted in (i.e., implying F-01-02, Scorched Girl, was the second type of Abnormality to have been extracted, for example).
+Note: The form groupings under the second number are only speculation, as none of their number designations have been elaborated on by Project Moon.
+
+Codex
+The Codex, also known as The Abnormality Encyclopedia, is a mechanic that allows players to view their collection of Abnormality Details. It can be accessed on the main menu via the lower right corner (before story completion) or top right corner (after story completion). The Codex starts out with no Abnormalities within and 0% Abnormality Dissolution but will grow as the player fully researches Abnormalities.
+
+Abnormality Dissolution
+The Abnormality Dissolution is the percentage of fully researched Abnormalities within the codex. The percentage excludes Backer Abnormalities, Don't Touch Me, Plague Doctor, and Apocalypse Bird, leaving only 74 Abnormalities required for complete codex.
+
+Trivia
+Etymology
+An ‘abnormality’ refers to an abnormal trait or occurrence; the term is usually used in a medical context.
+
+“Abnormality” was a machine translated result of the Korean name for the entities, ‘Hwansangche’ (Hangul: 환상체; Hanja: 幻想體); a remnant of the poor translation work done by the first English translation team that scammed Project Moon during the early days of Lobotomy Corporation's development. While not wholly accurate, the name stuck—being used by the non-English parts of the fandoms due to the early translations; “Abnormality” continues to see use in future works within the franchise.
+
+Derived from ‘hwansang’ (환상, 幻想), meaning illusion or fantasy; the suffix -‘che’ (체, 體) implies the former to be a physical entity. Their names would’ve formed wordplay around “fantasy”, as exemplified with Adam’s monologue on Day 49 as seen below. If Abnormalities could have been given a more accurate localization, a title such as ‘fantasm’ or ‘fantoms’ would’ve been appropriate paronomasia.
+
+Story Mode Spoilers!
+In early versions of the Japanese translation, as a result of the sloppy translation work, the English name, ‘Abnormality’, was directly transcribed as ‘Abunōmaritī’ (アブノーマリティー), rather than properly transcribing the Korean name ‘Hwansangche’ (환상체). This transcription is retained even in the current version of the Japanese translation of Lobotomy Corporation.
+
+While the issue was alleviated with Library of Ruina and later installments of the franchise, with Abnormalities being referred to as ‘Gensōtai’ (幻想体, げんそうたい), the JP fandom still habitually refer Abnormalities as ‘Abunōmariti’ (アブノーマリティ).
+
+They are notably similar to, and inspired by, the various Special Containment Procedure objects from the SCP Foundation.
+Poor Screenwriter's Note, Hammer of Light and Price of Silence are Legacy Abnormalities that weren't brought back into the new version.
+Each of the damage types is the same color of one of the Four Horsemen of the Apocalypse.
+ RED for the red horse of War.
+ WHITE for the white horse of Conquest.
+ BLACK for the black horse of Famine.
+ PALE for the pale horse of Death.
+The Lobotomy Corporation artbook details most of the non-donator Abnormalities' designs and unlockable stories from the game, as well as in-development designs and other unused or beta designs. The format of the artbook is also based on a paper manual intended for the manager, with the front cover stating "Manual of Lobotomy Corporation." The back of the artbook also bears the unique classification code "O-09-05."
+
+
+

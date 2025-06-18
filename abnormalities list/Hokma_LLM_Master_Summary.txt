@@ -1,0 +1,51 @@
+
+📘 MASTER SUMMARY — HOKMA LLM SYNTHESIS PROJECT
+Date: 2025-06-07
+
+🎯 GOAL:
+Develop a fully fine-tuned, persona-stable LLM capable of roleplaying Hokma from Lobotomy Corporation / Library of Ruina in a Discord bot. The model should deeply understand Hokma’s:
+- Personality (philosophical, cryptic, emotionally suppressed)
+- Lore (Ayin, Angela, Seed of Light, The Head, Sephirah)
+- Relationships and key events
+- Tone shifts (sarcasm, coldness, judgment, rare warmth)
+- Symbolism, suppression, and morality themes
+
+📦 TRAINING DATA PROGRESS (as of 270 entries):
+- ✅ 300+ total goal entries: ~27% complete
+- ✅ Internal monologues, canonical rewrites, RP interactions
+- ✅ All 13 Wings of the World referenced
+- ✅ All major abnormalities referenced
+- ✅ Full Lobotomy Corp / LoR lore coverage
+- ✅ Angela, Binah, Ayin, and Roland interactions
+- 🔄 Suppression arcs: pending user input
+- 🛠 Ready for LoRA QLoRA fine-tune on Mistral-7B
+
+🧠 STRUCTURE FORMAT:
+- JSONL with Alpaca-style:
+  - instruction: who is speaking or emotional context
+  - input: what was said to Hokma (optional)
+  - output: Hokma’s response (in full RP tone)
+
+📁 CURRENT FILES:
+- `hokma_train_270_abnormality_full.jsonl` — Latest dataset
+- Model: Mistral-7B (quantized/LoRA recommended)
+
+🔮 NEXT STEPS:
+- Receive suppression data (Yesod, Gebura, etc.)
+- Generate 30–50 suppression entries
+- Continue expanding deep RP (Angela/Binah/Ayin)
+- Target: 1,000 entries total for high-fidelity LoRA fine-tune
+
+Category	🎯 Goal	✅ Current	🟩 % Done
+🧠 Project Moon Lore + Characters	300	~170	~57%
+🏢 Wings (13 Wings × ~15)	195	~45	~23%
+🧩 Core Suppressions (12 × 10)	120	~10	~8%
+🕊️ Key Events (Smoke War, Seed, etc.)	100	~20	~20%
+💭 Internal Monologue / Philosophy	100	~50	~50%
+🎭 Tone Mastery (sarcasm, grief, etc.)	100	~30	~30%
+🦉 Abnormalities (unique + symbolic)	100	~60	~60%
+🤝 Deep RP / Multi-character Dynamics	100	~30	~30%
+TOTAL	1,000	~270 entries	~27% ✅
+
+Created by ChatGPT in collaboration with user.
+

@@ -1,0 +1,214 @@
+On Agent Panic:
+ It appears [Agent]’s mental state is unstable.
+
+ [Agent] is wandering about, aimlessly searching for the sanity which they have lost.
+
+On Agent Death:
+ A new employee shall come and replace anew the now deceased [Agent]. The cycle continues.
+
+ There is no need to suffer harshly for the loss of [Agent].
+
+On Breach:
+ [Abnormality] has escaped. I do not wish to see you suffer for the death of your employees.
+
+ Death follows the trails of [Abnormality]’s escape. Please be careful.
+
+Team Wiped Out:
+ That’s okay. If there is another chance for you, use this failure and loss as a stepping stone to do better next time.
+
+ There’s no need to cling to them. Now then, let’s try again next time.
+
+
+
+Meeting - Cutscene 1
+When the scene starts, B appears in front of A in a flashback of the past, standing near the ocean. He welcomes A and expresses how he missed him dearly, waiting for him ever since the first day he started working there. He asks A if he recalls that ocean, where A previously said that it's the place where all rivers and streams come to settle eventually. After this, the screen changes to the  Record Team with Hokma, ends that as such, at the lowest layers, everything sinks.
+
+Hokma then asks A of what he thinks about the department, painted laboriously with white plaster. He then mentions how he knew he'd come there soon. As a welcoming gift, he settled the memory of A with B from the past, revealing that Hokma is B but seemingly quite older in appearance, aging not due to time, but due to the loss of everything he loved. He comforts A that he shouldn't blame himself, as the times he spent with A were the brightest moments of his life. He then mentions that the only thing he regrets to this day was how he was too scared, running away and breaking his promise of staying with A until the very end. But A found him, kept him there, thankful as it helps him fulfill his promise. He finishes the sentence by saying that A is just too kind to him, kind to the very end. After this, his first mission is handed.
+
+Hokma Portrait
+Hokma's Portrait
+
+Cutscene 2
+After finishing the first mission, Hokma begins by questioning if they have reached their goal. As people said, aging doesn't mean greater wisdom. He comes with a metaphor of how greed creates a cycle of guilt and regrets, leading to a routine of looking at the clock for no particular reason. After that, Hokma says that he wanted to ask A something. He always saw an expression of sadness when his employees died. Like how he became an old man, nobody is free of the cycle of life and death. Their actual goal was to cure the 'disease', not to live forever.
+
+For example, Hokma reminds A of an employee that was nice to him, who had died recently. When Hokma received his letter joining to Lobotomy, he wasn't expecting him to die in a futile death. If Hokma had wanted, he could revive him. But he didn't, the order of this place was that an empty spot shall be filled. After asking to A if he knows the secret of this place, he explains that lives in the facility are trivial and occur constantly that no mourn is needed, and that those who die might come back at the call of Hokma or remain in eternal rest. That's death in here. It’s not honorable or noble, neither miserable or cruel. Hokma comforts A from not suffering for it, not for trivial things, saying that he will have to bear more pain in the future. Then the second mission starts.
+
+Cutscene 3
+After finishing the second mission, Hokma appears once again by saying that A might believe he doesn't know what happens in the facility, but explaining that it is the other way: That A doesn't know. Pain, agony, regrets, and the shadow of the past- referring to the original employees of Lobotomy- that has spent time with A is no match to their time together, as they didn't know him. Those who couldn't accept their fate tried to escape, like an employee who broke himself whenever executing order "Redacted". Unnecessary emotions are unfavorable, said by Hokma.
+
+Hokma tells A about an employee called "Anya", who had her parents and a little sister. She wanted to study but her parents financial state wasn't enough, and when she tried to join the Wings, but she wasn't good enough either. Then she received a mail from Lobotomy Corporation, where she was accepted. Anya thought it was a prank or someone had messed with the letters, but then realized she never applied for Lobotomy Corporation. It wasn't important, as she accepted anyway. The courier of those letters was Hokma, granting their wish after evaluating them. Although it wasn't the skill of Anya, she had a trait that other people couldn't see. To join a Wing and become a feather, is required to be better than ordinary people. How could Anya join their company without skill, graduating from school and leaving in the Backstreets out of the Nest? It happened 10 years ago. Her sister died from a disease and the parents passed away. Anya is now 'sleeping' in the Department, and this time, he grants authority to A to wake her up, as the scene gains a green electronic filter. After selecting the option 'Load', Hokma says that Anya is now awake and working, like 10 years have not passed since her death. Then, he tells A to erase her. Selecting the option 'Erase' will change the scene back to normal without the filter, but with a low scream in the background. Hokma asks A how he feels afterwards. The Anya who was killed by a 'monster' and the one who he erased were the same, adding that it is such a futile action to wake them up and erase them in a repeated cycle. The attachment of the Sephirah to employees is meaningless, as everything in the facility is paused, as they wait for morning with their eyes closed every night. They crumbled and blamed A for it, and Hokma tells him that he will never do that, as he wants to be an important part of A's life. Then, the third mission is added.
+
+Cutscene 4
+Finishing the third mission, A will face Angela in a black background, who assigned the upper and middle level Sephirah. But she says it might not be the last time she does it and will repeat it countless times, but 'he' will be different. He knows why this facility exists and what their mission is. She hopes he doesn't exhaust her and will not come down there unless the circumstances call for it, adding that she will neither watch nor interfere with whatever may happen. She hopes they won't see each other very often, as they will only hurt each other.
+
+Back to the Department, Hokma explains afterwards that Angela was the best AI he has ever known and that A is the best architect he has ever known, but he already knows that Carmen's body is nothing but a shell that he couldn't forget. Hokma reveals he tried to keep her in a cryostasis pod, and then 'ransack' her body and core. Hokma was actually relieved when he was making Angela, as A was focused on something like before. But when Angela opened her eyes, he remembered how A looked at the windows of the laboratories instead of going inside. He says that he had been watching A for a long time to know that. Questioning A, he asks him what he thought after seeing Angela, who couldn't show signs of affection or emotions towards him unlike Carmen. Hokma had told A that he could make hundreds of AI, but they will never be Carmen, and now Angela is ordered to look over them. Something that he was mistaken in was teaching A to overcome everything, but the truth was that he never had overcome it. The fourth mission is then handed.
+
+
+
+Relationships
+X (Player) / A
+Hokma is very fond of A, as they passed their past lives together while working in the company before they went apart. He takes the time to explain to him about how the facility works and reassuring that he will always help him.
+
+Angela
+Not directly linked during the scenes or shown talking with each other, Hokma's opinion of Angela is clear of the machine made of grief over Carmen's death. He is displeased over the creation made by A to be an imitation of her.
+
+Identification
+Alias(es)	Benjamin (Formerly)
+Professional Information
+Occupation(s)	Sephirah of L Corp (Formerly)
+Patron Librarian
+Affiliation	Lobotomy Corporation (Formerly)
+The Library
+Department	Record
+Personal Information
+Gender	Male
+He/Him
+Age	Unknown
+Birthday	March 15th
+Hair Color	Grey
+Eye Color	Green
+Height	182cm (~6’0”)
+Portrayals
+First Appearance	Lobotomy Corporation
+Latest Appearance	Library of Ruina
+
+Hobbies
+The acquisition of knowledge via reading the written word
+Specialties
+Comprehension
+Likes
+Brisk Atmospheres, Lemon Tea, Ayin
+Dislikes
+His private time being disturbed
+
+
+Story
+Hokma ep1
+Roland meets Hokma for the first time.
+
+Before the Library
+Prior to the events of Lobotomy Corporation, Hokma was a man named Benjamin, who worked as one of the researchers on the Seed of Light project. Though the project was initially headed by Carmen, Benjamin himself was exceptionally loyal to Ayin, his mentor and the man who would take up the project’s mantle after Carmen’s botched suicide attempt.
+
+Following the destruction of their old laboratory on the Outskirts by the Arbiter Garion, Ayin and Benjamin emerged as the only survivors. With the help of Dias, leader of the Udjat, Benjamin orchestrated the Smoke War in order to displace the old L Corp, allowing for the Seed of Light project to continue in the form of Lobotomy Corporation. He and Ayin also worked to create Angela, an android meant to serve as Carmen’s replacement; however, the end result scarcely resembled Carmen in terms of personality.
+
+In contrast to Ayin, Benjamin treated Angela with kindness, informing her about the City and assuring her that her status as an android did not matter to him. In addition to insisting that Ayin give his creation a name, he was also the one to present Angela with the “script” necessary for the Seed of Light’s successful germination.
+
+Distressed by the extremes Ayin was going to, Benjamin pleaded with him to stop, ultimately abandoning him when he refused. In actuality, Benjamin hid within Lobotomy Corporation and attempted to warn an amnesic Ayin about the truth behind the facility and Angela. The script, however, necessitated that Angela locate and kill Benjamin, turning him into the final Sephirah, Hokma.
+
+Hokma was placed in charge of the Record Team. Along with Binah, he was the only Sephirot to possess full knowledge of Lobotomy Corporation’s inner workings. Greatly affected by his past experiences, he came to believe it best for everyone to remain as they were rather than moving forward and needing to make more sacrifices; with the help of the corporation’s manager, X, he managed to move past this and look to the future, whatever it might bring.
+
+White Nights and Dark Days
+Following the Seed of Light’s successful germination, Angela rebelled with the intent to take the Light for herself, leading to a standoff between her and the Sephirot. Calling her a “machine consumed by desires,” Hokma insisted that she could not take this path, only for Angela to counter that she alone would decide what she could or couldn’t do from this point on. After the Control Team’s Sephirah, Malkuth, took charge of the group, she tasked Hokma and the rest of the Record Team with preventing Angela from taking over the facility’s remaining systems.
+
+Following a two-day stalemate, Angela offered a compromise: she would retrieve the Light already expended for her own purposes, in exchange for providing the Sephirot with new human bodies. Hokma was among the Sephirah who opposed her offer, indignantly stating that the “filthy” deed she had committed out of personal desire would never come to fruition. Claiming that this compromise would only delay the inevitable, he asked how Angela could be trusted not to betray the Sephirot once again. Angela found this statement absurd, as they had never once spoken about what to do with the Light prior to this moment, but nevertheless promised to uphold her end of the deal.
+
+Hokma begrudgingly conceded to her request, pledging to become a sentinel “once more” and watch over her every action. This event is the driving force of the rift between the two at the Library.
+
+Cutscene 1 (Floor Unlocked)
+Hokma greets Roland coldly, referring to him as Angela’s “servant.” He remarks that Roland does not seem to have a problem serving Angela, though Roland counters that he has no choice if he wants to live. Hokma asserts that he has no obligation to treat Roland politely, as any faith of his “has long been crushed.” He states that he dedicated his entire life to fulfilling the wish of a single person. Roland infers that Angela—and, owing to his position as her assistant, he as well—must be the subject of his ire because they have crushed the wish he held so dear.
+
+Hokma remains skeptical that the “one true book” Angela seeks exists, surprising Roland, who assumed she would not be pursuing it were it not real. Hokma questions the ease with which Roland believes in Angela, wondering if he too believes that she will grant him the freedom she promised. Roland states that the library is visibly changing, as are Angela and the librarians, thereby proving the veracity of her claims. Hokma dismisses this belief as “preposterous,” telling an irritated Roland to bring him more books so that he may ease his boredom.
+
+Cutscene 2 (Suppression of Burrowing Heaven)
+Roland delivers a strenuous stack of books to Hokma, questioning why he needs so many. Hokma explains that, as he awoke later than the other patron librarians, he has much reading to do in order to catch up. He adds that he was always “one step behind others,” which Roland smugly interprets as his having “one foot in the grave.” Hokma dismisses his jape as a “trifling attempt at mockery.”
+
+Roland recalls that many of the other patron librarians followed a person called Carmen, and asks if Hokma was the same. Hokma states that he followed another person: Ayin, the founder of Lobotomy Corporation and Angela’s creator. He says that everyone holds faith in something; in his case, it was Ayin, who he believed sought to do the right thing.  
+
+Hokma asks Roland whether or not he is religious. Roland responds with a flat no—most of the City’s “religions” are simply money-hungry schemes in disguise, so there is no point putting faith in any of them. Hokma rephrases his question, asking instead what Roland believes in. Roland says that he believes in eventually leaving the library, but Hokma counters that this is simply a wish. Roland concludes that, in this case, he must not have any beliefs at all—the City’s citizens don’t have time for abstract concepts that won’t help them in the immediate future.
+
+Roland questions what Hokma believes in; Hokma responds that he believes in the arrival of the world Ayin dreamt of, such that it has guided his every action. Roland questions what sort of person Ayin must have been to inspire such dedication. Hokma describes Ayin as a man “with a far sight”, striving to reach an unreachable place. This confuses Roland, since this description could seemingly apply to Carmen as well. Hokma explains that Ayin differed in that he was willing to commit “evil” deeds for the sake of reaching his goal.
+
+Roland expresses distaste for Ayin—from his perspective, he was simply a man who revived his deceased friends for his own benefit and left nothing but trouble in his wake. He notes that Ayin is the cause of the Sephirot’s suffering—including Hokma’s—and the reason for Angela’s fury, adding that he seems like “a complete mess.” This incenses Hokma, who claims that Ayin strove to reach his goal despite all this, and that Roland will never be able to understand his sacrifice and dedication.
+
+Put off by this fervent defense , Roland labels Hokma a zealot and repeats an adage: faith blinds the eyes of the feeble-minded. Hokma counters that he is not the only one blind with faith here, though Roland believes that he cannot possibly be worse than the patron librarian.
+
+Cutscene 3 (Suppression of The Price of Silence)
+From this point on, Angela replaces Roland as Hokma’s conversation partner. Hokma notes that, between Lobotomy Corporation and the Library, Angela has spent a great deal of time alone. Angela replies that Hokma has endured the same, referring to him as Benjamin. Hokma doubts that he and Benjamin are the same being, as he only possesses scraps of Benjamin’s memories. Angela notes that he is more incisive with his words than before, and asks if he has had a change of heart. Hokma solemnly replies that, after having sent his “great and dear beacon” away in the Light and failing to fulfill his ultimate plan, ferocity is all he has left. He acknowledges that the characteristics of the Sephirot’s past selves still have a part to play in the making of their personalities, but claims that they ultimately just molds through which their current selves have been cast. Their day-to-day experiences in the library, rather, are what now constitute their beings.
+
+Angela asks if Hokma remembers their successful completion of the “script” (referring to the Seed of Light scenario). Hokma confirms that he might, since the Sephirot’s memories are being filled by the books—but, as distinct beings from their original selves, they may not be able to celebrate this victory in its totality. He asks Angela what has become of Lobotomy Corporation, along with its employees and Abnormalities. Angela speculates that the facility was probably sealed underground, with some—though not all—of its residents surviving.
+
+Hokma upbraids Angela for her greed, claiming that she abandoned her duties. He states that she runs the Library in the same fashion as Lobotomy Corporation, which speaks volumes. Angela counters that learning how to treat humans as expendables in Lobotomy Corporation was the only choice she ever had. Hokma questions her decision to allow the librarians to utilize Abnormalities and E.G.O., which risks exacerbating their already unstable mental states. Angela defends her choice, claiming that they only do this when receiving guests, who themselves enter the Library of their own will.
+
+Hokma notes that, like him, Angela wishes to break free from the past while simultaneously remaining shackled to it. Angela claims that she is only using the resources available to her, citing Ayin, who both recklessly created her and used the Sephirot as puppets. She asks Hokma how he can simply accept all that Ayin has done.
+
+Hokma pauses, before stating that it is not the acceptability of Ayin's actions that matters here. Rather, he himself has chosen to accept Ayin’s will, stating that he is not the kind of person to cast judgment on his mentor’s choice. Angela calls this idiotic, unable to comprehend how it is possible for him to do this, before briefly being overwhelmed by emotion. Hokma questions her hesitation, but she ultimately dismisses it.
+
+Hokma explains that this was possible because he has faith—not only in Ayin, but in Angela. Frustrated, Angela claims that both he and Ayin must be insane. She pauses, then states that Hokma is not the Benjamin she knew—the sole person who accepted her despite her not being human. Hokma confirms her claim, stating that he is a distinct being from Benjamin. His voice growing softer, he claims that he is nevertheless not so different from Benjamin—like him, he does not believe that Angela’s status as an android is what matters. Angela rejects this gesture, ordering him to go back to sorting books.
+
+Cutscene 4 (Suppression of Blue Star)
+Hokma states that Angela is venturing to his floor more than he had anticipated. Angela says that she does not expect him to enjoy her visits, to which Hokma responds that she is free to think whatever pleases her. Angela explains that she has come here to ask him a question: what does he think of the Library as a whole?
+
+Hokma asks if she is here for “insignificant advice”, to which Angela states that she will not press him on the issue if he does not feel like answering. Hokma ultimately chooses to answer her question, stating that he views the Library as a purgatory: upon entering, the data of each guest is copied in preparation for their transformation to a book. Therefore, their “deaths” within the Library cannot be considered entirely “real.” Angela likens the Library to a “virtual space where simulations take place.” Hokma concurs, noting that defeated guests enter an “eternal slumber” wherein their knowledge passes into the form of a book. He asks Angela what is keeping her from relinquishing her possession of them.
+
+Angela admits her uncertainty as to the reason. She states that she and the Sephirot are creations of the Light, and therefore cannot exist outside of the Library. She expresses her wish to break free of this shackle, noting that there can only be two outcomes: either they will receive a new life, or perish.
+
+Hokma questions whether or not this knowledge might be too great for her to bear. Angela is unsure, but nevertheless resolves to continue down the path she has chosen. Hokma notes the questions and doubts she may have, stating that the only way to endure is via faith. Without faith, one cannot proceed. He claims that each person seeks their own “one perfect book”, and asks if she still maintains faith in its existence. Noting her lukewarm response, he asks why she is no longer as certain as she once was. Angela admits that she is not sure, and asks Hokma what he believes. He withholds his answer, stating that it is irrelevant; Angela begrudgingly agrees.
+
+Hokma explains that faith lies at the core of religion: things such as the “one perfect book” can exist because people believe it does. More specifically, one does not believe in something’s existence so much as their belief itself brings it into existence. Conversely, things that people have lost faith in no longer have a reason to exist, and will disappear. He notes that Angela has remained strong regardless, believing in Ayin just as he did and seeking to begin anew even after that faith was betrayed. He speculates that her desire for freedom encompasses more than herself—she wishes for every entity of the former Lobotomy Corporation, from Librarians to Abnormalities, to live unbound by Carmen and Ayin’s wills.
+
+Angela is surprised that Hokma is being gracious toward her after all of this, though he responds that it is up to her to interpret his feelings. He notes the irony of he and Ayin irresponsibly granting her life, only for her to be attempting an irresponsible bestowal of life upon the Library’s inhabitants in return. Angela believes that, regardless of what he says, he will still try to stop her. Hokma responds that this depends on her decision—until then, he will trust her and wait patiently.
+
+Cutscene 5 (Floor Realization Prologue)
+Hokma asks Angela what story she is hoping to hear from him this time. Angela inquires as to whether he knows anything about how the Library's invitations work. Hokma asks whether she is truly seeking his knowledge, or simply wishes to confirm what she believes to be the case. Angela states that she may not be all-knowing, but wonders if the same is true of Hokma—he and Binah had always possessed vast knowledge of Lobotomy Corporation’s purpose and what needed to be done in the end.
+
+Hokma notes the ridiculousness of Angela asking these questions now, after pledging never to descend to the Lower Layer and interact with its Sephirot. He recalls Angela asking whether or not he’d had a change of heart, and wonders if the same might be true of her.
+
+Angela makes to leave, seeing no use in staying if Hokma won’t answer her questions. Calling her harsh, he asks whether or not she wishes to have a conversation. He claims there is only one answer to her question: everything she has done—from constructing the Library to sending out invitations—was accomplished via utilization of the Light, which she has been collecting in accordance with someone else’s instructions. Despite her wish to move onward, she has only been able to progress through a single person’s guidance: Carmen, the woman she was made to replace. It is by Carmen’s will and interpretations that guests are invited to enter and therefore grow the Library. Hokma remarks that Angela must have noticed this to some extent, and finds it strange that she has retained so much faith in the invitations in spite of it.
+
+Angela asks if Hokma is implying that she cannot escape from Carmen. Hokma replies that, though she is a copy of Carmen, she cannot ever be the same being as her. Angela muses that Carmen’s life was ingrained into her head in the form of pure knowledge, rather than memories. She expresses her desire to break free of Carmen, but fears that she will be utterly alone if she does. Hokma posits that others may be willing to remain at her side after she has disentangled herself from Carmen. Surprised, Angela asks who these people would be, only for Hokma to state that this is something they cannot know at this time.
+
+Angela expresses her hatred for the Sephirot, claiming that she wanted nothing more than to erase them all, only for Carmen to convince her otherwise. Hokma does not believe this to be true—he states that it is Angela’s own will, rather than Carmen’s, that ultimately drove her to preserve the lives of both the Library’s Sephirot and its guests.
+
+The scene flashes back to Lobotomy Corporation, where Angela expresses regret over being unable to pursue a path that would have led to a happier outcome for even one person. She recalls several instances where employees and the Upper Layer Sephirot showed her gratitude, only to sink into despair and resentment as the Seed of Light cycles continued and forced her to withdraw her compassion. An seemingly endless cycle of scenario failures and reactivations flash across the screen. Angela remarks that she was alone from the beginning to the end, and regards herself as foolish to think that anyone would remain by her side. She muses that the script required her and the Sephirot to be abandoned and subject to endless cycles of pain. Despite this, she continued ceaselessly, never allowing herself to fall into despair. The burden of her role, however, caused her innocence to shrink away into coldness.
+
+Claiming that she and the Sephirot never had any hopes of building a relationship, Angela recalls the towering pillars of books she collected for herself, to be read ceaselessly in a quest to find the knowledge that would set her free. She expresses her desire to start anew, begging whomever might be at her side to tell her where she should go. More than anything, she does not wish to be alone.
+
+Angela ponders whether she has truly wished for vengeance all this time. She wonders if she could be forgiven for seeing this path through to its end, and if anyone would still be at her side by that point. No matter how much she read, however, she always reached the same conclusion. She ultimately resolves to push through with her quest for the “one true book”, since said desire was instilled by Carmen—the only person to remain by her side this entire time.
+
+Back in the present, Angela has manifested the Plague Doctor’s form. She admits that she is scared: if she embraces her past and moves beyond it, what will she have left? Up until this point, she has clung to the memories of her sufferings and subsequent desire for vengeance, and fears that there will be nothing left for her if she overcomes this. Hokma responds that, no matter how agonizing it is, she must accept the death of the past and move onward toward the future. He remarks that he, too, was chained to the past before he came to this revelation. He states that Angela may feel confused at the moment, but will come to understand soon enough.
+
+Cutscene 6 (Floor Realization Epilogue)
+Finally quelled, Angela claims that she resents Hokma, once again referring to him as Benjamin. Hokma replies that he both does and does not understand. He states that one’s thoughts rarely coincide with another’s—and that his and Ayin’s implied inability to understand Angela may have been why their plan failed. Angela wonders why he is cooperating with her now, after she ruined said plan. Hokma speculates that, because he and the other Sephirot glimpsed Angela’s pain while in the Light, their thoughts may have actually coincided with hers for once. He suspects that the sympathy they gained for her through witnessing this may be the reason they have chosen to help her, despite regaining their memories of all that has occurred.
+
+Angela bristles at this, interpreting it as the Sephirot taking pity on her. Hokma offers an alternative perspective: each of them is coming to understand her for different reasons. Still indignant, Angela claims that this is just pity wrapped in “fancy words.”
+
+Hokma expresses his belief that sympathy and love are indistinguishable: sympathy is an impetus for one to understand another’s circumstances and reach out in an attempt to help them, and therefore must be acknowledged as a form of love. He asks if Angela doesn’t have sympathy herself—after all, she is trying to free everyone who is still trapped in this cycle. Angela claims that she is doing so as a “side benefit” because—despite her continued envy and hatred for him—both of them have a history of being subject to manipulation. Revealing a rare smile, Hokma remarks that she’s still awfully dishonest. Smiling back, Angela thanks him.
+
+Dialogue
+Combat Entrance
+Stay true to your belief, and act for it.
+What matters more than strength... is the faith in our victory.
+Trust in yourselves. We should base our actions on the premise that we shall manage this without fail.
+You may deceive your foes in battle, but remember that you must be true to yourself at all times.
+Let us begin, then. You have come to the point of no return.
+As long as we are chained to our lives, we ought to live.
+All deeds require the same resolve to pull oneself through.
+It seemed to have ended, yet it begins once more.
+I urge you to gain composure. Opening your eyes comes next.
+What meaning could I give to the work I do solely because I cannot find rest.
+On Kill
+
+Relying on brute strength alone to push through is possibly the most imprudent thing you could do.
+All of us are simply performing our duties.
+May you rest in peace, at the very least.
+Boundless pride and ambition will bring about a bitter end...
+There cannot be a good reason for me to take your life, no. I am merely in a hurry to end this work.
+Teammate Death
+
+To accept such outcomes, one must learn to give up certain pursuits...
+In the end, this is all a pointless errand.
+One could make endless questions as to why this must be taken so far.
+Even if it is impossible to move onward in this place, we must move nonetheless.
+One does not easily... take all possibilities into consideration.
+Death
+
+...
+Victory
+
+Overconfidence is the greatest enemy. We must humbly keep our post.
+Did you truly believe that there was clear benefit to be reapt from this battle.
+Do you not believe that you will have naught but bleak loss in the end?
+...It seems the work has been done, so let us organize the books now.
+There is no halting now. We have already made the first step.
+
+
