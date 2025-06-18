@@ -2,6 +2,7 @@ import os
 import glob
 import json
 import re
+from datetime import datetime
 
 IGNORE_PHRASES = [
     'episode', 'omitted', 'http', 'tvtropes'
@@ -50,18 +51,18 @@ def clean_line(line: str) -> str | None:
     return text.strip()
 
 
-def gather_from_abno(folder: str) -> list[str]:
+def gather_from_abno(folder: str) -> list[tuple[str, str]]:
     lines = []
     for fname in glob.glob(os.path.join(folder, '*.txt')):
         with open(fname, encoding='utf-8') as f:
             for line in f:
                 cleaned = clean_line(line)
                 if cleaned:
-                    lines.append(cleaned)
+                    lines.append((cleaned, fname))
     return lines
 
 
-def gather_from_hokmaballs(pattern: str = 'hokmaballs*.txt') -> list[str]:
+def gather_from_hokmaballs(pattern: str = 'hokmaballs*.txt') -> list[tuple[str, str]]:
     lines = []
     for fname in glob.glob(pattern):
         with open(fname, encoding='utf-8') as f:
@@ -70,11 +71,11 @@ def gather_from_hokmaballs(pattern: str = 'hokmaballs*.txt') -> list[str]:
                     continue
                 cleaned = clean_line(line)
                 if cleaned:
-                    lines.append(cleaned)
+                    lines.append((cleaned, fname))
     return lines
 
 
-def gather_from_json(path: str) -> list[str]:
+def gather_from_json(path: str) -> list[tuple[str, str]]:
     lines = []
     with open(path, encoding='utf-8') as f:
         data = json.load(f)
@@ -83,10 +84,10 @@ def gather_from_json(path: str) -> list[str]:
             for line in entry.get(key, []):
                 cleaned = clean_line(line)
                 if cleaned:
-                    lines.append(cleaned)
+                    lines.append((cleaned, path))
     return lines
 
-def gather_pairs_from_json(path: str) -> list[dict]:
+def gather_pairs_from_json(path: str, created_at: str) -> list[dict]:
     pairs = []
     with open(path, encoding='utf-8') as f:
         data = json.load(f)
@@ -105,7 +106,10 @@ def gather_pairs_from_json(path: str) -> list[dict]:
                     'instruction': instruction,
                     'input': inp_clean,
                     'output': out_clean,
-                    'theme': theme
+                    'theme': theme,
+                    'reviewed': False,
+                    'source_file': path,
+                    'created_at': created_at
                 })
     return pairs
 
@@ -123,29 +127,39 @@ def classify_theme(line: str) -> str:
     return 'reflection'
 
 
-def build_entries(lines: list[str]) -> list[dict]:
+def build_entries(items: list[tuple[str, str]], created_at: str) -> list[dict]:
     entries = []
-    for line in lines:
+    for line, source in items:
         theme = classify_theme(line)
         instruction, prompt = THEME_MAP[theme]
         entries.append({
             'instruction': instruction,
             'input': prompt,
             'output': line,
-            'theme': theme
+            'theme': theme,
+            'reviewed': False,
+            'source_file': source,
+            'created_at': created_at
         })
     return entries
 
 
 def main():
+    timestamp = datetime.utcnow().isoformat() + 'Z'
     lines = []
     lines.extend(gather_from_abno('abnormalities list'))
     lines.extend(gather_from_hokmaballs())
     lines.extend(gather_from_json('hokma_templates_cleaned.json'))
-    unique = sorted(set(lines))
-    entries = build_entries(unique)
+    # deduplicate text while keeping source; prefer first occurrence
+    seen_text = {}
+    for text, src in lines:
+        if text not in seen_text:
+            seen_text[text] = src
+    unique = [(text, src) for text, src in seen_text.items()]
+
+    entries = build_entries(unique, timestamp)
     # Add explicit prompt/response pairs from the cleaned templates
-    entries.extend(gather_pairs_from_json('hokma_templates_cleaned.json'))
+    entries.extend(gather_pairs_from_json('hokma_templates_cleaned.json', timestamp))
     dedup = []
     seen = set()
     for e in entries:

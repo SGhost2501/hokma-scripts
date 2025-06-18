@@ -14,6 +14,11 @@ This toolkit processes, cleans, audits, and refines LLM prompt/response template
 - **Script:** `scripts/build_hokma_corpus.py`
 - **Purpose:** Gathers lines from `hokma_templates_final_1to1_filled.json`, all files in `abnormalities list/`, and `hokmaballs*.txt` into `hokma_corpus.txt` after filtering meta and malformed text.
 
+### 0.6 Build Final Corpus
+- **Script:** `scripts/build_hokma_corpus_final.py`
+- **Purpose:** Deduplicates lines, classifies themes, and outputs `hokma_corpus_final.jsonl` with `reviewed`, `source_file`, and `created_at` metadata.
+  Afterwards run `audit_hokma_corpus_final.py` to check for duplicates and short entries.
+
 ### 1. Merge Raw Text Files
 
 - **Script:** `merge_hokmaballs_to_json.py`
