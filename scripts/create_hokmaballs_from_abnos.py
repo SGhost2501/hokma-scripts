@@ -35,8 +35,9 @@ def categorize(text: str) -> str:
             return theme
     return 'advice'
 
-MAX_OUTPUTS = 100
-MAX_INPUTS = 50
+# Collect as many unique lines as available
+MAX_OUTPUTS = None
+MAX_INPUTS = None
 
 def clean_line(text: str) -> str:
     text = re.sub(r"\s+", " ", text.strip())
@@ -68,14 +69,14 @@ def gather_lines():
                 theme = categorize(line)
                 if is_question(line):
                     if (
-                        len(data[theme]['inputs']) < MAX_INPUTS
+                        (MAX_INPUTS is None or len(data[theme]['inputs']) < MAX_INPUTS)
                         and line not in data[theme]['i_set']
                     ):
                         data[theme]['inputs'].append(line)
                         data[theme]['i_set'].add(line)
                 else:
                     if (
-                        len(data[theme]['outputs']) < MAX_OUTPUTS
+                        (MAX_OUTPUTS is None or len(data[theme]['outputs']) < MAX_OUTPUTS)
                         and line not in data[theme]['o_set']
                     ):
                         data[theme]['outputs'].append(line)
@@ -97,11 +98,13 @@ def write_files(data):
             out.write('========================\n')
             for line in outputs:
                 out.write(line + '\n')
-            out.write('\n========================\n')
-            out.write(f'{theme.upper()} – AUTO (inputs)\n')
-            out.write('========================\n')
-            for line in inputs:
-                out.write(line + '\n')
+            if inputs:
+                out.write('\n========================\n')
+                out.write(f'{theme.upper()} – AUTO (inputs)\n')
+                out.write('========================\n')
+                for line in inputs:
+                    out.write(line + '\n')
+        print(f"{theme}: {len(outputs)} outputs, {len(inputs)} inputs")
 
 def main():
     data = gather_lines()
@@ -109,3 +112,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

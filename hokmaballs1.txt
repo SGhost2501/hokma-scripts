@@ -1,14 +1,26 @@
 ========================
 ADVICE – AUTO (outputs)
 ========================
+"It's good to see a familiar face."
+"Nagel und Hammer... The Wing that values experience above all else."
+"So it really wasn't a malfunction. Those crooks at W Corp... They knew everything."
+"To know and manipulate all the secrets of the world; that is the privilege of the Head, the Eye and the Claws. It is their right and absolute power."
+(Complete the Realization of the Floor of General Works to access this fight)
+(Liu Association Section 2 - Liu Association Section 2 Ⅱ) • Liu Association Section 1 • Xiao
+*Ayin maps Carmens brain and possibly starts making the blueprints for Angela
+*First known case of the distortion phenomenon, the pianist
+- Angela
 - Continue expanding deep RP (Angela/Binah/Ayin)
 - Generate 30–50 suppression entries
 - JSONL with Alpaca-style:
 - Lore (Ayin, Angela, Seed of Light, The Head, Sephirah)
 - Model: Mistral-7B (quantized/LoRA recommended)
+- Moses, The Distortion Detective Chapter 1
 - Personality (philosophical, cryptic, emotionally suppressed)
 - Receive suppression data (Yesod, Gebura, etc.)
 - Relationships and key events
+- Roland
+- Singing Machine's Flavour Text
 - Symbolism, suppression, and morality themes
 - Target: 1,000 entries total for high-fidelity LoRA fine-tune
 - `hokma_train_270_abnormality_full.jsonl` — Latest dataset
@@ -23,52 +35,928 @@ ADVICE – AUTO (outputs)
 - ✅ Internal monologues, canonical rewrites, RP interactions
 - 🔄 Suppression arcs: pending user input
 - 🛠 Ready for LoRA QLoRA fine-tune on Mistral-7B
+--1000 years later in the cycle, 10 in real time and 1,000,000 perceived by Angela--
+--5 months later (Christmas)--
+--6 months later--
+--About 1 year later--
+--Beginning of the next year (Jan, 984)--
+...
+...It seems the work has been done, so let us organize the books now.
+00: Unknown
+01: Humanoid—or possessing human-like characteristics:
+02: Animalistic:
+03: Otherworldly or religious:
+04: Inanimate objects:
+05: Machines and artifacts:
+06: ‘Abstract’—due to the limited data pool (1.76 MHz and Nothing There), this rationale for this classification is mostly speculative:
+07: ‘Breaching Tool’:
+08: Unknown—possibly ‘Sin’:
+09: Tool-type:
+1 Description
+1 History
+1 Red Invitations
+1.1 Canard
+1.1 Origins
+1.2 The Pianist
+1.2 Urban Myth
+1.3 Overview
+1.3 Urban Legend
+1.4 Urban Plague
+1.5 Urban Nightmare
+1.6 Star of the City
+1.7 Impuritas Civitatis
+10% Energy Quota: Rotates the facility by 36­°.
+1Any unlocked but uncompleted Abnormality battles on the KeterIcon.pngFloor of General Works must be completed before it can be viewed
+2 Events
+2 Known Distortions
+2.1 Fixers
+2.1 Library Of Ruina
+2.2 The Udjat
+2.2 WonderLab
+2.3 Aftermath
+2.3 The Distortion Detective
+2.4 Limbus Company
+20% Energy Quota: Rotates the facility by 72°.
+3 See also
+30% Energy Quota: Rotates the facility by 108°.
+4 Gallery
+40% Energy Quota: Rotates the facility by 144­°.
+5 References
+50% Energy Quota: Rotates the facility by 180°.
+60% Energy Quota: Background music changes. The facility looks to be rising upward.
+70% Energy Quota: Increases the speed of the facility rising.
+80% Energy Quota: Increases the speed as the screen fades to white. The facility has reached the surface.
+90% Energy Quota: The beam of light activates above the facility, shining light over the world
+A Backstreets Butcher, Page 1
+A Backstreets Butcher, Page 2
+A Bayard’s Office Fixer’s Page
+A Blade Lineage Cutthroat’s Page
+A Church of Gears Worshipper’s Page
+A Corp. / Arbiters.
+A Corp. Directly run by the Head. Manages all other Wings and handles Singularity and technology patents. Uses special agents referred to as 'Arbiters' to carry out its tasks.[22][13]
+A Day in the Limelight: Canto IV is set in the main building of K-CORP, which gets attacked by the Technology Liberation Alliance, and the Singularity of K-CORP is finally explained fully.
+A Grade 7 Fixer, Page 1
+A Grade 7 Fixer, Page 2
+A Grade 7 Fixer, Page 3
+A Grade 8 Fixer, Page 1
+A Grade 8 Fixer, Page 2
+A Grade 8 Fixer, Page 3
+A Hana Fixer’s Page
+A Hook Office Fixer, Page 1
+A Hook Office Fixer, Page 2
+A Jeong’s Office Fixer’s Page
+A Kurokumo Henchman’s Page
+A Leaflet Workshop Fixer’s Page
+A Liu Section 1 Fixer’s Page
+A Liu Section 2 Fixer’s Page
+A Mirae Insurer’s Page
+A Night Awl’s Page
+A Puppet, Page 1
+A Puppet, Page 2
+A Rusted Chainlink’s Page
+A Seven Association Fixer’s Page
+A Shi Fixer’s Page
+A Smiling Face’s Page
+A Stray Dog’s Page
+A Sweeper’s Page
+A Thumb Soldato’s Page
+A WARP Cleanup Agent's Page
+A WARP Cleanup Agent’s Page
+A Wing that specializes in controlling gravity via their Singularity.
+A Wing that uses a Singularity called Fairies. The Fairies can unlock anything, physically or conceptually.
+A Wing whose Singularity allows them to lock anything, physically or conceptually. Emma and Noah were former employees in J Corp's Nest.
+A Workshop-affiliated Fixer’s Page
+A Yun’s Office Fixer, Page 1
+A Yun’s Office Fixer, Page 2
+A Yun’s Office Fixer, Page 3
+A Zwei Fixer’s Page
+A few days later, Carmen spilled out all of the guilt within her and plunged into it, never to come back up.
 A given work type button can be linked back to its own corresponding work type (i.e. the button gives the 'correct' work type until re-randomization).
+A new employee shall come and replace anew the now deceased [Agent]. The cycle continues.
+A relatively unknown Wing whose Singularity involves glyphs or runes that can cast esoteric spells on their targets.
+Abnormalities
+Abnormalities created by the Tumblbug backers that crowdfunded the Lobotomy Corporation kickstarter from before the official release of the game.
+Abnormalities of ascending Risk Levels.
+Abnormalities that are described or appear to be foreign and alien to the world the City takes place in.
+Abnormalities that resemble animals, rather than humans.
+Abnormality Dissolution
+According to Kalo in his Key Page Story, under the hierarchy of The Thumb, a board member of a Wing is equal in status to a Thumb Sottocapo.
+Additionally, Moses' actions during the Smoke War heavily guilted her and caused her to seek atonement by later establishing herself as the "Distortion Detective."
+Affiliation Lobotomy Corporation (Formerly)
+After a Wing collapses, its Singularity becomes publicly available, no longer protected under patent.
+After each Qliphoth Meltdown: The boosted type of damage is changed.
 After losing 1/3 of her Max HP (i.e. 1000) she will perform the Gold Rush attack used in Phase 1. This attack occurs twice in Phase 3.
+Aftermath
+Age Unknown
+Albums Original Soundtrack
+Alias(es) Benjamin (Formerly)
+All deeds require the same resolve to pull oneself through.
+All locations in Library of Ruina.
+All of us are simply performing our duties.
+All three of these Abnormalities are associated with objects from or are representative of mythology, which is where the speculation that M stands for Mythical stems from.
+Allen’s Page
+Alloc’s Page
+Alphabetical Theme Naming: From A, B, and C Corp. all the way to Z Corp.
+Also known as "The One Who Grips", Kromer is the leader of the fanatical N Corp. Inquisition, a group of N Corp. agents styled after the Knight Templar and the Inquisition.
+Amazon Brigade: Every known Arbiter (all two of them) is female.
+Ambiguous Situation:
+An Arbiter has 2400 HP instead of 4000 HP, 40% less than the original.
+An Axe Gang Member, Page 1
+An Axe Gang Member, Page 2
+An Index Proselyte’s Page
+An Udjat’s Page
+An ‘abnormality’ refers to an abnormal trait or occurrence; the term is usually used in a medical context.
+Anachronism Stew: Its Nest architecture and its culture heavily resemble Industrial Revolution England, in a futuristic dystopian setting. Fitting a Wing revolving around time itself.
+And she was right; a huge war broke out soon after. Thick smoke covered that Nest.
+Angela
+Angela (Moments before retreating): "You sure are verbose company, just like Binah."note
+Angela - Roland - Malkuth - Yesod - Hod - Netzach - Tiphereth - Gebura - Chesed - Binah - Hokma
+Angela betrays L corp and takes the light for herself
+Angela gains ego and builds the library
+Anton’s Page
+Anyways, since I was asked to pay a visit to the Library… It’ll be worth investigating the case some more after I get this job done.
+Appears on BinahIcon.pngFloor of Philosophy
+Appears on ChesedIcon.pngFloor of Social Sciences
+Appears on HokmaIcon.pngFloor of Religion
+Appears on KeterIcon.pngFloor of General Works
+Appears on NetzachIcon.pngFloor of Art
+Appears on TipherethIcon.pngFloor of Natural Sciences
+Applies to Abnormalities resembling inanimate objects similar to those classified as 04, but includes mechanical entities that can act autonomously and are capable of independent action.
+Arc Villain: They, and their leader Kromer in particular, act as the main antagonists of Canto III of Limbus Company.
+Argalia’s Page
+Arnold’s Page
 As before, The Red Mist will stay in the room she is in, engaging entities that enter the room. As she has new weapons, her attacks have changed.
+As long as we are chained to our lives, we ought to live.
+As of Intervallo I, its District remains unclaimed.[3]
+Astonishingly Appropriate Appearance: Her hair is styled to resemble rabbit ears.
+Audio Transcript of Testimony from District 22 Resident 1
+Audio Transcript of Testimony from District 22 Resident 2
+Audio Transcript of Testimony from a Fixer of OO Office
+Ayin devises the seed of light scenario to which Angela is an important piece
+Ayin is the first to join her cause and Benjamin follows Ayin
+Ayin reads garion's brain to learn about the secrets of the city and become a wing
+B Corp. / Beholders.
+BFS: Members of the Mao branch wield a flat-tipped blade as long as they are tall.
+BLACK for the black horse of Famine.
+Backstreets
+Backstreets Butchers • Hook Office Remnants • Urban Myth-class Syndicate
+Bada’s Page
+Bamboo-hatted Kim
+Bamboo-hatted Kim’s Page
+Baral
+Baral (Unmarked Spoilers)
+Bayard’s Page
+Bedlam House: 'Limbus Company' briefly references them running an "Abyss Trauma Correctional Facility", which people can apparently be forcibly committed to.
+Before the Library
+Behavior
+Behaviors are affected by various factors and situations—especially via the manager’s choices—and cause long-term and significant consequences.
+Berserk Button:
+Berserk Button: There's a set of Taboos that are grounds to instant execution when breached, but one of them is known as K185 a.k.a. smashing the glass of their buildings.
+Big Brother Is Watching: Their Nest has many surveillance cameras which look for anybody cheating in the gambling games that take place in J Corp's nest.
+Binah (Right after saving Gebura and Roland): "It is indeed true that verbosity leaves you vulnerable."
+Binah Episode V
+Binah Meltdown
+Binah's Boss appearance
+BinahIcon.pngFloor of Philosophy Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Birthday March 15th
+BlackSilenceIcon
+Boisterous Bruiser: Maxim, and by extension the rest the Rhino Team, are the loud, headstrong muscle of the R Corp mercenaries.
+Bono’s Page
+Book of Cecil
+Book of Dalloc
+Book of Esther
+Book of Hubert
+Book of Isadora
+Book of Kalo
+Book of Liu Association Section 1
+Book of Lobotomy Corporation
+Book of Lowell
+Book of Molar Office
+Book of Nemo
+Book of Olga
+Book of Sayo
+Book of Shi Association
+Book of The Musicians of Bremen
+Book of Wedge Office
+Book of Yuna
+Book of Zwei South Section 6
+Book of the Distortion
+Book of the Reindeer Team
+Book of the Rhino Team
+Boris’ Page
+Boss Battle: Nikolai and the three team captains are fought all at once during their final reception, serving as the finale of the WARP Train arc.
+Boundless pride and ambition will bring about a bitter end...
+Brainwashed and Crazy: They are created through what is presumably a Singularity that implements them with canned experience, brainwashing them into fanatical zealots.
+Bremen’s Page
+Brisk Atmospheres, Lemon Tea, Ayin
+Brotherhood of Iron
+Brotherhood of Iron Chapter 3 1 Book of Yun’s Office
+BrotherhoodofIronIcon
+BurnBooksIcon.png Dear Guests, this Page is currently undergoing realization. Please bear with us as we fully realize the Page of Distortions!
+C Corp. / Claws.
+Can be turned off from appearing in the Abnormality selection pool in the settings.
+Canard
+Canard Rats • (Yun’s Office Fixers - Yun’s Office Rookie - Yun’s Office) • Brotherhood of Iron • Hook Office
+CanardIcon.png
+CanardIcon.png Canard CanardIcon.pngPrologue (Episode 1 - Episode 2 - Episode 3 - Episode 4)
+CanardIcon.pngSmall Stories Small Stories 1 • Small Stories 2 • Small Stories 3 • Small Stories 4 • Small Stories 5 • Small Stories 6 • Small Stories 7 • Small Stories 8 • Small Stories 9
+Cane Office
+Cane Office Chapter 1.4 1 Book of WARP Cleanup Crew
+Cane Office • R Corp. • R Corp. Ⅱ
+CaneOfficeIcon
+Carmen gives speeches about the disease of the mind and recruits people
+Carmen is found in the bathtub by Ayin who tries to preserve her body
+Carmen recruits Kali as a grade 2 and then recruits Daniel after kidnaping him by mistake
+Case Name: ‘Thousand Needles’
 Category 🎯 Goal ✅ Current 🟩 % Done
+Category:Locations
+Cecil’s Page
+Channeled Use Tools: Tools that have a constant work use that can be cancelled when ordered again. These Tools have a 'Time of Use' to unlock their information.
+Characters Main Characters / Patron Librarians:
+Chesed Episode V
+Chesed Meltdown
+Chesed's Boss appearance
+ChesedIcon.pngFloor of Soc. Sciences Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Chun’s Page
+Classification Code
+Clone Army: Their singularity is to replicate almost infinite copies of the same person, and the original entities are presumably deceased.
+Closed Circle:
+Cloudcuckoolander:
+Codex
+Collapse of Lobotomy Corporation
+Collusion
+Combat Entrance
+Commonly are either: religious in theming; dependent on human attention or worship; (un)able to be properly comprehended by human understanding and/or perception.
+Competition
+Completing Qliphoth Level 10 with insufficient energy: The game speed will increase to x2.5 speed. The screen colours will fully fade out, leaving the screen in complete grayscale.
+Comprehension
+Consequences due to (mis)management are often instantaneous or impromptu.
+Consists of 10 different Receptions, each received by a different Floor:
+Consta’s Page
+Contents
 Created by ChatGPT in collaboration with user.
+CredenzaIcon.png List of Story Episodes
+Crystal Spires and Togas: District 14 is composed of white buildings as if the entire place is "blanketed with snow".
+Current Wings
+Cut Lex Luthor a Check:
+Cutscene 1 (Floor Unlocked)
+Cutscene 2
+Cutscene 2 (Suppression of Burrowing Heaven)
+Cutscene 3
+Cutscene 3 (Suppression of The Price of Silence)
+Cutscene 4
+Cutscene 4 (Suppression of Blue Star)
+Cutscene 5 (Floor Realization Prologue)
+Cutscene 6 (Floor Realization Epilogue)
+D Corp. Briefly mentioned as part of controlling their District in the menu map.
+D: Donation
+Dalloc’s Page
+Damage-Increasing Debuff: Her Finishing Touch passive causes her to mark the last target she attacks each Scene, making them take 50% increased damage from all attacks while it persists.
+Dante is being chasen by some furrys and replaces his head with a clock
+Dante's Notes in Limbus Company clarifies this: Nagel und Hammer is the full name of N Corp. Which means the Inquisition is acting under its name.
+Dante’s Page
+Dark Is Evil: She wears the standard Arbiter uniform (the same one Garion/Binah wears back in L Corp) and is easily one of the City's most dangerous entities.
+Date of Occurrence: XXXX/XX/21
 Date: 2025-06-07
+Dawn Office
+Dawn Office Chapter 1.3 1 Book of Walter
+Dawn Office • Wedge Office
+DawnOfficeIcon
+Denis’ Page
+Department Record
+Der Freischütz's bullets will be rotated according to the facility rotation.
+Description
+Despite all that, people still inhabit the Backstreets. They doggedly struggle and survive in their own ways here.
+Despite there being 26 Wings, no corresponding "District 26" or "Nest Z" have appeared or been mentioned so far in any capacity.
 Develop a fully fine-tuned, persona-stable LLM capable of roleplaying Hokma from Lobotomy Corporation / Library of Ruina in a Discord bot. The model should deeply understand Hokma’s:
+Development Voice Actors - AGF 2019 LoR Q&A Session Compilation - Library Of Ruina Art Book
+Dialogue
+Did you truly believe that there was clear benefit to be reapt from this battle.
+Dino’s Page
+Dislikes
+Distortions
+Does not appear in Lobotomy Corporation, but several Abnormalities with the 'M' classification appear in Limbus Company, including My Form Empties, Brazen Bull, and Doomsday Calendar.
+Does not appear in normal gameplay, only on Standard Training Dummy Rabbit.
+Dong-hwan the Grade 1 Fixer’s Page
+Donor Abnormalities are given unique, rounded extraction boxes to differentiate them from regular Abnormalities with square boxes on the selection menu.
+Don’t count on me, though. I also picked this story up from my superior. That’s enough chittering, let’s get back to work.
 During its event an old filter with small black marks or spots along the (now darker) corners will cover the screen during the day. A light glow occurs during certain Qliphoth Meltdown levels.
 During its event, a filter similar to an old transmission will cover the screen. An expansive wave is emitted from the Sephirah upon reaching Qliphoth Meltdowns Level 2 and 4.
 During its event, a green smoke or gas-like filter covers the screen during the day.
 During its event, a static filter surrounds the borders of the screen. It covers the screen completely for a moment after the day starts and when reaching Qliphoth Meltdowns Level 2 and 4.
+During the event, a rain overlay is displayed that covers the whole screen when beginning the Core Suppression and when advancing through certain segments of the Suppression.
+During the event, dark corners and later on, a granulated effect covers the screen during the day.
+During the event, it consists of the common effects said above and the inclusion of the Asiyah Sephirah bosses (Malkuth, Yesod, Hod, and Netzach).
+During this phase, An Arbiter will become Immune to damage and will charge pillars around itself in the cardinal directions, up to 8 pillars of random damage types.
+E Corp. One of the major parties involved in the Smoke War.
+E.G.O
+E.G.O Corrosion
+E.G.O Gifts
+EBoxIcon
+Each Abnormality is given a classification code following a Letter-XX-YY format:
+Each of the damage types is the same color of one of the Four Horsemen of the Apocalypse.
+Eastern Zodiac: What they're based off of, with each pack corresponding to one animal in the zodiac.
+Edit
+Eileen’s Page
+Elena’s Page
+Elijah eats cogito
+Elite Army:
+Emma and Noah
+Emma’s Page
+Employees that are in the same room as an Arbiter will have a Dark Fog like effect near their feet. Employees with this effect will have their Attack Speed and Movement Speed reduced by -15.
+Enkephalin
+Enoch and Lisa, two kids from the outskirts, join too and enoch wants to participate in the experiments
+Episode 2: Book of Harold and Book of Mirinae
+Episode 2: Book of Mars
+Episode 2: Book of Zwei South Section 6, Book of Lulu and Book of Mars
+Episode 2: Book of a Grade 9 Fixer
+Episode 2: Book of the Thumb and Liu Association Section 2, Vol. I
+Episode 2: Unstable Book of the Crying Children and Liu Association Section 2, Vol. I
+Episode 3: Book of Finn
+Episode 3: Book of Julia, Book of San and Book of the Distortion
+Equivalent Exchange: Their Singularity apparently needs to "collect time" to operate. They collect this time via the WARP trains.
+Eri’s Page
+Esther’s Page
+Etymology
+Even if it is impossible to move onward in this place, we must move nonetheless.
+Events
+Every team in the Fourth Pack has its own character! Our personalities, powers, and strengths are all wildly different, but we still do most of our missions in packs.
+Evil Counterpart: She's basically Binah back during her time as Garion, right down to having the same hair color and Psychotic Smirk. She's also just as verbose as Binah, as noted by Angela.
+Excludes humanoid collections of non-human objects (ex. Snow White’s Apple).
+Eye Color Green
+F Corp.
+F Corp. Its Singularity revolves around manufacturing Fairies, which have the ability to 'open' anything, whether it be in a literal or conceptual sense.[24][25]
+F Corp. Singularity produces fairies capable of unlocking anything, including concepts. One of the major parties involved in the Smoke War, on the side of Old L Corp.
+F: Fairytale
+Factions
+Factions Fixers - Offices - Workshops - Associations - Syndicates - Five Fingers - The Head - The Eye - The Claw - Wings
+Fairy Tales, folklore, forgotten stories, and urban legends.
+Fairy: It will charge an orb on its hand of a random damage type and soon after, deal a wave of slashes in front of its position, reaching the end of the room. It deals great damage (220-300).
+Fantastic Racism: Zig-zagged. The Head hates clones and machines that act like humans, but in both cases it's shown as less any sort of prejudice and more of an oddly specific button.
+Fatigue and Waiting (Day 47)
+Faust recruits vergilius for limbus promising to restore garnet and lapis
+Feathers
+Fei Lei
+Felony Misdemeanor: The 14 Taboos sum up as executing people for strange crimes. The only one we know so far is "filming in the Backstreets".
+FerventAdorationIcon.png Music:
+File Name: #S-0012-XXXX/XX/23
+File Name: #S-0019-XXXX/XX/25
+File Name: #S-0021-XXXX/XX/25
+Finn’s Page
+First Appearance Lobotomy Corporation
+Fixers
+Fixers and Syndicates
+Floor of History - Floor of Technological Sciences - Floor of Literature - Floor of Art
+Floor of Natural Sciences - Floor of Language - Floor of Social Sciences
+Floors (10 P)
+Floors Floor of General Works - Floor of Philosophy - Floor of Religion
+Floors KeterIcon.pngFloor of General Works - BinahIcon.pngFloor of Philosophy - HokmaIcon.pngFloor of Religion
+For more about Emma and Noah, see here.
+For more about Myo during her time assisting L Corp, see here.
+For tropes about Kromer, see here.
+For tropes about Vespa, see here.
+Former G Corp.
+Former H Corp.
+Former L Corp.
+Former Wings
+Freedom and Salvation (Day 49)
+Full-Stop Office
+Full-Stop Office Chapter 1.2 1 Book of Zwei South Section 6
+Full-Stop Office • Musicians of Bremen
+Full-StopOfficeIcon
+Future Spandex: The employees of their Archival Department wear black spandex with bright yellow lights down the suit.
+G Corp.
+G Corp. / Gravity. The previous G Corp. was known for Genetic manipulation.
+G Corp. Head Manager Outis' Identity Story in Limbus Company.
+G Corp. Its Singularity revolves around spheres which can manipulate gravity.[24][26]
+G Corp. Singularity revolves around spheres which can manipulate gravity.
+Gallery
+Gameplay
+Garion
+Gaze Office
+Gaze Office Chapter 1.4 1 Book of Olga
+Gaze Office • Tomerry
+GazeOfficeIcon
 Gebura Meltdown
 Gebura's Boss appearance at Phase 1
+GeburaIcon.pngFloor of Language Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Gender Male
+Gender-Blender Name: Her name is normally used as a masculine one.
+General Receptions:
+Generic guests
+Gin’s Page
+Gloria’s Page
+Governing body of megacorporations
+Grade 8 Fixers • Grade 7 Fixers • Urban Legend-class Syndicate • Urban Legend-class Office • Axe Gang
+Grade: Urban Legend
+Greta’s Page
+Guests
+GuestsSample
+Gyeong-mi’s Page
+H Corp.
+Hair Color Grey
+Hana Association
+Hana Association Chapter 1 2 Episode 1: Book of 얀샋ㄷ요무, Book of Xiao and Book of the Purple Tear
+HanaAssociationIcon
+Hanafuda’s Page
+Harmful Healing:
+Harold’s Page
+Hate Sink: Intentionally made as unlikable as possible so literally everyone else will gang up on them in favor of Ayin and Benjamin.
+Hazy-Feel Turn: She was an ally to L Corp. in the first game, but R Corp. questioning her loyalty by bringing up the Seed of Light forces her to turn against them.
+He also uses smaller doses to close the distance between himself and his enemies during standard melee attacks, allowing him to immediately deal damage after winning clashes against ranged pages.
+He uses TT2 protocol to reset the scenario as many times as it's needed
+He/Him
+Height 182cm (~6’0”)
+Herd-Hitting Attack: Has an exclusive Mass Attack Page, "Mind Crush".
+High-Tech Hexagons: Just like Lobotomy Corporation's Binah, Zena's coat has yellow lines that form into hexagon patterns. It's implied that this is actually a part of the standard Arbiter uniform.
+His private time being disturbed
+History
+Hobbies
 Hod Meltdown
 Hod's Boss appearance
 Hod's handicaps against the facility are the following:
+HodIcon.pngFloor of Literature Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Hokma Meltdown
+Hokma Portrait
+Hokma begrudgingly conceded to her request, pledging to become a sentinel “once more” and watch over her every action. This event is the driving force of the rift between the two at the Library.
+Hokma ep1
+Hokma's Boss appearance
+Hokma's Portrait
+HokmaIcon.pngFloor of Religion Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Hook Office
+Hook Office Chapter 4 1 Book of the Brotherhood of Iron
+HookOfficeIcon
+Horned Humanoid: Just like the rest of Reindeer Team, though one of them is snapped off. It does nothing to hinder his combat efficiency, however.
+Hubert’s Page
+Human Resources: Given that Mermaids are transformed humans, their constant sales of Mermaid products are certainly this.
+Humanoid Abnormalities that can transform into a bestial/non-humanoid form, usually upon breaching, are usually still designated under this classification (ex. The Queen of Hatred).
+I Corp.
+I Corp. It was one of the major parties involved in the Smoke War.[27][28]
+I Corp. Logo.pngI Corp. One of the major parties involved in the Smoke War, siding against Old L Corp.
+I could no longer perceive anything.
+I had no idea…
+I still remember the day when the three of us met for the first time. It was when I joined my previous Office.
+I urge you to gain composure. Opening your eyes comes next.
+I'm trying to get a timeline of the main events of the games because it's kinda hard to remember all the information and harder to check for it without having to go through all the story.
+Identification
+Image from Lobotomy Corporation Day 41 Story
+Impuritas Civitatis
+ImpuritasIcon.png Impuritas Civitatis ImpuritasIcon.pngPrologue (Episode 1) •
+In General
+In general
+In the end, this is all a pointless errand.
+Includes only (O-07-103), Yang; presumed to include Abnormalities that are conditionally a Tool Abnormality and are capable of breaching.
+Index Proselytes
+Index Proselytes Chapter 2.1 1 Book of a Sweeper
+Index Proxies
+Index Proxies Chapter 2.1 1 Book of the Thumb
+IndexProselytesIcon
+IndexProselytesIcon.pngIndex Proxies (Episode 1) • TheRedMistIcon.pngThe Red Mist (Episode 1) • LiuAssociationIcon.pngLiu Association Section 1 (Episode 1) • RCorpIcon.pngR Corp. (Episode 1)
+Iori tells roland about the library
+Irina’s Page
+Isadora’s Page
+It appears [Agent]’s mental state is unstable.
+It seemed to have ended, yet it begins once more.
 It will attack with either weapons to deal (25-30) Red or White damage respectively, or attack with both weapons at once, dealing both Red and White damage.
+Ivy League for Everyone: They are famous for their prestigious universities and colleges, and prides itself over the academic success of its students.
+J Corp.
+J Corp. / Presumably Jail, the most practical thing that their Lock Singularity can be used on.
+J Corp. Known as a "Nest of Gambling". Singularity is a technology capable of locking anything, developed as a security measure against trading of luck.
+Jack’s Page
+Jae-heon’s Page
+Jikan’s Page
+Jin’s Page
+Julia’s Page
+K Corp.
+K Corp. Owns District 11.[30] Their Singularity revolves around healing wounds and injuries (both physical and mental) quickly.[31]
+Kalo’s Page
+Katriel’s Page
+Keter Meltdown
+KeterIcon.pngFloor of General Works Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5
+Known Distortions
+Known Employees
+Known employees
+Kromer
+Kurokumo Clan
+Kurokumo Clan Chapter 2.1 1 Book of The Carnival
+KurokumoClanIcon
+KurokumoClanIcon.pngKurokumo Clan (Episode 1) • MusiciansofBremenIcon.pngMusicians of Bremen (Episode 1) • WedgeOfficeIcon.pngWedge Office (Episode 1) • LoveTownIcon.pngLove Town (Episode 1)
+L Corp.
+L Corp. Logo.pngL Corp. Lobotomy Corporation.The most recent Wing to collapse. Operated as an energy supplier.
+L'heure du Loup
+L8372-#928: ‘Eat 15 Sweepers and extract silk from them to make fabric.’
+Lapis gets replaced by charon and garnet becomes a stone/cocoon
+Larierre
+Latest Appearance Library of Ruina
+Laundry of Dreams
+Lenny’s Page
+Lesti’s Page
+Let us begin, then. You have come to the point of no return.
+Level 1+: One type of damage becomes illuminated in the cross at the top of the screen. While it's illuminated, the corresponding damage type dealt to employees will be multiplied (x5).
 Level 1+: Removes all immunities to Qliphoth Meltdowns of the other departments.
 Level 1+: Work type buttons no longer necessarily order the corresponding work type. The actual work types are scrambled and "re-linked" to a random button every new Qliphoth Meltdown level.
 Level 2+: Background music changes.
 Level 2+: Background music changes. No visible changes besides a blur at the start.
 Level 2+: Background music changes. The facility is blurred and pixelated as well. This affects the background, containment units, entities and particle effects.
 Level 2+: Background music changes. The stat decrease is now -25 and the screen gains a minor old transmission filter.
+Level 3+: Background Music changes. Two types of damage are boosted.
 Level 4+: Background music changes.
 Level 4+: Background music changes. Ordered work can no longer be canceled in any way.
 Level 4+: Background music changes. The screen color becomes saturated and noticeably scrambled.
 Level 4+: Background music changes. The stat decrease is now -35 and the screen filter gains major effects, distorting the facility, entities and effects but not the HUD.
+Level 6+: Three types of damage are boosted.
 Level 7+: Background music changes.
+Leviathan events happen
+Library Of Ruina
+LibraryIcon.png Terminology:
+LibraryIcon.png Wiki Directory
+Libray of ruina events happen
+Light doesn't shine for 4 days, known as white nights and dark days
+Light shines for 3 days
+Like the Head and the Eye, the Claw itself is not a Wing, but it directly runs C Corp.[13]
+Likes
+Limbus Company
+Limbus Company Canto I: The Outcast
+Limbus happens
+List of known Wings
+Little Red Riding Hooded Mercenary and Big and Will be Bad Wolf fighting it out.
+Liu Association Section 1
+Liu Association Section 1 Chapter 2.3 1 Book of Mei
+Liu Association Section 2
+Liu Association Section 2 Chapter 1.3 2 Episode 1: Unstable Book of the Crying Children
+LiuAssociationIcon
+Liwei’s Page
+LobCorpIcon.png Other:
+Lobotomy Corporation Binah Pre-Meltdown Story
+Lobotomy Corp—the company that was supplying our energy needs—went down recently.
+Locations
+Locations The City (Districts - Nests - Backstreets) - Outskirts - Ruins - The Library - HamHamPangPang
+Locations The City (Districts - Nests - Backstreets) - Outskirts - Ruins - The Library - The Great Lake - The Black Forest - HamHamPangPang
+Love Town Chapter 2.4 1 Book of Alloc
+LoveTownIcon
+Lowell’s Page
+Luda
+Luda (Unmarked Spoilers)
+Lulu’s Friend, Page 1
+Lulu’s Friend, Page 2
+Lulu’s Friend, Page 3
+Lulu’s Friend, Page 4
+Lulu’s Page
+Lyla’s Page
+M Corp.
+M Corp. Its Singularity revolves around the production of "moonlight stones", which protect their user from psychological attacks when worn.[32]
+M Corp. MDM Entreprise. Singularity revolves around the production of "moonlight stones", which protect their user from psychological attacks.
+M: Unknown - possibly 'Mythical'
+Main Story
+Main article: The Claw
+Main article: The Eye
+Main article: The Head
 Malkuth Meltdown
 Malkuth's Boss appearance
 Malkuth's handicaps against the facility are the following:
+MalkuthIcon.pngFloor of History - YesodIcon.pngFloor of Technological Sciences - HodIcon.pngFloor of Literature - NetzachIcon.pngFloor of Art
+MalkuthIcon.pngFloor of History Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Mang-chi’s Page
+Man~ Talking about ‘em makes me miss my ol’ friends. Don’t get to meet those pals often these days… I might as well storm Hook Office this time around, see some familiar faces~
+Mao Branch
+Marksman of the Mist
+Mars’ Page
+Martina’s Page
+Maxim
+Maxim's Ground Crash is a mass-summation attack that consumes all of his Charge stacks to unleash a single devastating blow.
+Maxim's Page
+Maxim’s Complete Page
+Maxim’s Page
+May you rest in peace, at the very least.
+McCullin’s Page
+Media Lobotomy Corporation - WonderLab - Library Of Ruina - The Distortion Detective - Leviathan - Limbus Company
+Meeting - Cutscene 1
+Mei’s Page
+Members
+Meow’s Page
+Messianic Archetype: L Corp. is often associated with religious parallels and symbolism through its key personnel, end goal, specific Abnormalities and imagery.
+Metaphorically True: The WARP Trains do arrive to their destination within 10 seconds... if you're not the one boarding the train.
+Meursault, Limbus Company, Episode 3-11
+Mika’s Page
+Mirinae’s Page
+Miris’ Page
+Mi’s Page
+Molar Office
+Molar Office Chapter 2.2 1 Book of Walter
+MolarOfficeIcon
+Monsters
+More Dakka: The Rabbit Team's signature ability. Notably, they are also the only entities of the City other than the Head's own troops that are permitted access to lethal, high quality firearms.
+Mostly includes object-like Abnormalities that are not appended to the 01, 02, or 03 designations.
+Mo’s Page
+MuMu’s Page
+Much like how a Wing's feathers must pay taxes to their Wing, each Wing also has to pay taxes to the Head.[14]
+Mundane Utility: Their Singularity is also used to create giant tubs of ice cream (which Myo is incredibly fond of) according to the LOR artbook.
+Music:
+Musicians of Bremen
+Musicians of Bremen Chapter 2.2 1 Book of Full-Stop Office
+MusiciansofBremenIcon
+Myo
+Myo’s Complete Page
+Myo’s Page
+N Corp.
+N Corp. Inquisition
+Name Chapter Episodes Books used in the Invitation
+Naoki’s Page
+Narnia Time: Several seconds to minutes had only passed in the real world while millenniums had past inside the dimension where the WARP Train is in.
+Nemo’s Page
 Netzach Meltdown
 Netzach's Boss appearance
 Netzach's handicaps against the facility are the following:
+NetzachIcon.pngFloor of Art Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Never Mess with Granny: Nikolai is the leader of the entire 4th Pack, and can kick your ass with her sword. Myo even calls her "granny".
+Nikolai
+Nikolai's Page
+Nikolai’s Complete Page
+Nikolai’s Page
+Noah’s Page
+Notable Agents
+Notable Employees
+Notably, even other Wings aren't safe from its Taboos outside its district, showing that it stands head and shoulders above all other Wings as their leader.
+Note: The form groupings under the second number are only speculation, as none of their number designations have been elaborated on by Project Moon.
+O Corp. The "Balloon People" Distortion case resolved by Moses occurred in O Corp's Nest.[33]
+O: Original
 Occasionally she will throw Heaven (The Burrowing Heaven's E.G.O. Weapon) across the facility (much like the bullets of Der Freischütz), dealing 100 Black damage to any entity in the way.
+Occupation(s) Sephirah of L Corp (Formerly)
+Oh, you’re too new to know? Back in the day, L Corp’s Nest was occupied by another energy company.
+Oink’s Page
+Old G Corp. Involved in the Smoke War, on the losing side. They specialized in genetic augmentation. It has since been replaced by a new G Corp.
+Olga’s Page
+Olivier’s Page
+On Agent Panic:
+On Breach:
+One day, some rich person visited us and said that a war will break out soon. Said we’ll get some benefits if we helped her.
+One does not easily... take all possibilities into consideration.
+One of the Head's Beholders. She is the one responsible for banishing L Corp, along with the Library from the City.
+One of the gun control laws prohibits not just researching, but also imagining law-infringing firearms, as elaborated upon in Tamaki's Key Page Story.
+One of the major parties involved in the Smoke War, siding against Old L Corp.
+Only Known by Their Nickname: Most of the Wings are usually denoted by a letter of the alphabet with "Corp." at the end. They do have real names, but not all of them are revealed.
+Ordeals
+Ordeals (시련, siryeon) are created as a byproduct from the extractions and Negative Enkephalin produced by the Abnormalities within the Lobotomy Corporation Headquarters.
+Origin
+Originates from beyond the City or this reality, unknown cause of birth, naturally occurring phenomena, or were manufactured by humans.
+Origins
+Oscar’s Page
+Oswald’s Page
+Other
+Other Keter Realization • Epilogue (cut)
+Other effects include:
+Other:
+Outside Relations
+Overconfidence is the greatest enemy. We must humbly keep our post.
+Overview
+P Corp.
+PE-Boxes, the most popular container for Enkaphalin.
+Pages in category "Locations"
+Pairs and ‘Families’
+Pamela’s Page
+Pameli’s Page
+Papa Bongy
+Patron Librarian
+Patron Librarians (1 C, 11 P)
+Patron Librarians' Stories
+People entertain the hopes as they please, and then bite at each other when the change they expected doesn’t happen. Clowns can’t give out smiles in a world full of mean teary friends!
+People have hopes and dreams!
+Personal Information
+Pete’s Page
+Philip’s Page
+Pierre's Bistro
+Pierre'sBistroIcon
+Pierre'sBistroIcon.pngPierre’s Bistro (Episode 1) • StreetlightOfficeIcon.pngStreetlight Office (Episode 1 - Episode 2)
+Pierre’s Bistro Chapter 1 1 Book of Taein
+Pierre’s Page
+Pluto’s Page
+Pm timeline (spoilers for every game obviously)
+Poor Screenwriter's Note, Hammer of Light and Price of Silence are Legacy Abnormalities that weren't brought back into the new version.
+Portrayals
+Post-Final Boss: Him and Zena serve as the last opponents of the game's Golden Ending, after the player has bested the Reverb Ensemble Distorted.
+Post-Final Boss: She and Baral serve as the last opponents of the game's Golden Ending, after the player has bested the Reverb Ensemble Distorted.
+Powered Armor: Maxim and the Rhino Team in general wears massive and heavily built armor.
+Powerful Pick: X Corp's Expedition Order of Excavation knights wield massive two-handed pickaxes as their weapons of choice.
+Private Military Contractors: Their entire role as a corporation.
+Professional Information
+Proving Oneself (Day 46)
+Psychic Block Defense: The primary use of the moonlight stone is to mitigate psychological afflictions and attacks.
+Psychotic Smirk: Just like her former colleague Binah, Zena gives one whenever she is damaged.
+Punny Name: The leader of the Reindeer Team is named Rudolph. You probably didn't see that one coming.
+PuppetIcon
+Puppets
+Puppets Chapter 1.4 1 Book of Tomerry
+Puppets • WARP Cleanup Crew
+Q Corp.
+Qliphoth Level 1+: 2 random damage types will be illuminated at the cross at the top of the screen every Qliphoth Meltdown, increasing the damage type select by 4 times the amount (Chesed).
+Qliphoth Level 1+: Works done by employees are randomly replaced by another type of work every other Qliphoth Meltdown (Malkuth).
+Qliphoth Level 10+: The game speed will be set to 2.5x.
+Qliphoth Level 10+: The game speed will increase to x2.1 speed. The screen colours will fade out further.
+Qliphoth Level 2+: Background music changes.
+Qliphoth Level 3+: Background music changes. The UI will be pixelated and blurred (Yesod).
+Qliphoth Level 4+: Background music changes.
+Qliphoth Level 4+: Background music changes. Every stat from the Agents in the facility will be reduced by -50 (Hod).
+Qliphoth Level 6+: Background music changes.
+Qliphoth Level 8+: Background music changes. Chesed's effect will be re-enabled, illuminating 3 types of damage every Qliphoth Meltdown.
+Qliphoth Level 8+: The game speed will increase to x1.7 speed. The screen colours will fade out further.
+Qliphoth Level 9+: Background music changes. The game speed will be set to 1.5x. An Arbiter will stop moving.
+Qliphoth Level 9+: The game speed will increase to x1.9 speed. The screen colours will fade out further.
+Qliphoth Meltdowns will not appear in the Architecture department, however all the previous immunity against Qliphoth Meltdowns will be removed from all other departments.
+R Corp's Forth Pack participating in the Smoke War
+R Corp.
+R Corp. (Unmarked Spoilers)
+R Corp. / Replication, also used in reference to their Rabbit, Rhino and Reindeer teams.
+R Corp. I Chapter 2.4 1 Book of WARP Cleanup Crew
+R Corp. Ⅱ Chapter 3.4 1 Book of the Rabbit Team
+RCorpIcon
+RED for the red horse of War.
+Ragtag Bunch of Misfits: Nikolai's Complete Page notes that while the Fourth Pack is a powerful force, as an army they're quite ineffective in waging conventional warfare due to each team's weakness.
+Rain’s Page
+Rats Chapter 1 1 Book of Something
+RatsIcon
+Receptions
+Recurring Boss: They're fought and defeated once, then fought again with upgraded members immediately after.
+Red Eyes, Take Warning: All of them either have this or have their eyes capable of turning a glowing red. It's a remainder of them being physically augmented.
+Red Invitations
+RedFightingTheWolf
+References
+Regret and Atonement (Day 48)
+Related Entities
+Relations
+Relations between Wings
+Relationships
+Relying on brute strength alone to push through is possibly the most imprudent thing you could do.
+RiskLvAbnos
+Roland meets Hokma for the first time.
+Roland rampages
+Rose’s Page
+Rudolph
+Rudolph's Mind Crush is a mass-individual attack that deals significant Stagger damage on hit.
+Rudolph’s Complete Page
+Rudolph’s Page
+Rusk
+Rusted Chains • Workshop-affiliated Fixers • Jeong’s Office
+S Corp.
+S Corp. Logo.pngS Corp. Salpippyeo Agroindustries, deals with agriculture and livestock. Noted to be currently in great political turmoil.
+SPOILERS AHEAD
+SPOILERS AHEAD!
+Salvador’s Page
+San’s Page
+Sayo’s Page
+Secret Art: Each named member of the Fourth Pack has one that unlocks after beating their second fight. All of them can only be used once they've accumulated 20 Charge stacks.
+See also
+See here for more.
+See here here for more details about X and A.
+See list of Wings
+Seen in the first official promotional video for Limbus Company
+Sen’s Page
+SephirahMeltdownBinahBoss
+SephirahMeltdownChesedBoss1
 SephirahMeltdownGeburaBossPhase1
 SephirahMeltdownHodBoss1
+SephirahMeltdownHokmaBoss1
 SephirahMeltdownMalkuthBoss1
 SephirahMeltdownNetzachBoss
 SephirahMeltdownTipherethBoss1
 SephirahMeltdownYesodBoss1
+Serial Code: DN-00113
+Seven Association • Blade Lineage
 She can perform a powerful vertical downswing with Mimicry, dealing 70-90 Red Damage.
 She can perform the Heaven attack used in Phase 2.
 She can raise Justitia, charging it, before swiping with Justitia, forming a teal-coloured energy wave that travels forward for a moderate distance and deals (50-70) Pale Damage to all entities hit.
 She can slash thrice with Da Capo, dealing 15-25/15-25/40 White damage in quick succession.
+Shi Association
+Shi Association Chapter 1.2 1 Book of Full-Stop Office
+Shi Association • Smiling Faces
+ShiAssociationIcon
+Shock and Awe: He and the rest of the Reindeer Team utilize strange electrical staves as weapons.
+Si Branch
+Sign in to edit
+Signature Headgear: All of the Heishou Branches seen so far wear wide-rimmed bamboo hats.
+Significant Birth Date: He's born on December 24, Christmas Eve.
+Single Use Tools: Tools that give a single and instant effect upon being worked with an Agent. These Tools have a 'Number of Uses' to unlock their information.
+Skeleton Key: Inverted; J Corp's Singularity allows them to lock anything, from locking a box to sealing an area to even preventing a person's body from being dissected.
+Sketchy Successor:
+Skewed Priorities:
+Small Stories 1
+Small Stories 2
+Small Stories 3
+Small Stories 4
+Small Stories 5
+Small Stories 6
+Small Stories 7
+Small Stories 8
+Small Stories 9
+Smiling Faces
+Smiling Faces Chapter 2.2 1 Book of Yujin
+SmilingFacesIcon
+Smoke War
+So I want someone to find an answer in my stead. And I hope they can tell me that. Tell me how I can enjoy this nightmare.
+So far I remember or I think I remember the timeline being something like this. I would like to correct it because I'm unsure on some stuff:
+Some former Wings are also known.
+Some former Wings are also known. With the exception of H Corp, L Corp, and the old L Corp, the names of all other Wings listed below are unofficial.
+Sometimes… I do miss my old family.
+Soon after follow Michelle, Elijah, Giovanni and Gabriel
+Soon, all the books are organized. Tiphereth thanks the four Patron Librarians for their help.
+Specialties
+Spoilers
+Star of the City
+Star of the City (The Thumb - The Thumb Ⅱ) • Index Proxies • 얀샋ㄷ요무
+StarCityIcon.png Star of the City StarCityIcon.pngPrologue (Episode 1)
+Stay true to your belief, and act for it.
+Stephan’s Page
+Stone Wall: Maxim is extremely durable, owing to his unique passive giving him damage resistance when his charge is max.
+Story
+Story Mode Spoilers!
+Stray Dogs
+Stray Dogs Chapter 2.1 1 Book of Walter
+StrayDogsIcon
+Streetlight Office
+Streetlight Office Chapter 2 2 Episode 1: Book of Jack and Book of Pierre
+StreetlightOfficeIcon
+Subcategories
+Summary
+Super-Speed: Their singularity allows an individual to change the number of hours they experience in a day, causing them to appear in fast-forward to everyone else.
+Suppressed once (Phase 2): Background music changes. An Arbiter summons Special Qliphoth Meltdowns again: Meltdowns of Dark Fog and Meltdowns of Gold, along another one, Meltdowns of Waves.
+Sweepers
+Sweepers Chapter 1.1 1 Book of Kurokumo Clan
+SweepersIcon
+SweepersIcon.pngSweepers (Episode 1) • ShiAssociationIcon.pngShi Association (Episode 1) • The8o'ClockCircusIcon.pngThe 8 o’Clock Circus (Episode 1) • PuppetIcon.pngPuppets (Episode 1)
+Swiss-Army Superpower: Unlike Binah’s more varied toolset, four out of five of Zena’s attacks are simply different applications of her mysterious “Line” Singularity.
+Sword and Sorcerer: Arbiters and Claws are designed to work best when fighting together. An Arbiter controls the battlefield while Claws work as a counter against powerful duelists.
+Sword and Sorcerer: The Sorcerer. Compared to Baral, Zena’s cards sacrifice raw power in exchange for some versatility in the form of ranged attacks and crowd control while debuffing opponents.
+Sword and Sorcerer: The Sword. Compared to Zena, Baral’s cards roll higher for the same amount of Light and provide an extremely powerful healing ability at the cost of having no mass attacks.
+T Corp.
+T Corp. / Time, most famously for their TimeTrack2 Protocol.
+T: Trauma
 TOTAL 1,000 ~270 entries ~27% ✅
+Taein’s Page
+Tamaki’s Page
+Tanya’s Page
+Team Wiped Out:
+Tears of Fear: Lesti sobs when she learns that she had to enter the Library or be fired.
+Tenma’s Page
+Terminology:
+That person paused for a bit, then spoke in a languid tone. I was creeped out by how she said it like it was no big deal.
+That’s okay. If there is another chance for you, use this failure and loss as a stepping stone to do better next time.
+The 8 o'Clock Circus
+The 8 o’Clock Circus
+The 8 o’Clock Circus Chapter 1.3 1 Book of Oscar
+The 8 o’Clock Circus • The Crying Children
+The Abnormalities possess different aspects in-game, from information to effects. This section will explain the basics of them and most features that the Abnormalities share.
+The Black Forest
+The Black Silence (Gave in during its own reception, albeit temporarily.)
+The Black Silence Chapter 3 1 Uninvited Guests
+The Blue Reverberation
+The Blue Reverberation Chapter 1.2 1 Book of the Smiling Faces
+The Blue Reverberation • The Red Mist • The Purple Tear
+The Carnival
+The Carnival Chapter 1.1 1 Book of Gyeong-mi
+The Carnival’s Page
+The Casino: J Corp's Nest is known as the Nest of gambling as games of chance dominate its culture.
+The Church of Gears
+The City
+The City (Nests)
+The Claw
+The Claw/C Corp.
+The Conductor (Manifested after the light released them from the book.)
+The Crying Children
+The Crying Children (Gave in to the emotion of the E.G.O during The Crying Children Reception)
+The Crying Children Chapter 2.3 1 Book of Emma
+The Distortion Detective
+The Distortion Detective chapter 36
+The Distortion Detective chapter 37
+The Distortion Detective chapter 4
+The Dreamer of Human Wholeness
+The Eighth Chef
+The Executioner: The Claw agents act as such for the Head, and high ranking agents are explicitly named the same as the trope.
+The Eye
+The Eye/B Corp.
+The Final Reception Chapter 5 N/A Uninvited Guests
+The Fourth Pack
+The Friend Nobody Likes: Old L Corp. was notorious among its partners for sharing very little of the energy it produced.
+The Head
+The Head/A Corp.
+The Heartbroken
+The Heishou Pack
+The Human Thunderbolt
+The Library
+The Library (2 C)
+The Manager
+The Mock Exam
+The Musicians of Bremen
+The Photographer
+The Pianist
+The Puppeteer
+The Purple Tear
+The Purple Tear Chapter 3.2 1 Book of the Red Mist
+The Purple Tear’s Page
+The Quiet One: He speaks very little, especially compared to Zena and Luda. His few lines consist of him threatening Roland from acting and acknowledging Zena’s orders.
+The Rabbit Team, as seen back in Lobotomy Corporation, has a policy of Shooting Everything That Moves, this includes non-combatants such as civilians.
+The Race for the Golden Bough
+The Reaved Lamenter
+The Red Mist
+The Red Mist Chapter 2.2 1 Book of Lobotomy Corporation
 The Red Mist will continue to stay in the room she is in, engaging entities that enter the room. Her attacks have changed again in accordance with her new armaments.
 The Red Mist will now begin a completely different attack pattern and will no longer stay in Main Rooms until provoked. She has only two attacks in this Phase.
 The Red Mist's combat capabilities are shown below.
@@ -76,18 +964,235 @@ The Red Mist's defenses are: Red: Endured (0.9) - White: Endured (0.9) - Black: 
 The Red Mist's defenses during this phase are: Red: Normal (1.0) - White: Normal (1.0) - Black: Resistant (0.2) - Pale: Resistant (0.2).
 The Red Mist's defenses during this phase are: Red: Resistant (0.4) - White: Resistant (0.4) - Black: Weak (1.2) - Pale: Normal (1.0).
 The Red Mist's defenses during this phase are: Red: Weak (1.5) - White: Weak (1.5) - Black: Weak (1.5) - Pale: Weak (1.5).
+The Red Mist’s Page
+The Reverb Ensemble Distorted Chapter 4 N/A Uninvited Guests
+The Reverberation Ensemble
+The Reverberation Ensemble Chapter 2 1 Uninvited Guests
+The Rhino Team, while a Lightning Bruiser in combat, they are also The Berserker and will cause quite a bit of Collateral Damage whenever they're deployed.
+The Sephirot
+The Silent Orchestra will not reduce the energy quota during the 4th movement on this day. Der Freischütz, Little Red Riding Hooded Mercenary and Old Faith and Promise can.
+The Smoke War on the Limbus Company wiki.gg
+The Thumb
+The Thumb Chapter 1.1 2 Episode 1: Book of Index Proselytes
+The Time Ripper
+The Udjat
+The Unfought: She doesn't participate in the actual battle against the Library, as she is busy finalizing the procedure for the Library's banishment.
+The WARP Cleanup Crew
+The acquisition of knowledge via reading the written word
+The branch of the Heishou Pack based on the serpent.
+The catch-all categorization for any Abnormality that doesn't neatly fit into the previous classifications.
+The following 4 pages are in this category, out of 4 total.
+The handicaps in this day are the following:
+The library is teleported to the outskirts by the head
+The light is finally gathered
 The portals utilized by the Rabbit Team do not affect The Red Mist while she is sprinting; The Red Mist will simply plow straight through them.
 The true work type is displayed on the right of the Containment Unit while work is ongoing.
+The8o'ClockCircusIcon
+TheBlueReverberationIcon
+TheCarnivalIcon
+TheCarnivalIcon.pngThe Carnival (Episode 1) • Full-StopOfficeIcon.pngFull-Stop Office (Episode 1) • DawnOfficeIcon.pngDawn Office (Episode 1) • GazeOfficeIcon.pngGaze Office (Episode 1)
+TheCryingChildrenIcon
+ThePurpleTearIcon
+TheRedMistIcon
+TheThumbIcon
+Their handicaps against the facility are the following:
+There are 4 sections of information, each one unlockable by spending PE-Boxes. Depending of the Risk Level, the cost of the sections will change. The sections are:
+There are a number of ranks within the Index. Proselytes, Messengers, and Proxies are as much as I know.
+There is no halting now. We have already made the first step.
+There is no need to suffer harshly for the loss of [Agent].
+There will be only Ordeals of White instead of any other type of Ordeal.
+There’s no need to cling to them. Now then, let’s try again next time.
+These first experiments with cogito leave abnormalities and ego behind. Kali receives mimicry from these experiments.
+These types of Abnormalities are not required for 100% completion of the game and do not contribute in obtaining the True Ending of the game.
+They are divided into 3 types:
+They are notably similar to, and inspired by, the various Special Containment Procedure objects from the SCP Foundation.
 This allows the player to order normally unavailable works like Attachment with Der Freischütz.
+This article contains details that might spoil the story of Library Of Ruina.
+This box: view • talk • edit
+This category has only the following subcategory.
+This event consists of the common effects said above and the inclusion of only the Atziluth Sephirah bosses (Hokma, and later Binah).
+This event consists of the common effects said above and the inclusion of only the Briah Sephirah bosses (Tiphereth, Chesed and later Gebura).
+This page reflects the status of the Wings up to and as of Library Of Ruina.
+This section contains spoilers related to the story of Lobotomy Corporation. Read ahead with caution if you want to experience the story for yourself.
+Thoughtcrime: Sometimes they extend their draconian laws and Taboos to even holding the incriminating subjects within the mind.
+Time Master: Their TimeTrack Singularity allows them to manipulate the flow of time.
 Tiphereth Meltdown
 Tiphereth's Boss appearance
 Tiphereth's handicaps against the facility are the following:
+TipherethIcon.pngFloor of Nat. Sciences Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+TipherethIcon.pngFloor of Natural Sciences - GeburaIcon.pngFloor of Language - ChesedIcon.pngFloor of Social Sciences
+To accept such outcomes, one must learn to give up certain pursuits...
 To finish the event, the player must collect all required energy and reach Qliphoth Meltdown Level 6.
+To finish the event, the player must collect all the energy and reach Qliphoth Meltdown Level 8.
+To finish the event, the player must collect all the energy, reach, and complete Qliphoth Meltdown Level 10. (Essentially reaching Qliphoth Meltdown 11, although it is not labelled as such)
+To finish the event, the player must defeat An Arbiter.
 To finish the event, the player must defeat The Red Mist.
 To finish the event, the player must reach Qliphoth Meltdown Level 10.
+To finish this day the player must collect all the energy and suppress the Midnight of White, also known as "The Claw".
+Tool Abnormalities
+Transcript See Small Stories 1
+Transcript See Small Stories 2
+Transcript See Small Stories 3
+Transcript See Small Stories 4
+Transcript See Small Stories 5
+Transcript See Small Stories 6
+Transcript See Small Stories 7
+Transcript See Small Stories 8
+Transcript See Small Stories 9
+Trash the Set: In the penultimate turn of the Head encounter, she will unleash an attack named "Shockwave", which instantly blows a crater in the Floor of General Works after she uses it.
+Traumatic experiences, phobias, or intense emotions.
+Tree of Light (Day 50)
+Trivia
+Trust in yourselves. We should base our actions on the premise that we shall manage this without fail.
+Turns Red: Myo can use her unique page, "Savage Mode", to turn her ranged pages into melee ones and unlock her mass attack page.
+Type
+U Corp.
+Unknown Abnormality Icon
+Unless you want to learn the secrets of the City, it would be best not to flip past this page any further.
+Unlock condition Fully realize all Floors apart from the KeterIcon.pngFloor of General Works
+Unlock condition Fully realize all four Lower Floors (MalkuthIcon.pngFloor of History, YesodIcon.pngFloor of Technological Sciences, HodIcon.pngFloor of Literature, and NetzachIcon.pngFloor of Art)1
+Unlock condition Fully realize all three Middle Floors (TipherethIcon.pngFloor of Natural Sciences, GeburaIcon.pngFloor of Language, and ChesedIcon.pngFloor of Social Sciences)
+Unlock condition Fully realize the BinahIcon.pngFloor of Philosophy and the HokmaIcon.pngFloor of Religion
+Unlock condition Fully realize the HodIcon.pngFloor of Literature, and have the GeburaIcon.pngFloor of Language and the BinahIcon.pngFloor of Philosophy opened
+Unlock condition Fully realize the NetzachIcon.pngFloor of Art, and have the HokmaIcon.pngFloor of Religion at realization level III or higher (i.e. complete the suppression of The Price of Silence)
+Unobtainable
+Unstable Page of the Crying Children
+Upon passing next to a containment unit, it will add a Qliphoth Meltdown to it, with dark effects on its containment door.
+Upon seeing a target in the same room, An Arbiter will perform an attack. It will take pauses between attack before starting a new one.
+Urban Legend
+Urban Legend (Zwei Crewmembers - Zwei Association Ⅰ - Zwei Association Ⅱ) • Stray Dogs • Molar Office
+Urban Myth
+Urban Myth Pierre’s Bistro • (Streetlight Office - Lulu of Streetlight)
+Urban Nightmare
+Urban Nightmare Sweepers • Index Proselytes
+Urban Plague
+Urban Plague The Carnival • Kurokumo Clan
+UrbanLegendIcon.png Urban Legend UrbanLegendIcon.pngPrologue (Episode 1)
+UrbanMythIcon.png Urban Myth UrbanMythIcon.pngPrologue (Episode 1)
+UrbanNightmareIcon.png Urban Nightmare UrbanNightmareIcon.pngPrologue (Episode 1)
+UrbanPlagueIcon.png Urban Plague UrbanPlagueIcon.pngPrologue (Episode 1)
+V Corp. Vergilius' office and Dawn Office were located in V Corp's Nest.
+Valentin’s Page
+Valerie’s Page
+Vespa Crabro
+Victory
+Voiced by: Choi Hyeonsu
+Voiced by: Gabin
+Voiced by: Lee Myeong-ho
+W Corp. (Unmarked Spoilers)
+W Corp. / Warp. Of course, their Dark Secret is that their Singularity is actually Material Reconstruction, which gives the hollowed out W of their logo even more redundancy.
+WARP Cleanup Crew
+WARP Cleanup Crew Chapter 2.4 1 Book of a Puppet
+WARPCleanUpCrewIcon
+WHITE for the white horse of Conquest.
+Walking Spoiler: Knowing their true Singularity can be quite the Wham Shot.
+Walter’s Page
+Wang’s Page
+Weaponized Teleportation: Baral's "Serum W" attack has him grab his target and smash them through a rip in space, dragging them through every floor of the Library.
+Wedge Office
+Wedge Office Chapter 2.3 1 Book of Salvador
+WedgeOfficeIcon
+Weird Currency: Canto VI of Limbus Company reveals that time itself is used as a form of currency in conjunction with the usual Ahn in the District.
+Wham Episode: Their reception reveals that events such as Love Town weren't simple accidents or malfunctions.
+White Nights and Dark Days
+Wiki Directory
+Wing Collapse
+Wing Description
+Wings
+Wolfpack Boss: For the final act of their second reception, you're forced to fight all the leaders of the Fourth Pack at once.
+WonderLab
+Workshops Leaflet Workshop • YuRia Atelier • Allas Workshop • Zelkova Workshop • Old Boys Workshop • Ranga Workshop
+X (Player) / A
+X Corp.
+Xiao
+Xiao Chapter 3.3 1 Book of Chun
+XiaoIcon
+Xiao’s Page
+Yae’s Page
+YanIcon
+YanIcon.png얀샋ㄷ요무 (Episode 1) • ThePurpleTearIcon.pngThe Purple Tear (Episode 1) • XiaoIcon.pngXiao (Episode 1) • RCorpIcon.pngR Corp. Ⅱ (Episode 1)
+Yang’s Page
 Yesod Meltdown
 Yesod's Boss appearance
 Yesod's handicaps against the facility are the following:
+YesodIcon.pngFloor of Tech. Sciences Episode 1 • Episode 2 • Episode 3 • Episode 4 • Episode 5 • Episode 6
+Yesterday's Promise
+You Have Failed Me:
+You may deceive your foes in battle, but remember that you must be true to yourself at all times.
+You use her original Max HP for calculations.
+Yujin’s Page
+Yun'sOfficeIcon
+Yuna’s Page
+Yun’s Office
+Yun’s Office Chapter 2 3 Episode 1: Book of Rats
+Yun’s Page
+Z Corp.
+Zena
+Zena (Unmarked Spoilers)
+Zulu’s Page
+Zwei Association Chapter 1 3 Episode 1: Book of Lulu and Book of Mars
+Zwei Association Ⅱ
+ZweiAssociationIcon
+ZweiAssociationIcon.pngZwei Association (Episode 1 - Episode 2 - Episode 3) • StrayDogsIcon.pngStray Dogs (Episode 1 • MolarOfficeIcon.pngMolar Office (Episode 1)
+[Agent] is wandering about, aimlessly searching for the sanity which they have lost.
+https://static.tvtropes.org/pmwiki/pub/images/baral.png
+https://static.tvtropes.org/pmwiki/pub/images/luda_4.png
+https://static.tvtropes.org/pmwiki/pub/images/maxim_ruina.pngThe captain of the Fourth Pack's Rhino Team.
+https://static.tvtropes.org/pmwiki/pub/images/ncorp.pngNagel und Hammer
+https://static.tvtropes.org/pmwiki/pub/images/nikolai_ruina.pngThe commander of the Fourth Pack.
+https://static.tvtropes.org/pmwiki/pub/images/rudolph_ruina.pngThe captain of the Fourth Pack's Reindeer Team.
+https://static.tvtropes.org/pmwiki/pub/images/wikibanner.pngLobotomyFor the game Lobotomy Corporation, see here.
+https://static.tvtropes.org/pmwiki/pub/images/zena.png
+–Adam, Lobotomy Corporation Day 49 Story
+–Angela to Roland
+–Dalloc's Page
+–Maxim's Key Page Story
+–Maxim's Page
+–Nemo's Page
+–Roland, Kurokumo Clan Episode 1, Pre-Battle
+‘To Jimin, Do not utter a single word for five days.’
+‘To Rimi, Deliver a bacon pizza to Danny’s doorstep on 8th St. before 10 AM sharp on September 14th.’
+“ Ever heard of holdouts? When a Wing is broken, its Nest collapses and gradually turns into a slum akin to the Backstreets. ”
+“ I will carefully determine what guests to invite and write an invitation accordingly, and you will entertain the guests once they accept the invitation and arrive at the Library. ”
+“And now they’ve been trying to invade our territory, desperate to loot anything.”
+“And the Fixers at Clam Office that were cooperating with them from the back are gone, too…”
+“Bah… Every part of my body’s aching.”
+“Clam? What are they about?”
+“Doesn’t matter. Their names wouldn’t be so unmemorable if they were any strong. Taking ‘em down shouldn’t be a problem.”
+“Gotta agree with that. Beats having to worry about getting axed all the time…”
+“Heard our boss is gonna go out and talk to ‘em.”
+“Heard the Blade Lineage’s also got messed up… Got any news?”
+“How tight did the bonds between our fates have to be to lead us here… Sigh…”
+“I mean, both you and I are first timers, isn’t it reassuring to be with a familiar face?”
+“If boss is going alone… Won’t that be dangerous?”
+“Is that so… Thank you.”
+“I’ll change someday?” “That person will turn over a new leaf someday, if I count on them and wait?” Nyeh, tch.
+“Kingfishers? Don’t remember that name at all. Were they a real thing?”
+“N-no, I’m fine… I get it. This was rather sudden, and you’ll need some time to collect your thoughts.”
+“Not at all! When is this Julia person coming, anyway? Don’t tell me she got disappointed by your pathetic impression and went back already.”
+“Psst, Olga. Come closer. We don’t want anyone peeping at us, so stick right next to me. And stay quiet!”
+“Rumor says he went on to join the Musicians of Bremen…”
+“Section 3 feels empty these days.”
+“She’s not coming in because she’s intimidated by your facial expression.”
+“Shut up, shut the hell up…!”
+“Sorry. I get how you feel, but I’ll need more time to think about this.”
+“Thanks for understanding. You know, you’re a very caring person. I guess gramps picked the right rookie to hire.”
+“That’s a good point.”
+“The Knots seemed to be after them… Maybe they finally hit ‘em.”
+“The other side’s also only sending their top dog or whatevs… No need to worry about the boss.”
+“They were irrelevant chumps, so I completely forgot about ‘em.”
+“Weaklings will get hounded.”
+“When one person’s pure ambition and another’s tragic obsession join together, a dream is destined to be born.”
+“You gave a fine speech, but I must wonder if you’re truly upset for the sake of Salvador and your other late colleagues.”
+“You hear that news? We’re about to collide with Kingfishers again.”
+“You’re the noisiest one here and you already stick out like a sore thumb, so just say it already.”
+“…I’ll go prepare myself.”
+“…Um, are you feeling down?”
+“…”
+…I can’t blame the Association, so I only have myself to fault for failing to save my guys.
+얀샋ㄷ요무
+얀샋ㄷ요무 Chapter 3.1 1 Book of Gloria
+얀샋ㄷ요무’s Page
 🎯 GOAL:
 🏢 Wings (13 Wings × ~15) 195 ~45 ~23%
 💭 Internal Monologue / Philosophy 100 ~50 ~50%
