@@ -1,0 +1,26 @@
+On Agent Panic:
+It appears [Agent]’s mental state is unstable.
+[Agent] is wandering about, aimlessly searching for the sanity which they have lost.
+On Agent Death:
+A new employee shall come and replace anew the now deceased [Agent]. The cycle continues.
+There is no need to suffer harshly for the loss of [Agent].
+On Breach:
+[Abnormality] has escaped. I do not wish to see you suffer for the death of your employees.
+Death follows the trails of [Abnormality]’s escape. Please be careful.
+Team Wiped Out:
+That’s okay. If there is another chance for you, use this failure and loss as a stepping stone to do better next time.
+There’s no need to cling to them. Now then, let’s try again next time.
+Meeting - Cutscene 1
+Hokma then asks A of what he thinks about the department, painted laboriously with white plaster. He then mentions how he knew he'd come there soon. As a welcoming gift, he settled the memory of A with B from the past, revealing that Hokma is B but seemingly quite older in appearance, aging not due to time, but due to the loss of everything he loved. He comforts A that he shouldn't blame himself, as the times he spent with A were the brightest moments of his life. He then mentions that the only thing he regrets to this day was how he was too scared, running away and breaking his promise of staying with A until the very end. But A found him, kept him there, thankful as it helps him fulfill his promise. He finishes the sentence by saying that A is just too kind to him, kind to the very end. After this, his first mission is handed.
+Hokma Portrait
+Cutscene 2
+Cutscene 3
+After finishing the second mission, Hokma appears once again by saying that A might believe he doesn't know what happens in the facility, but explaining that it is the other way: That A doesn't know. Pain, agony, regrets, and the shadow of the past- referring to the original employees of Lobotomy- that has spent time with A is no match to their time together, as they didn't know him. Those who couldn't accept their fate tried to escape, like an employee who broke himself whenever executing order "Redacted". Unnecessary emotions are unfavorable, said by Hokma.
+Hokma tells A about an employee called "Anya", who had her parents and a little sister. She wanted to study but her parents financial state wasn't enough, and when she tried to join the Wings, but she wasn't good enough either. Then she received a mail from Lobotomy Corporation, where she was accepted. Anya thought it was a prank or someone had messed with the letters, but then realized she never applied for Lobotomy Corporation. It wasn't important, as she accepted anyway. The courier of those letters was Hokma, granting their wish after evaluating them. Although it wasn't the skill of Anya, she had a trait that other people couldn't see. To join a Wing and become a feather, is required to be better than ordinary people. How could Anya join their company without skill, graduating from school and leaving in the Backstreets out of the Nest? It happened 10 years ago. Her sister died from a disease and the parents passed away. Anya is now 'sleeping' in the Department, and this time, he grants authority to A to wake her up, as the scene gains a green electronic filter. After selecting the option 'Load', Hokma says that Anya is now awake and working, like 10 years have not passed since her death. Then, he tells A to erase her. Selecting the option 'Erase' will change the scene back to normal without the filter, but with a low scream in the background. Hokma asks A how he feels afterwards. The Anya who was killed by a 'monster' and the one who he erased were the same, adding that it is such a futile action to wake them up and erase them in a repeated cycle. The attachment of the Sephirah to employees is meaningless, as everything in the facility is paused, as they wait for morning with their eyes closed every night. They crumbled and blamed A for it, and Hokma tells him that he will never do that, as he wants to be an important part of A's life. Then, the third mission is added.
+Cutscene 4
+Finishing the third mission, A will face Angela in a black background, who assigned the upper and middle level Sephirah. But she says it might not be the last time she does it and will repeat it countless times, but 'he' will be different. He knows why this facility exists and what their mission is. She hopes he doesn't exhaust her and will not come down there unless the circumstances call for it, adding that she will neither watch nor interfere with whatever may happen. She hopes they won't see each other very often, as they will only hurt each other.
+Relationships
+X (Player) / A
+Hokma is very fond of A, as they passed their past lives together while working in the company before they went apart. He takes the time to explain to him about how the facility works and reassuring that he will always help him.
+Angela
+Not directly linked during the scenes or shown talking with each other, Hokma's opinion of Angela is clear of the machine made of grief over Carmen's death. He is displeased over the creation made by A to be an imitation of her.
