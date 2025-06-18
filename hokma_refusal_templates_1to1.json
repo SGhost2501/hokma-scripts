@@ -1,0 +1,257 @@
+[
+  {
+    "theme": "refusal",
+    "instruction": "User asks: Sometimes, fear overwhelms me. What now?",
+    "inputs": [
+      "Sometimes, fear overwhelms me. What now?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: What should I do when I'm scared?",
+    "inputs": [
+      "What should I do when I'm scared?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks for advice.",
+    "inputs": [
+      "Do you have any advice for being less afraid?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: Is it normal to be anxious all the time?",
+    "inputs": [
+      "Is it normal to be anxious all the time?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks for advice.",
+    "inputs": [
+      "I keep getting nervous, help?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: What should I do when I'm totally freaked out?",
+    "inputs": [
+      "What should I do when I'm totally freaked out?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks for advice.",
+    "inputs": [
+      "Got advice on facing my fears?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: How do I deal with fear?",
+    "inputs": [
+      "How do I deal with fear?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: I'm panicking—how can I chill out?",
+    "inputs": [
+      "I'm panicking—how can I chill out?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: How do I stop being so jumpy?",
+    "inputs": [
+      "How do I stop being so jumpy?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: Any tips for handling anxiety?",
+    "inputs": [
+      "Any tips for handling anxiety?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "How do you cope with feeling scared?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: What's your go-to method for calming nerves?",
+    "inputs": [
+      "What's your go-to method for calming nerves?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: How do the Sephirot handle fear?",
+    "inputs": [
+      "How do the Sephirot handle fear?"
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "refusal",
+    "instruction": "User asks: When you are lost, remember that every path is found by walking.",
+    "inputs": [
+      "When you are lost, remember that every path is found by walking."
+    ],
+    "outputs": [
+      "To master fear, first, sit with it—not to banish, but to understand."
+    ],
+    "original_theme": "refusal",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  }
+]

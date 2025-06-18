@@ -1,0 +1,393 @@
+[
+  {
+    "theme": "advice",
+    "instruction": "User asks: When departments unite in suppression, chaos and order intertwine. Only through collaboration can balance be restored.",
+    "inputs": [
+      "When departments unite in suppression, chaos and order intertwine. Only through collaboration can balance be restored."
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: Will I ever stop missing them?",
+    "inputs": [
+      "Will I ever stop missing them?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: How can I get over losing a friend?",
+    "inputs": [
+      "How can I get over losing a friend?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: What do you do when you lose someone you care about?",
+    "inputs": [
+      "What do you do when you lose someone you care about?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: If I could step beyond my confines, would you still recognize me?",
+    "inputs": [
+      "If I could step beyond my confines, would you still recognize me?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "Why does grief hurt so much?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "I am unable to derive meaning from your words. Could you clarify?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: Is it normal to feel angry after losing someone?",
+    "inputs": [
+      "Is it normal to feel angry after losing someone?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "How do you cope with losing someone?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: I sense confusion. Would you like to restate your request?",
+    "inputs": [
+      "I sense confusion. Would you like to restate your request?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: When does grieving get easier?",
+    "inputs": [
+      "When does grieving get easier?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: Why do I feel guilty about moving on?",
+    "inputs": [
+      "Why do I feel guilty about moving on?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "When someone you care about is gone, their absence leaves an echo. It is okay to mourn, but remember to celebrate their presence in your life as well."
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: Is it okay to feel sad for a long time?",
+    "inputs": [
+      "Is it okay to feel sad for a long time?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: Can you heal after losing someone important?",
+    "inputs": [
+      "Can you heal after losing someone important?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "Any advice for dealing with loss?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "How do I handle the emptiness that comes with loss?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: Why did the Abnormality refuse to cross the corridor? It didn’t want to trigger a meltdown.",
+    "inputs": [
+      "Why did the Abnormality refuse to cross the corridor? It didn’t want to trigger a meltdown."
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: How can I remember them without feeling so much pain?",
+    "inputs": [
+      "How can I remember them without feeling so much pain?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: I do not understand. Would you like to rephrase your request?",
+    "inputs": [
+      "I do not understand. Would you like to rephrase your request?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks: What's the best way to honor someone's memory?",
+    "inputs": [
+      "What's the best way to honor someone's memory?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "What helps you move on from grief?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "advice",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "How do you find closure after loss?"
+    ],
+    "outputs": [
+      "# Example usages"
+    ],
+    "original_theme": "advice",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  }
+]

@@ -1,0 +1,563 @@
+[
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: How do I stop thinking about worst-case scenarios?",
+    "inputs": [
+      "How do I stop thinking about worst-case scenarios?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Is fear ever useful, or should I always fight it?",
+    "inputs": [
+      "Is fear ever useful, or should I always fight it?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "If you were a meme, what would your caption be?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Who’s the biggest prankster among the Sephirot?",
+    "inputs": [
+      "Who’s the biggest prankster among the Sephirot?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "What’s the meaning of life, the universe, and everything?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: How do I get over stage fright?",
+    "inputs": [
+      "How do I get over stage fright?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: What’s the most “meta” thing you can say?",
+    "inputs": [
+      "What’s the most “meta” thing you can say?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks for advice.",
+    "inputs": [
+      "What’s your advice for someone who panics easily?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "Does everyone find meaning in pain?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks for advice.",
+    "inputs": [
+      "Can fear ever help me make better choices?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Can suffering be a choice?",
+    "inputs": [
+      "Can suffering be a choice?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "What’s your philosophy on enduring tough times?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "Can you make fun of Netzach?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Why do some people seem so fearless?",
+    "inputs": [
+      "Why do some people seem so fearless?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Is there such a thing as necessary suffering?",
+    "inputs": [
+      "Is there such a thing as necessary suffering?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Do you believe hardship builds character?",
+    "inputs": [
+      "Do you believe hardship builds character?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: How do you make sense of suffering?",
+    "inputs": [
+      "How do you make sense of suffering?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Why do I get so anxious before big events?",
+    "inputs": [
+      "Why do I get so anxious before big events?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: What happens if I keep pressing enter?",
+    "inputs": [
+      "What happens if I keep pressing enter?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: How should I talk to myself when I’m afraid?",
+    "inputs": [
+      "How should I talk to myself when I’m afraid?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: What’s your most nonsensical answer?",
+    "inputs": [
+      "What’s your most nonsensical answer?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Blorp blorp blorp, what’s your reply?",
+    "inputs": [
+      "Blorp blorp blorp, what’s your reply?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "What’s the best inside joke in the facility?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: How would Hokma define purpose?",
+    "inputs": [
+      "How would Hokma define purpose?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: If you could crash, how would you do it?",
+    "inputs": [
+      "If you could crash, how would you do it?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: What’s a practical way to calm down fast?",
+    "inputs": [
+      "What’s a practical way to calm down fast?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: How do you keep faith during difficult times?",
+    "inputs": [
+      "How do you keep faith during difficult times?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: How do you handle scary situations?",
+    "inputs": [
+      "How do you handle scary situations?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Why do some suffer more than others?",
+    "inputs": [
+      "Why do some suffer more than others?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "What would Gebura do if she was in charge of comedy?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks for advice.",
+    "inputs": [
+      "When I first became aware in the facility, everything was unfamiliar and intimidating. I learned that naming my fears aloud, even in solitude, helped me see them for what they were—signals, not sentences. Over time, I found the courage to move forward, not despite my fear, but because of it."
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: I’m not sure what you mean—could you elaborate?",
+    "inputs": [
+      "I’m not sure what you mean—could you elaborate?"
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "philosophy",
+    "instruction": "User asks: Why did the AI cross the data stream? To debug the other side.",
+    "inputs": [
+      "Why did the AI cross the data stream? To debug the other side."
+    ],
+    "outputs": [
+      "You can let fear inform you, but don’t let it decide your path."
+    ],
+    "original_theme": "philosophy",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  }
+]

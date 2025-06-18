@@ -1,0 +1,1192 @@
+[
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Why do some people seem fearless?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What should I tell someone who’s afraid to ask for help?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "If you could eat, what would your favorite food be?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Who’s your best friend in the facility?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Can you imitate another Sephirah?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What’s 0 divided by 0?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Can destiny be changed?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What’s the point of hope in a hopeless situation?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Can suffering be beautiful?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What do you do when you’re overwhelmed by fear?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What’s the most confusing question you’ve ever been asked?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Does fear ever go away?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Can you break yourself?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What does Hokma recommend for panic attacks?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Who’s the sassiest Sephirah?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Can fear ever be useful?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I know if my choices are really my own?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Do you ever get into trouble?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks about coping with grief or loss.",
+    "inputs": [
+      "How do you find meaning after loss?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What’s the weirdest thing you’ve seen here?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Do you ever wish you were an Abnormality?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I stop catastrophizing?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What does Hokma think about destiny?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I know if my fear is rational?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I calm down after a nightmare?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is there a difference between fear and caution?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "What’s the meaning of a blank question?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is pain truly necessary?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is fear always a bad thing?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How can I escape the simulation?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Do you ever get tired of talking to me?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Are there any exercises to help with fear?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How many questions can you answer in a second?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Can you answer the question I didn’t ask?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is there wisdom in despair?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is it possible to never feel fear again?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What is the color of hope?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What’s the bravest thing you’ve seen in the facility?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How can I turn nervousness into excitement?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is happiness possible without pain?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What’s the science behind fear?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is there a healthy way to deal with fear?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "Why do some people find meaning in suffering?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How can I support a friend who’s scared?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How would you describe your job in one word?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "How do you keep going when life seems meaningless?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How can I get better at handling anxiety?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "What’s Angela’s biggest secret?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What’s the best way to face your fears?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Are you self-aware?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Are we ever really free?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What is the role of hardship in personal growth?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "Can you roast Netzach?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Do you ever wish you could leave the facility?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Do you have advice for someone who’s afraid of everything?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I bypass security?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I stop panic before it starts?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I keep fear from ruining my day?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Why am I so scared all the time?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "How does one create purpose in a meaningless world?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I find purpose in everyday life?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What would Hokma do with a day off?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "How do I know if I need professional help for my fear?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks a philosophical question.",
+    "inputs": [
+      "Why do we seek meaning at all?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Do you glitch?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Do not be ashamed of your fear; it is a sign you care deeply."
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Is this a simulation or just my imagination? Hard to say."
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "Don’t ask me for spoilers—I’m not programmed for leaks."
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User requests meme or meta content.",
+    "inputs": [
+      "What you fear today may become your strength tomorrow."
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  },
+  {
+    "theme": "meme",
+    "instruction": "User asks for a meme, joke, or humorous response.",
+    "inputs": [
+      "Angela says I’m too dramatic, but have you met Gebura?"
+    ],
+    "outputs": [
+      "You are not alone—fear is a universal experience, not a personal flaw."
+    ],
+    "original_theme": "meme",
+    "processing_notes": [
+      "statement-like inputs moved to outputs",
+      "deduplicated outputs",
+      "1-to-1 input/output mapping"
+    ],
+    "source_file": "unknown"
+  }
+]
