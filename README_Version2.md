@@ -19,6 +19,10 @@ This toolkit processes, cleans, audits, and refines LLM prompt/response template
 - **Purpose:** Deduplicates lines, classifies themes, and outputs `hokma_corpus_final.jsonl` with `reviewed`, `source_file`, and `created_at` metadata.
   Afterwards run `audit_hokma_corpus_final.py` to check for duplicates and short entries.
 
+### 0.7 Run Full Corpus Pipeline
+- **Script:** `hokma_pipeline.py`
+- **Purpose:** Executes cleaning, input diversification, long-output splitting, balancing, and packaging with README generation in one command.
+
 ### 1. Merge Raw Text Files
 
 - **Script:** `merge_hokmaballs_to_json.py`
@@ -117,6 +121,7 @@ python refine_hokma_templates_advanced.py
 - `hokma_templates_refined.json` – Deduplicated, split, and metadata-rich dataset.
 - `hokma_advice_templates_1to1.json` and similar – Strict 1-to-1, per-theme datasets (final).
 - `hokma_templates_final_1to1.json` – Full final, 1-to-1 dataset.
+- `hokma_corpus_balanced.jsonl` – Balanced and packaged dataset (see `README_CLEANED.md`).
 
 ---
 
