@@ -1,0 +1,20 @@
+name: Auto Archive on Main Merge
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  codex_auto_archive:
+    runs-on: ubuntu-latest
+    env:
+      CODEX_API_KEY: ${{ secrets.KEY }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run archive script
+        run: |
+          python scripts/archive_to_codex.py --source . --message "Auto archive after merge to main"
